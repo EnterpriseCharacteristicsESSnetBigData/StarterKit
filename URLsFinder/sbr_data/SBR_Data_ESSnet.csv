@@ -1,0 +1,205 @@
+ID;Name;URL;Phone;Email;Address;Populated place
+000695146;National Statistical Institute;https://www.nsi.bg;(+359 2) 9857 111;info@nsi.bg;"2, P. Volov Str.;1038 Sofia, Bulgaria";Sofia
+000000000;National Statistical Institute;;(+359 2) 9857 111;info@nsi.bg;"2, P. Volov Str.;1038 Sofia, Bulgaria";Sofia
+000000001;STATISTIK AUSTRIA;http://www.statistik.at;+43 (1) 711 28-0;info@statistik.gv.at;"Österreich Guglgasse 13 1110 Wien";Wien
+000000002;STATISTIK AUSTRIA;;+43 (1) 711 28-0;info@statistik.gv.at;"Österreich Guglgasse 13 1110 Wien";Wien
+000000003;STATISTIK AUSTRIA;;+43 (1) 711 28-0;;"Österreich Guglgasse 13 1110 Wien";Wien
+000000004;STATISTIK AUSTRIA;;;info@statistik.gv.at;"Österreich Guglgasse 13 1110 Wien";Wien
+000000005;STATISTIK AUSTRIA;;;;"Österreich Guglgasse 13 1110 Wien";Wien
+000000006;Institute of Statistics;http://www.instat.gov.al;+355 (4) 2233356;info@instat.gov.al;"St. Vllazën Huta, Building 35, Entrance 1;Tirana 1017";Tirana
+000000007;Institute of Statistics;;+355 (4) 2233356;info@instat.gov.al;"St. Vllazën Huta, Building 35, Entrance 1;Tirana 1017";Tirana
+000000008;Institute of Statistics;http://www.instat.gov.al;;info@instat.gov.al;"St. Vllazën Huta, Building 35, Entrance 1;Tirana 1017";Tirana
+000000009;Institute of Statistics;http://www.instat.gov.al;+355 (4) 2233356;info@instat.gov.al;;Tirana
+000000010;Institute of Statistics;;;info@instat.gov.al;"St. Vllazën Huta, Building 35, Entrance 1;Tirana 1017";
+000000011;Departament d´Estadística;https://www.estadistica.ad/serveiestudis/web/index.asp;(376) 88 54 45;estadistica@govern.ad;"Carrer de les Boïgues, 2, 3a planta;AD700 Escaldes Engordany";Escaldes-Engordany
+000000012;Departament d´Estadística;https://www.estadistica.ad/serveiestudis/web/index.asp;(376) 88 54 45;estadistica@govern.ad;;Escaldes-Engordany
+000000013;Departament d´Estadística;;(376) 88 54 45;estadistica@govern.ad;"Carrer de les Boïgues, 2, 3a planta;AD700 Escaldes Engordany";Escaldes-Engordany
+000000014;Departament d´Estadística;https://www.estadistica.ad/serveiestudis/web/index.asp;;estadistica@govern.ad;"Carrer de les Boïgues, 2, 3a planta;AD700 Escaldes Engordany";Escaldes-Engordany
+000000015;Departament d´Estadística;https://www.estadistica.ad/serveiestudis/web/index.asp;(376) 88 54 45;;"Carrer de les Boïgues, 2, 3a planta;AD700 Escaldes Engordany";Escaldes-Engordany
+000000016;Departament d´Estadística;https://www.estadistica.ad/serveiestudis/web/index.asp;(376) 88 54 45;estadistica@govern.ad;"Carrer de les Boïgues, 2, 3a planta;AD700 Escaldes Engordany";
+000000017;National Statistical Committee of the Republic of Belarus;https://www.belstat.gov.by;+375 17 367-52-00;belstat@belstat.gov.by;"12, Partizansky avenue;220070 Minsk";Belarus
+000000019;National Statistical Committee of the Republic of Belarus;;+375 17 367-52-00;;;Belarus
+000000020;Statistics Belgium;https://statbel.fgov.be;+32 (0)2 277.65.05;statpress@economie.fgov.be;"North Gate - Boulevard du Roi Albert II, 16;1000 Brussels";Brussels
+000000021;Statistics Belgium;https://statbel.fgov.be;+32 (0)499 18 43 43;statpress@economie.fgov.be;"North Gate - Boulevard du Roi Albert II, 16;1000 Brussels";Brussels
+000000022;Statistics Belgium;https://statbel.fgov.be;;statpress@economie.fgov.be;"North Gate - Boulevard du Roi Albert II, 16;1000 Brussels";Brussels
+000000023;Statistics Belgium;;+32 (0)499 18 43 43;statpress@economie.fgov.be;;Brussels
+000000024;Statistisches Bundesamt;https://www.destatis.de;;;"Gustav-Stresemann-Ring 11;65189 Wiesbaden";Wiesbaden
+000000025;Federal Statistical Office;https://www.destatis.de;;;"Gustav-Stresemann-Ring 11;65189 Wiesbaden";Wiesbaden
+000000026;Federal Statistical Office;https://www.destatis.de;;;"Gustav-Stresemann-Ring 11;65189 Wiesbaden";Wiesbaden
+000000027;Statistisches Bundesam;https://www.destatis.de;;;;Wiesbaden
+000000028;Government of Gibraltar;https://www.gibraltar.gov.gi;(+350) 20075515;statistics@gibraltar.gov.gi;"Suite 3.22 World Trade Center 6 Bayside Road;GX11 1AA Gibraltar";Gibraltar
+000000029;Statistics Office;;(+350) 20075515;statistics@gibraltar.gov.gi;"Suite 3.22 World Trade Center 6 Bayside Road;GX11 1AA Gibraltar";Gibraltar
+000000028;Statistics Office;https://www.gibraltar.gov.gi;(+350) 20075490;;;Gibraltar
+000000030;Government of Gibraltar;https://www.gibraltar.gov.gi;(+350) 20075490;statistics@gibraltar.gov.gi;"Suite 3.22 World Trade Center 6 Bayside Road;GX11 1AA Gibraltar";Gibraltar
+000000031;Statistics Greenland;http://www.stat.gl/;+299 34 57 70;stat@stat.gl;"Intaleeqqap Aqqutaa 1;P.O. Box 1025;DK-3900 Nuuk, Greenland";Nuuk
+000000032;Statistics Greenland;http://www.stat.gl/;+299 34 57 70;stat@stat.gl;;Nuuk
+000000033;Statistics Greenland;;+299 34 57 70;stat@stat.gl;"Intaleeqqap Aqqutaa 1;P.O. Box 1025";Nuuk
+000000034;Hellenic Statistical Authority;https://www.statistics.gr;213 135 2000;;"46 Pireos St. Eponiton St. 185 10";Piraeus
+000000035;National Statistical Service;https://www.statistics.gr;213 135 2000;;;Piraeus
+000000036;Hellenic Statistical Authority;;213 135 2000;;"46 Pireos St. Eponiton St. 185 10";Piraeus
+000000037;Statistics Denmark;https://www.dst.dk;+45 39 17 39 17;dst@dst.dk;"Sejrøgade 11 DK-2100 Copenhagen";Copenhagen
+000000038;Statistics Denmark;;+45 39 17 39 17;dst@dst.dk;"Sejrøgade 11 DK-2100 Copenhagen";Copenhagen
+000000039;Statistics Denmark;;+45 39 17 39 17;;"Sejrøgade 11 DK-2100 Copenhagen";Copenhagen
+000000040;Statistics Denmark;https://www.dst.dk;;;;Copenhagen
+000000041;Statistics Estonia;https://www.stat.ee;+372 625 9300;stat@stat.ee;"Tatari 51, 10134 Tallinn";Tallinn
+000000042;Statistics Estonia;;;stat@stat.ee;"Tatari 51, 10134 Tallinn";Tallinn
+000000043;Statistics Estonia;https://www.stat.ee;;stat@stat.ee;;Tallinn
+000000044;Central Statistics Office;https://www.cso.ie;(+353) 21 453 5000;information@cso.ie;"Skehard Road, Cork T12 X00E, Ireland";Cork
+000000045;Central Statistics Office;;(+353) 21 453 5000;;"Skehard Road, Cork T12 X00E, Ireland";Cork 
+000000046;Central Statistics Office;https://www.cso.ie;;information@cso.ie;;Cork 
+000000047;Statistics Iceland;https://statice.is/;+354 528 1000;information@statice.is;"Borgartún 21A, 105 Reykjavík";Reykjavík
+000000048;Statistics Iceland;https://hagstofa.is/;+354 528 1000;information@statice.is;"Borgartún 21A, 105 Reykjavík";Reykjavík
+000000049;Statistics Iceland;;;information@statice.is;"Borgartún 21A, 105 Reykjavík";Reykjavík
+000000050;Statistics Iceland;;;upplysingar@hagstofa.is;"Borgartún 21A, 105 Reykjavík";Reykjavík
+000000051;Instituto Nacional de Estadistica;https://www.ine.es;91 583 91 00;;"Paseo de la Castellana, 183;28071 - Madrid";Madrid
+000000052;Instituto Nacional de Estadistica;;91 583 91 00;;;Madrid
+000000053;Instituto Nacional de Estadistica;https://www.ine.es;91 583 91 00;;;Madrid
+000000054;Instituto Nacional de Estadistica;;;;"Paseo de la Castellana, 183;28071 - Madrid";Madrid
+000000055;Italian National Institute of Statistics;https://www.istat.it;+39 06 4673.1;;"Via Cesare Balbo, 16 – 00184 Rome, Italy";Rome
+000000056;Italian National Institute of Statistics;;+39 06 4673.1;;"Via Cesare Balbo, 16 – 00184 Rome, Italy";Rome
+000000057;Istat – Istituto nazionale di statistica;https://www.istat.it;+39 06 4673.1;;"Via Cesare Balbo, 16 – 00184 Rome, Italy";Rome
+000000058;Istat – Istituto nazionale di statistica;;+39 06 4673.1;;"Via Cesare Balbo, 16 – 00184 Rome, Italy";Rome
+000000060;Statistical Service;http://www.cystat.gov.cy;+357 22661313;enquiries@cystat.mof.gov.cy;"Michael Karaolis Str. 1444 Nicosia CYPRUS";CYPRUS
+000000061;Statistical Service;;+357 22661313;;"Michael Karaolis Str. 1444 Nicosia CYPRUS";CYPRUS
+000000062;Statistical Service;;+357 22661313;enquiries@cystat.mof.gov.cy;;CYPRUS
+000000063;Kosovo Agency of Statistics;https://ask.rks-gov.net;(+381) 038 200 31 129;infoask@rks-gov.net;"St. Zenel Salihu nr.4 10 000";Pristina
+000000064;Kosovo Agency of Statistics;;(+381) 038 200 31 129;infoask@rks-gov.net;"St. Zenel Salihu nr.4 10 000";Pristina
+000000065;Agency of Statistics;https://ask.rks-gov.net;(+381) 038 200 31 129;infoask@rks-gov.net;"St. Zenel Salihu nr.4 10 000";Pristina
+000000066;Agency of Statistics;;(+381) 038 200 31 129;infoask@rks-gov.net;"St. Zenel Salihu nr.4 10 000";Pristina
+000000067;Central Statistical Bureau;https://www.csb.gov.lv;+371 67366922;info@csb.gov.lv;"Lāčplēša iela 1, Rīga, LV -1301";Rīga
+000000068;Central Statistical Bureau;https://www.csb.gov.lv;+37167366850;info@csb.gov.lv;"Lāčplēša iela 1, Rīga, LV -1301";Rīga
+000000069;Central Statistical Bureau;;+37167366850;info@csb.gov.lv;"Lāčplēša iela 1, Rīga, LV -1301";Rīga
+000000070;Central Statistical Bureau;;+371 67366922;info@csb.gov.lv;"Lāčplēša iela 1, Rīga, LV -1301";Rīga
+000000071;Central Statistical Bureau of Latvia;https://www.csb.gov.lv;;info@csb.gov.lv;"Lāčplēša iela 1, Rīga, LV -1301";Rīga
+000000072;Statistics Lithuania;https://www.stat.gov.lt;+370 5 236 4800;statistika@stat.gov.lt;"Gedimino Ave 29, LT-01500 Vilnius, Lithuania";Lithuania
+000000073;Statistics Lithuania;;+370 5 236 4800;statistika@stat.gov.lt;"Gedimino Ave 29, LT-01500 Vilnius, Lithuania";Lithuania
+000000074;Statistics Lithuania;https://www.stat.gov.lt;;;"Gedimino Ave 29, LT-01500 Vilnius, Lithuania";Lithuania
+000000076;Office of Statistics;https://www.llv.li;+423 236 68 76;info.as@llv.li;"Äulestrasse 51;Postfach 684;9490 Vaduz";Vaduz
+000000077;Office of Statistics;;+423 236 68 76;info.as@llv.li;;Vaduz
+000000078;Office of Statistics;;+423 236 68 76;;"Äulestrasse 51;Postfach 684;9490 Vaduz";Vaduz
+000000079;National Institute of Statistics and Economic Studies;https://statistiques.public.lu;(+352) 247-84219;info@statistiques.public.lu;"B.P. 304;L-2013 Luxembourg;Grand Duchy of Luxembourg";Luxembourg
+000000080;National Institute of Statistics and Economic Studies;;(+352) 247-84219;info@statistiques.public.lu;"B.P. 304;L-2013 Luxembourg;Grand Duchy of Luxembourg";Luxembourg
+000000081;National Institute of Statistics and Economic Studies;;(+352) 247-84219;;"B.P. 304;L-2013 Luxembourg;Grand Duchy of Luxembourg";Luxembourg
+000000082;National Statistics Office;https://nso.gov.mt;25997000​;nso@gov.mt;"Lascaris, Valletta;Malta VLT2000";Valletta
+000000083;National Statistics Office;;25997000​;nso@gov.mt;"Lascaris, Valletta;Malta VLT2000";Valletta
+000000084;National Statistics Office;https://nso.gov.mt;​;;"Lascaris, Valletta;Malta VLT2000";Valletta
+000000085;National Statistics Office;https://nso.gov.mt;;;;Valletta
+000000086;National Bureau of Statistics;https://statistica.gov.md;022 40 30 00;moldstat@statistica.gov.md;"106 Grenoble Str., MD-2019 Chisinau, Republic of Moldova";Chisinau
+000000087;National Bureau of Statistics;;022 40 30 00;moldstat@statistica.gov.md;"106 Grenoble Str., MD-2019 Chisinau, Republic of Moldova";Chisinau
+000000088;National Bureau of Statistics;;;moldstat@statistica.gov.md;"106 Grenoble Str., MD-2019 Chisinau, Republic of Moldova";Chisinau
+000000090;Monaco Statistics;https://www.monacostatistics.mc;(+377) 98 98 98 88;;"9 rue du Gabian 98000 Monaco";Monaco
+000000091;Monaco Statistics;;(+377) 98 98 98 88;;"9 rue du Gabian 98000 Monaco";Monaco
+000000092;Monaco Statistics;;(+377) 98 98 98 88;;;Monaco
+000000093;Statistics Netherlands;https://www.cbs.nl;+31 70 337 38 00;;" Henri Faasdreef 312	2492 JP The Hague, P.O. Box 24500";The Hague
+000000094;Statistics Netherlands;;+31 70 337 38 00;;" Henri Faasdreef 312	2492 JP The Hague, P.O. Box 24500";The Hague
+000000095;Statistics Netherlands;https://www.cbs.nl;+31 45 570 60 00;;" CBS-weg 11 6412 EX Heerlen, P.O. Box 4481";Heerlen
+000000096;Statistics Netherlands;;+31 45 570 60 00;;" CBS-weg 11 6412 EX Heerlen, P.O. Box 4481";Heerlen
+000000097;Statistics Norway;https://www.ssb.no;+47 62 88 50 00;ssb@ssb.no;"Akersveien 26 0177 Oslo";Oslo
+000000098;Statistics Norway;;+47 62 88 50 00;ssb@ssb.no;"Akersveien 26 0177 Oslo";Oslo
+000000099;Statistics Norway;https://www.ssb.no;+47 62 88 50 00;ssb@ssb.no;"Otervegen 23 2211 Kongsvinger";Kongsvinger
+000000100;Statistics Norway;;+47 62 88 50 00;ssb@ssb.no;"Otervegen 23 2211 Kongsvinger", Kongsvinger
+000000101;Statistics Norway;;;ssb@ssb.no;;Kongsvinger
+000000102;Statistics Norway;;;ssb@ssb.no;;Oslo
+000000103;Statistics Norway;;;ssb@ssb.no;;
+000000104;Office for National Statistics;https://www.ons.gov.uk;+ 44 (0)800 298 5313;surveyfeedback@ons.gov.uk;"Government Buildings Cardiff Road Newport South Wales NP10 8XG";Newport
+000000105;Office for National Statistics;;+ 44 (0)800 298 5313;surveyfeedback@ons.gov.uk;"Government Buildings Cardiff Road Newport South Wales NP10 8XG";Newport
+000000106;Office for National Statistics;https://www.ons.gov.uk;+ 44 (0)800 298 5313;;"Government Buildings Cardiff Road Newport South Wales NP10 8XG";Newport
+000000107;Office for National Statistics;;+ 44 (0)800 298 5313;surveyfeedback@ons.gov.uk;;Newport
+000000108;UK Statistics Authority;https://www.statisticsauthority.gov.uk/;0845 604 1857;;"Authority Enquiries UK Statistics Authority 1 Drummond Gate London SW1V 2QQ";London
+000000109;UK Statistics Authority;;0845 604 1857;;"Authority Enquiries UK Statistics Authority 1 Drummond Gate London SW1V 2QQ";London
+000000110;UK Statistics Authority;https://www.statisticsauthority.gov.uk/;0845 604 1857;;;London
+000000111;Statistics and Research Aland;https://www.asub.ax;+358 18 25490;;"Ålandsvägen 26, Mariehamn Pb 1187 AX-22111 MARIEHAMN";Mariehamn
+000000112;Statistics and Research Aland;;+358 18 25490;;"Ålandsvägen 26, Mariehamn Pb 1187 AX-22111 MARIEHAMN";Mariehamn
+000000113;Statistics and Research Aland;https://www.asub.ax;;;"Ålandsvägen 26, Mariehamn Pb 1187 AX-22111 MARIEHAMN";Mariehamn
+000000115;Statistics Poland;https://stat.gov.pl;+48 22 608 30 00;kancelariaogolnaGUS@stat.gov.pl;"Aleja Niepodległości 208 00-925 Warsaw";Warsaw
+000000116;Statistics Poland;;+48 22 608 30 00;kancelariaogolnaGUS@stat.gov.pl;"Aleja Niepodległości 208 00-925 Warsaw";Warsaw
+000000117;Statistics Poland;;+48 22 608 30 00;;"Aleja Niepodległości 208 00-925 Warsaw";
+000000118;STATISTICS PORTUGAL;https://www.ine.pt;+ 351 218 426 100;ine@ine.pt;"Av. António José de Almeida 1000-043 LISBOA";LISBOA
+000000119;STATISTICS PORTUGAL;;+ 351 218 426 100;ine@ine.pt;"Av. António José de Almeida 1000-043 LISBOA";LISBOA
+000000120;STATISTICS PORTUGAL;https://www.ine.pt;;;"Av. António José de Almeida 1000-043 LISBOA";LISBOA
+000000121;National Institute of Statistics;http://www.insse.ro;021.318.18.24;romstat@insse.ro;"16 Libertatii Bvd., Bucharest 5, Postal code 050706";Bucharest
+000000122;National Institute of Statistics;http://www.insse.ro;021.318.18.42;romstat@insse.ro;"16 Libertatii Bvd., Bucharest 5, Postal code 050706";Bucharest
+000000123;National Institute of Statistics;;021.318.18.42;romstat@insse.ro;"16 Libertatii Bvd., Bucharest 5, Postal code 050706";Bucharest
+000000124;National Institute of Statistics;;021.318.18.24;romstat@insse.ro;"16 Libertatii Bvd., Bucharest 5, Postal code 050706";Bucharest
+000000125;National Institute of Statistics;http://www.insse.ro;;romstat@insse.ro;"16 Libertatii Bvd., Bucharest 5, Postal code 050706";Bucharest
+000000126;National Institute of Statistics;http://www.insse.ro;;romstat@insse.ro;;Bucharest
+000000127;National Institute of Statistics;http://www.insse.ro;;romstat@insse.ro;;
+000000128;Federal State Statistics Service;https://www.gks.ru;+7 (495) 607–4677;stat@gks.ru;"39, Miasnitskaya St., bldg. 1, 107450, Moscow, Russia";Moscow
+000000129;Federal State Statistics Service;;+7 (495) 607–4677;stat@gks.ru;"39, Miasnitskaya St., bldg. 1, 107450, Moscow, Russia";Moscow
+000000130;Federal State Statistics Service;;;stat@gks.ru;"39, Miasnitskaya St., bldg. 1, 107450, Moscow, Russia";Moscow
+000000131;Federal State Statistics Service;https://eng.gks.ru;8 (495) 607-4902;stat@gks.ru;"39, Miasnitskaya St., bldg. 1, 107450, Moscow, Russia";Moscow
+000000132;Federal State Statistics Service;;8 (495) 607-4902;stat@gks.ru;"39, Miasnitskaya St., bldg. 1, 107450, Moscow, Russia";Moscow
+000000133;Federal State Statistics Service;;;stat@gks.ru;"39, Miasnitskaya St., bldg. 1, 107450, Moscow, Russia";Moscow
+000000134;Office of Economic Planning, Data Processing and Statistics;http://www.statistica.sm;(+378) 0549 885150;;"Via XXVIII Luglio, 192 - 47893 Borgo Maggiore Rep. San Marino";Borgo Maggiore
+000000135;Office of Economic Planning, Data Processing and Statistics;;(+378) 0549 885150;;"Via XXVIII Luglio, 192 - 47893 Borgo Maggiore Rep. San Marino";Borgo Maggiore
+000000136;Office of Economic Planning, Data Processing and Statistics;http://www.statistica.sm;(+378) 0549 885150;;;Borgo Maggiore
+000000137;State Statistical office;http://www.stat.gov.mk;+389 2 3295 600;;"„Dame Gruev“ 4 - Skopje";Skopje
+000000138;State Statistical office;;+389 2 3295 600;;"„Dame Gruev“ 4 - Skopje";Skopje
+000000139;State Statistical office;;;;"„Dame Gruev“ 4 - Skopje";Skopje
+000000141;Statistical Office;https://slovak.statistics.sk;+421 2 50 236 222;info@statistics.sk;"Miletičova 3 824 67 Bratislava";Bratislava
+000000142;Statistical Office;;+421 2 50 236 222;info@statistics.sk;"Miletičova 3 824 67 Bratislava";Bratislava
+000000143;Statistical Office;;+421 2 50 236 222;;"Miletičova 3 824 67 Bratislava";Bratislava
+000000144;Statistical Office;https://slovak.statistics.sk;+421 2 50 236 339;info@statistics.sk;"Miletičova 3 824 67 Bratislava";Bratislava
+000000145;Statistical Office;;+421 2 50 236 339;info@statistics.sk;"Miletičova 3 824 67 Bratislava";Bratislava
+000000146;Statistical Office;;+421 2 50 236 339;;"Miletičova 3 824 67 Bratislava";Bratislava
+000000147;Statistical Office;https://slovak.statistics.sk;;info@statistics.sk;;
+000000148;Statistical Office of the Slovak Republic;https://slovak.statistics.sk;+421 2 50 236 339;info@statistics.sk;"Miletičova 3 824 67 Bratislava";Bratislava
+000000149;Statistical Office of the Slovak Republic;https://slovak.statistics.sk;+421 2 50 236 222;info@statistics.sk;"Miletičova 3 824 67 Bratislava";Bratislava
+000000150;Statistical Office;https://www.stat.si;+386 1 241 64 00;gp.surs@gov.si;"Litostrojska cesta 54, 1000 Ljubljana, Slovenija";Ljubljana
+000000151;Statistical Office of the Republic of Slovenia;https://www.stat.si;+386 1 241 64 00;gp.surs@gov.si;"Litostrojska cesta 54, 1000 Ljubljana, Slovenija";Ljubljana
+000000152;Statistical Office;;+386 1 241 64 00;gp.surs@gov.si;"Litostrojska cesta 54, 1000 Ljubljana, Slovenija";Ljubljana
+000000153;Statistical Office;https://www.stat.si;+386 1 241 64 00;;"Litostrojska cesta 54, 1000 Ljubljana, Slovenija";Ljubljana
+000000154;Statistical Office;https://www.stat.si;+386 1 241 64 00;gp.surs@gov.si;;
+000000155;Statistical Office of the Republic of Serbia;https://www.stat.gov.rs;+381 11 2412 922;;"11000 Belgrade, 5 Milana Rakica St.";Belgrade
+000000156;Statistical Office of the Republic of Serbia;;+381 11 2412 922;;"11000 Belgrade, 5 Milana Rakica St.";Belgrade
+000000157;Statistical Office of the Republic of Serbia;https://www.stat.gov.rs;;;;Belgrade
+000000158;Statistical Office;https://www.stat.gov.rs;+381 11 2412 922;;"11000 Belgrade, 5 Milana Rakica St.";Belgrade
+000000159;Statistical Office;;+381 11 2412 922;;"11000 Belgrade, 5 Milana Rakica St.";
+000000160;Statistical Office;https://www.stat.gov.rs;+381 11 2412 922;;;Belgrade
+000000161;Turkish Statistical Institute;http://www.turkstat.gov.tr;+90 312 454 70 00;info@tuik.gov.tr;"Devlet Mah.Necatibey Cad. No:114 06420 Çankaya/ANKARA";ANKARA
+000000162;Turkish Statistical Institute;;+90 312 454 70 00;info@tuik.gov.tr;"Devlet Mah.Necatibey Cad. No:114 06420 Çankaya/ANKARA";ANKARA
+000000163;Turkish Statistical Institute;http://www.turkstat.gov.tr;+90 312 454 70 00;;"Devlet Mah.Necatibey Cad. No:114 06420 Çankaya/ANKARA";
+000000165;State Statistics Service of Ukraine;http://www.ukrstat.gov.ua;287-24-33;office@ukrstat.gov.ua;"3, Shota Rustavely str.,Kyiv-23, 01601, Ukraine";Kyiv
+000000166;State Statistics Service of Ukraine;;287-24-33;office@ukrstat.gov.ua;"3, Shota Rustavely str.,Kyiv-23, 01601, Ukraine";Kyiv
+000000167;State Statistics Service;http://www.ukrstat.gov.ua;287-24-33;office@ukrstat.gov.ua;"3, Shota Rustavely str.,Kyiv-23, 01601, Ukraine";Kyiv
+000000168;State Statistics Service;;287-24-33;office@ukrstat.gov.ua;"3, Shota Rustavely str.,Kyiv-23, 01601, Ukraine";Kyiv
+000000169;State Statistics Service;;287-24-33;;"3, Shota Rustavely str.,Kyiv-23, 01601, Ukraine";Kyiv
+000000170;Hungarian Central Statistical Office;http://www.ksh.hu;(+36-1) 345-6000;;"1024 Budapest, Keleti Károly street 5–7";Budapest
+000000171;Hungarian Central Statistical Office;;(+36-1) 345-6000;;"1024 Budapest, Keleti Károly street 5–7";Budapest
+000000172;Hungarian Central Statistical Office;http://www.ksh.hu;(+36-1) 345-6000;;;
+000000173;Statistics Faroe Islands;https://hagstova.fo;+298 35 28 00;hagstova@hagstova.fo;"Ministry of Finance, Kviggjartun 1, P.O.Box  2039, FO-165 Argir, Faroe Islands";Argir
+000000174;Statistics Faroe Islands;;+298 35 28 00;hagstova@hagstova.fo;"Ministry of Finance, Kviggjartun 1, P.O.Box  2039, FO-165 Argir, Faroe Islands";Argir
+000000175;Statistics Faroe Islands;https://hagstova.fo;+298 35 28 00;;;Argir
+000000176;Statistics Finland;http://www.stat.fi;+358 29 551 1000;firstname.lastname@stat.fi;"Työpajankatu 13 FI-00580 Helsinki";Helsinki
+000000177;Statistics Finland;;+358 29 551 1000;firstname.lastname@stat.fi;"Työpajankatu 13 FI-00580 Helsinki";Helsinki
+000000178;Statistics Finland;http://www.stat.fi;+358 29 551 1000;;"Työpajankatu 13 FI-00580 Helsinki";Helsinki
+000000179;Statistics Finland;;;firstname.lastname@stat.fi;"Työpajankatu 13 FI-00580 Helsinki";
+000000180;Statistics Finland;http://www.stat.fi;;;;Helsinki
+000000182;National Institute of Statistics and Economic Studies;https://www.insee.fr;09 72 72 4000;;;Paris
+000000183;National Institute of Statistics and Economic Studies;;09 72 72 4000;;;Paris
+000000184;Croatian Bureau of Statistics;https://www.dzs.hr;(+385 1) 48 06 111;stat.info@dzs.hr;"Ilica 3 10000 Zagreb Republic of Croatia";Zagreb
+000000185;Croatian Bureau of Statistics;https://www.dzs.hr;(+385 1) 48 93 444;stat.info@dzs.hr;"Branimirova 19 10000 Zagreb Republic of Croatia";Zagreb
+000000186;Croatian Bureau of Statistics;https://www.dzs.hr;(+385 1) 48 06 138;stat.info@dzs.hr;"Branimirova 19 10000 Zagreb Republic of Croatia";Zagreb
+000000187;Croatian Bureau of Statistics;;(+385 1) 48 06 111;stat.info@dzs.hr;"Ilica 3 10000 Zagreb Republic of Croatia";Zagreb
+000000188;Croatian Bureau of Statistics;https://www.dzs.hr;;;"Ilica 3 10000 Zagreb Republic of Croatia";Zagreb
+000000189;Croatian Bureau of Statistics;https://www.dzs.hr;(+385 1) 48 06 111;stat.info@dzs.hr;;
+000000191;Statistical Office;http://www.monstat.org;+382 20/230-811;statistika@t-com.me;"IV Proleterske 2, 81000 Podgorica,Crna Gora";Podgorica
+000000192;Statistical Office;http://www.monstat.org;+382 20/230-811;contact@monstat.org;"IV Proleterske 2, 81000 Podgorica,Crna Gora";Podgorica
+000000193;Statistical office of Montenegro - MONSTAT;http://www.monstat.org;+382 20/230-811;statistika@t-com.me;"IV Proleterske 2, 81000 Podgorica,Crna Gora";Podgorica
+000000194;Statistical office of Montenegro - MONSTAT;http://www.monstat.org;+382 20/230-811;contact@monstat.org;"IV Proleterske 2, 81000 Podgorica,Crna Gora";Podgorica
+000000195;Statistical Office;;+382 20/230-811;statistika@t-com.me;"IV Proleterske 2, 81000 Podgorica,Crna Gora";Podgorica
+000000196;Statistical office of Montenegro - MONSTAT;;+382 20/230-811;;"IV Proleterske 2, 81000 Podgorica,Crna Gora";Podgorica
+000000197;Czech Statistical Office;https://www.czso.cz;+420 274 051 111;infoservis@czso.cz;"Na padesátém 3268/81 100 82 Praha 10 Czech Republic";Praha
+000000198;Czech Statistical Office;;+420 274 051 111;infoservis@czso.cz;"Na padesátém 3268/81 100 82 Praha 10 Czech Republic";Praha
+000000199;Czech Statistical Office;https://www.czso.cz;+420 274 051 111;;;Praha
+000000200;Czech Statistical Office;https://www.czso.cz;;infoservis@czso.cz;;
+000000201;Federal Statistical Office;https://www.bfs.admin.ch;+41 58 463 60 11;;"Espace de l'Europe 10 CH-2010 Neuchâtel Switzerland";Neuchâtel
+000000202;Federal Statistical Office;;+41 58 463 60 11;;"Espace de l'Europe 10 CH-2010 Neuchâtel Switzerland";Neuchâtel
+000000203;Federal Statistical Office;https://www.bfs.admin.ch;;;"Espace de l'Europe 10 CH-2010 Neuchâtel Switzerland";
+000000205;Statistics Sweden;https://www.scb.se;+46 10 479 40 00;scb@scb.se;"Karlavägen 100, Box 24300, SE-104 51 Stockholm";Stockholm
+000000206;Statistics Sweden;https://www.scb.se;+46 10 479 40 00;scb@scb.se;"Klostergatan 23, SE-701 89 Örebro";Örebro
+000000207;Statistics Sweden;;+46 10 479 40 00;scb@scb.se;"Karlavägen 100, Box 24300, SE-104 51 Stockholm";Stockholm
+000000208;Statistics Sweden;;+46 10 479 40 00;scb@scb.se;"Klostergatan 23, SE-701 89 Örebro";Örebro
+000000209;Statistics Sweden;https://www.scb.se;+46 10 479 40 00;scb@scb.se;;Stockholm
+000000210;Statistics Sweden;https://www.scb.se;+46 10 479 40 00;scb@scb.se;;Örebro
+000000211;Statistics Sweden;https://www.scb.se;;;"Karlavägen 100, Box 24300, SE-104 51 Stockholm";
