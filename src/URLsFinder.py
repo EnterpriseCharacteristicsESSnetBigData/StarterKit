@@ -1,3 +1,15 @@
+import pandas as pd
+import glob
+from bs4 import BeautifulSoup
+import requests
+import re
+import numpy as np
+import time
+from urllib.parse import unquote
+from urllib.parse import urlparse
+from tqdm import tqdm
+
+
 # class URLsFinder contains functions responsible to find URLs of Enterprises
 class URLsFinder:
     def __init__(self,startpath,startfile,csv_delimiter,csv_encoding,scrapepath,sapifile,toscrapefile,scrapefile,headers,blacklistpath,blacklistfile):

@@ -1,3 +1,13 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn import metrics
+import seaborn as sn
+
+import matplotlib.pyplot as plt
+plt.rcParams["figure.figsize"] = (5, 3) # (w, h)
+plt.rcParams["figure.dpi"] = 100
+
 class URLsFinderPrepare:
     def __init__(self,csv_delimiter,csv_encoding,scrapepath,scrapefile):
         self.csv_delimiter=csv_delimiter
@@ -62,7 +72,7 @@ class URLsFinderPrepare:
         plt.legend(loc="lower right")
         plt.savefig('Log_ROC')
         plt.show()
-    def prepareP(self,dflr,y_test, y_pred,X,logistic_regression):
+    def prepareP(self,dflr,X,logistic_regression):
         X = dflr[['Has Simple Suggested URL','Has Address','Has Email','Has ID','Has Name','Has Phone','Has Populated place','Has equal Email and URL Domains']]
         df_new=dflr[['ID','Name','Link position','Score','Suggested URL','URL']]
         df_new = pd.merge(df_new,pd.DataFrame(logistic_regression.predict(X)),how = 'left',left_index = True, right_index = True)
@@ -85,7 +95,7 @@ class URLsFinderPrepare:
         df_sug = df_sug.drop_duplicates(subset=['ID'],keep='first')
         df_sug=df_sug.sort_values(by=['ID'], ascending=[True])
         if not allURL:
-            df_sug['This is Logistic Regression Suggested URL'] = [x.split('/')[0]+'//'+x.split('/')[2] for x in df_sug['Suggested URL']]
+            df_sug['Logistic Regression Suggested URL'] = [x.split('/')[0]+'//'+x.split('/')[2] for x in df_sug['Suggested URL']]
             df_sug=df_sug.drop(['Link position', 'Suggested URL','URL','Score','predict',0,1], axis=1)
             df_sug = df_sug.reset_index(drop=True)
         return df_sug
