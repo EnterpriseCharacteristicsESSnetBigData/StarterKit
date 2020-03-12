@@ -3,7 +3,6 @@ import glob
 from bs4 import BeautifulSoup
 import requests
 import re
-import numpy as np
 import time
 from urllib.parse import unquote
 from urllib.parse import urlparse
@@ -65,6 +64,7 @@ class URLsFinder:
                 try:
                     page = requests.get(url, headers=self.headers, timeout=timeout)
                 except requests.ConnectionError:
+                    # Create a function for appending?
                     dfe=dfe.append({'ID':row['ID'],'Name':row['Name'],'URL':row['URL'],'Error':"Connection problems"
                     }, ignore_index=True)
                 except requests.HTTPError:
@@ -93,7 +93,9 @@ class URLsFinder:
                             topurls=bs.findAll('a',{'class':['result__a']})
                             for topurl in topurls:
                                 geturl=re.search('uddg=(.+)', topurl.get('href'))
-                                if geturl and i<getmax and unquote(geturl.group(1))[-4:].lower() not in ['.pdf','.xml','.jpg','.png','.gif','.zip','.rar','.mp4','.avi','.doc','.docx']:
+                                doc_types = ['.pdf','.xml','.jpg','.png','.gif','.zip','.rar','.mp4','.avi','.doc','.docx']
+                                # later on, you use a smaller number of doc_types. Why is that?
+                                if geturl and i<getmax and unquote(geturl.group(1))[-4:].lower() not in doc_types:
                                     vURL=0
                                     try:
                                         u1=urlparse(unquote(geturl.group(1)))
@@ -277,6 +279,9 @@ class URLsFinder:
                         'Link position':row['Link position'],'URL to scrape':row['URL to scrape'],'Error':"Generic exception"
                     }, ignore_index=True)
                 else:
+                    # This seems like something you could create with a loop.
+                    # You could define a list of feature names and a dict with the values of the features.
+                    # Then, changing the features becomes easy.
                     vID=0
                     vName=0
                     vPhone=0
@@ -297,6 +302,7 @@ class URLsFinder:
                             texts=re.sub(' +', ' ',texts.replace('\n', ' ').replace('\t', ' ').replace('\r', ' ').strip())
                             dfl=frame
                             dfs=dfl.loc[dfl['ID'] == row['ID']]
+                            # Seems like prime loop material
                             if re.search(re.escape(dfs['ID'].iloc[0]), texts, re.IGNORECASE):
                                 vID=1
                             if re.search(re.escape(dfs['Name'].iloc[0]), texts, re.IGNORECASE):
@@ -309,6 +315,7 @@ class URLsFinder:
                                 vAddress=1
                             if re.search(re.escape(dfs['Populated place'].iloc[0]), texts, re.IGNORECASE):
                                 vPopulatedplace=1
+                            # What happens with Email? Comment on what you're doing here would be nice
                             if re.search('@',dfs['Email'].iloc[0], re.IGNORECASE):
                                 if re.search(dfs['Email'].iloc[0].split("@",1)[1], row['Suggested URL'], re.IGNORECASE):
                                     vDomain=1
@@ -322,6 +329,7 @@ class URLsFinder:
                         'Status code': page.status_code,
                         'Has Simple Suggested URL':row['Has Simple Suggested URL'],
                         'Has equal domain':row['Has equal domain'],
+                        # up here could be done with a loop
                         'Has ID':vID,
                         'Has Name':vName,
                         'Has Phone':vPhone,
