@@ -45,10 +45,12 @@ These are the variables that URLs Finder modules uses:
 Directory structure:
 - Starter Kit
     - src \- source code
-    - URLsFinder \- example use (this folder)
+    - **URLsFinder** \- example of use (this folder)
         - black_list_urls \- directory where a csv file with blacklisted URLs is located
         - logs \- directory where event logging information is saved
         - sbr_data \- directory where a csv file with Enterprises information is located
         - scrape_data \- directory where a csv files with scraped Enterprises information are saved
 
 ## How to use
+
+The Jupyter Notebook file **URLs_Finder_Starte_Kit.ipynb** describes how to use the software.
