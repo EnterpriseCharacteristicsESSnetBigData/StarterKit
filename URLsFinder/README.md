@@ -4,7 +4,7 @@ Part of [Starter Kit](https://github.com/EnterpriseCharacteristicsESSnetBigData/
 
 ## Description
 
-URLs Finder is a [Python](https://www.python.org/) software for finding enterprises' urls from information in Statistical Business Registers by using web scraping and machine learning. It has tree modules:
+URLs Finder is a [Python](https://www.python.org/) software for finding enterprises' urls from information in Statistical Business Registers by using web scraping and machine learning. It uses tree modules:
 - URLsFinder \- defines methods for scraping information for the enterprises' urls from the internet with the help of search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 - URLsFinderPrepare \- defines methods for determine the enterprises' urls from the scraped information from the internet by using logistic regersion machine learning technic.
 - StarterKitLogging (optional to use) \- defines methods for storing log records for the others modules work.
