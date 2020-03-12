@@ -43,7 +43,7 @@ These are the variables that URLs Finder modules uses:
 ## Structure
 
 Directory structure:
-- Starter Kit
+- StarterKit
     - src \- source code
     - **URLsFinder** \- example of use (this folder)
         - black_list_urls \- directory where a csv file with blacklisted URLs is located
@@ -53,4 +53,4 @@ Directory structure:
 
 ## How to use
 
-The Jupyter Notebook file **URLs_Finder_Starte_Kit.ipynb** describes how to use the software.
+The Jupyter Notebook file **URLs_Finder_Starte_Kit.ipynb** in this directory describes how to use the software.
