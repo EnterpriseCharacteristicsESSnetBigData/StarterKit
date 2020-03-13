@@ -13,11 +13,15 @@ URLs Finder is a [Python](https://www.python.org/) software for finding enterpri
 
 - StarterKit
     - src \- source code
-    - **URLsFinder** \- example of use (this folder)
-        - black_list_urls \- directory where a csv file with blacklisted URLs is located
+    - **URLsFinder** \- an example of how to use the StarterKit for finding enterprises' urls (this folder)
+        - black_list_urls \- directory where an example CSV file with blacklisted URLs is located 
         - logs \- directory where event logging information is saved
-        - sbr_data \- directory where a csv file with Enterprises information is located
-        - scrape_data \- directory where a csv files with scraped Enterprises information are saved
+        - sbr_data \- directory where an example CSV file with Enterprises information is located (input data)
+        - scrape_data \- directory where example CSV files with scraped Enterprises information are saved (output data)
+    - URLsFinder \- an example of how to use the StarterKit for finding enterprises' urls
+    - SocialMediaProfiles \- ...
+    - ...
+        
 
 ## How to use
 
