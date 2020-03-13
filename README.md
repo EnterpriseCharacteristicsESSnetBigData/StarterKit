@@ -16,7 +16,7 @@ Starter Kit for Enterprise Characteristics is a [Python](https://www.python.org/
 
 - **StarterKit** (this folder)
     - src \- source code of the modules
-    - URLsFinder \- example of use for finding enterprises' urls
+    - URLsFinder \- an example of how to use the StarterKit for finding enterprises' urls
     - SocialMediaProfiles \- ...
     - ...
 
