@@ -8,7 +8,7 @@ Part of [Starter Kit](https://github.com/EnterpriseCharacteristicsESSnetBigData/
 Starter Kit for Enterprise Characteristics is a [Python](https://www.python.org/) software for extracting enterprises'  information from Internet by using web scraping and machine learning. It has several modules:
 - URLsFinder \- defines methods for scraping information for the enterprises' urls from the internet with the help of search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 - URLsFinderPrepare \- defines methods for determine the enterprises' urls from the scraped information from the internet by using logistic regersion machine learning technic.
-- StarterKitLogging (optional to use) \- defines methods for storing log records for the others modules work.
+- StarterKitLogging (optional use) \- defines methods for storing log records for the others modules work.
 - ...
 - ...
 
