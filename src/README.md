@@ -15,12 +15,8 @@ The [Python](https://www.python.org/) files are:
 
 - StarterKit
     - **src** \- source code of the modules (this folder)
-    - URLsFinder \- example of use for finding enterprises' urls
-        - black_list_urls \- directory where a csv file with blacklisted URLs is located
-        - logs \- directory where event logging information is saved
-        - sbr_data \- directory where a csv file with Enterprises information is located
-        - scrape_data \- directory where a csv files with scraped Enterprises information are saved
-    - ...
+    - URLsFinder \- an example of how to use the StarterKit for finding enterprises' urls
+    - SocialMediaProfiles \- ...
     - ...
 
 ## How to use
