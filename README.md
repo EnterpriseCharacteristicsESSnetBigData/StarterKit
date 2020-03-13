@@ -14,14 +14,10 @@ Starter Kit for Enterprise Characteristics is a [Python](https://www.python.org/
 
 ## Directory structure
 
-- **StarterKit**
+- **StarterKit** (this folder)
     - src \- source code of the modules
     - URLsFinder \- example of use for finding enterprises' urls
-        - black_list_urls \- directory where a csv file with blacklisted URLs is located
-        - logs \- directory where event logging information is saved
-        - sbr_data \- directory where a csv file with Enterprises information is located
-        - scrape_data \- directory where a csv files with scraped Enterprises information are saved
-    - ...
+    - SocialMediaProfiles \- ...
     - ...
 
 ## How to use
