@@ -21,10 +21,11 @@ Anaconda comes with several pre-installed libraries that will be used in the Sta
 
 You can install libraries with the following commands in Anaconda Prompt (or the command line tool of your choice):
 
-conda install <library name>&nbsp;
-OR\n
-pip install <library name>\n
-Substitue <libary name> with the name of the library, for example for the library bs4: "pip install bs4".
+conda install \<library name\> <br/>
+OR<br/>
+pip install \<library name\>
+
+Substitue \<library name\> with the name of the library, for example for the library bs4: "pip install bs4".
 
 
 ## Directory structure
