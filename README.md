@@ -19,8 +19,9 @@ Each part of the Starter Kit has a Jupyter Notebook that serves as a manual on h
 The Starter Kit is written for Python 3. We recommend to install Python with the Anaconda distribution which is available [here](http://www.anaconda.com). Remember to use only Python version 3 - on Python 2 the application will not work.
 Anaconda comes with several pre-installed libraries that will be used in the Starter Kit. Occasionally, you will need to install additional libraries. Those will be mentioned in the respective part of the Starter Kit.
 
-You can install libraries with the following commands in Anaconda Prompt (or the command line tool of your choice):\n
-conda install <library name>\n
+You can install libraries with the following commands in Anaconda Prompt (or the command line tool of your choice):
+
+conda install <library name>&nbsp;
 OR\n
 pip install <library name>\n
 Substitue <libary name> with the name of the library, for example for the library bs4: "pip install bs4".
