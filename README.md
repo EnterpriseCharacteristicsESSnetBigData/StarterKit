@@ -1,5 +1,6 @@
 # Starter Kit: Web Scraping for Enterprise Characteristics
-## ESSnet Big Data II - WPC Enterprise Characteristics
+
+## What is this Starter Kit intended for?
 
 This Starter Kit is a deliverable of the [WPC Enterprise characteristics](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/WPC_Enterprise_characteristics "Workpackage C (WPC) focuses on web scraping for enterprise characteristics") which is part of the [ESSnet Big Data II](https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/ESSnet_Big_Data "ESSnet Big Data II is a project within the European statistical system (ESS) with 28 participating statistical authorities.").
 
@@ -7,10 +8,12 @@ This Starter Kit is intended as an introduction to web scraping for enterprise c
 
 ## Contents of the Starter Kit
 
-The Starter Kit has (so far) three parts:
+The Starter Kit has (so far) four parts:
 - URLsFinder: A library to identify enterprise URLs with the search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+- [CBS URL Finder](https://github.com/SNStatComp/urlfinding "External repository for the CBS URL finder"): A library to identify enterprise URLs using the Google API. Remark: This library is provided in a separate repository. Please consult the readme of the external repository for further instructions on how to use it.
 - URLScraper: Functions to scrape a list of URLs and safe the HTML code in a NoSQL database for later analysis.
 - SocialMediaProfiles: A library to identify social media links on enterprise websites.
+
 
 Each part of the Starter Kit has a Jupyter Notebook that serves as a manual on how to use the functions and methods. These manuals are intended for statisticians with little to no programming background. The source code can be consulted by users with a background in programming.
 
@@ -25,7 +28,7 @@ conda install \<library name\> <br/>
 OR<br/>
 pip install \<library name\>
 
-Substitue \<library name\> with the name of the library, for example for the library bs4: "pip install bs4".
+Substitute \<library name\> with the name of the library, for example for the library bs4: "pip install bs4".
 
 
 ## Directory structure
