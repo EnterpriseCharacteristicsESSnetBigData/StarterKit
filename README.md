@@ -15,7 +15,7 @@ The Starter Kit has (so far) four parts:
 - SocialMediaProfiles: A library to identify social media links on enterprise websites.
 
 
-Each part of the Starter Kit has a **Jupyter Notebook** (file with .ipynb extension) that serves as a manual on how to use the functions and methods. These manuals are intended for statisticians with little to no programming background and can be viewed in on this website. The source code can be consulted by users with a background in programming.
+Each part of the Starter Kit has a **Jupyter Notebook** (file with .ipynb extension) that serves as a manual on how to use the functions and methods. These manuals are intended for statisticians with little to no programming background and can be viewed on this website. The source code can be consulted by users with a background in programming.
 
 ## Setting up the environment
 
