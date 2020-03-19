@@ -20,7 +20,7 @@ Each part of the Starter Kit has a Jupyter Notebook that serves as a manual on h
 ## Setting up the Python environment
 
 The Starter Kit is written for Python 3. We recommend to install Python with the Anaconda distribution which is available [here](http://www.anaconda.com). Remember to use only Python version 3 - on Python 2 the application will not work.
-Anaconda comes with several pre-installed libraries that will be used in the Starter Kit. Occasionally, you will need to install additional libraries. Those will be mentioned in the respective part of the Starter Kit.
+Anaconda comes with several pre-installed libraries that will be used in the Starter Kit. Occasionally, you will need to install additional libraries. Those will be mentioned in the respective part of the Starter Kit. Also, Anaconda distribution comes with pre-installed Jupyter Notebook software.
 
 You can install libraries with the following commands in Anaconda Prompt (or the command line tool of your choice):
 
@@ -52,3 +52,9 @@ The current folder has the following directories:
     - URLScraperApplication.py \- Standalone application for scraping URLs to be run in the command line (does the same as the Jupyter Notebook)
     - URLScraperLibrary.py \- URL Scraper as library that can be imported
     - url.txt \- example data
+
+
+## Alternative Resources
+Here are some alternative softwares used by ESS for several years that you may try:
+- [urlfinding](https://github.com/SNStatComp/urlfinding "Repository for the CBS URL finder"): Generic software for finding websites of enterprises using [Google Search Engine](https://www.google.com) and Machine Learning by [Statistics Netherlands](https://www.cbs.nl/en-gb). Remark: only a 100 Google search queries per day are free.
+- [SummaIstat](https://github.com/SummaIstat "Repositories for Web Scraping for Enterprise Characteristics"): Software tools by [Italian Statistics](https://www.istat.it/en/) for Web Scraping for Enterprise Characteristics in [Java](https://www.java.com/en/) and [Solr](https://lucene.apache.org/solr/). It uses the [Bing Search Engine](https://www.bing.com/) for finding websites of enterprises.
