@@ -19,8 +19,7 @@ Each part of the Starter Kit has a **Jupyter Notebook** that serves as a manual 
 
 ## Setting up the environment
 
-The Starter Kit is written for **Python 3**. We recommend to install **Python** with the [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") distribution. Remember to use only Python version 3 - on Python 2 the application will not work.
-[Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") comes with several pre-installed libraries that will be used in the Starter Kit. Occasionally, you will need to install additional libraries. Those will be mentioned in the respective part of the Starter Kit. Also, [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") distribution comes with pre-installed **Jupyter Notebook** software.
+The Starter Kit is written for **Python 3** (note: on Python 2 the applications will not work). We recommend to install **Python** with the [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") distribution. [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") comes with several pre-installed libraries that will be used in the Starter Kit. Occasionally, you will need to install additional libraries. Those will be mentioned in the respective part of the Starter Kit. Also, [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") distribution comes with pre-installed **Jupyter Notebook** software.
 
 You can install libraries with the following commands in Anaconda Prompt (or the command line tool of your choice):
 
@@ -38,17 +37,17 @@ The current folder has the following directories:
     - URLsFinderPrepare.py \- defines methods for determining the correct enterprise URLs among all found URLs by using machine learning (logistic regression).
     - StarterKitLogging.py (optional use) \- defines methods for storing log records for the URL finder.
   - URLsFinder
-    - URLs_Finder_Starter_Kit.ipynb (*Jupyter Notebook* example) \- Manual on how to use the library for URL finding
+    - URLs_Finder_Starter_Kit.ipynb \- Manual on how to use the library for URL finding
     - scrape_data \- Destination folder for scraped data
     - sbr_data \- Source folder for statistical business register data used for scraping
     - logs \- Location of safed log files
     - black_list_urls \- Location for the blacklist of URLs that should not be ignored by the URL finder
   - SocialMediaProfiles
-    - Starter-Kit_Social_Media_Profiles.ipynb (*Jupyter Notebook* example) \- Manual on how to use the library for finding social media links
+    - Starter-Kit_Social_Media_Profiles.ipynb \- Manual on how to use the library for finding social media links
     - SocialMediaPresenceCollector.py \- Source code for finding social media links (will be moved into folder src)
     - url.txt \- example data
   - URLScraper
-    - URLScraperApplication.ipynb (*Jupyter Notebook* example) \- Manual on how to scrape URLs
+    - URLScraperApplication.ipynb \- Manual on how to scrape URLs
     - URLScraperApplication.py \- Standalone application for scraping URLs to be run in the command line (does the same as the Jupyter Notebook)
     - URLScraperLibrary.py \- URL Scraper as library that can be imported
     - url.txt \- example data
