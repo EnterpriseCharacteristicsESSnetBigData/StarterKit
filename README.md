@@ -8,9 +8,8 @@ This Starter Kit is intended as an introduction to web scraping for enterprise c
 
 ## Contents of the Starter Kit
 
-The Starter Kit has (so far) four parts:
+The Starter Kit has (so far) three parts:
 - URLsFinder: A library to identify enterprise URLs with the search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
-- [CBS URL Finder](https://github.com/SNStatComp/urlfinding "External repository for the CBS URL finder"): A library to identify enterprise URLs using the Google API. Remark: This library is provided in a separate repository. Please consult the readme of the external repository for further instructions on how to use it.
 - URLScraper: Functions to scrape a list of URLs and safe the HTML code in a NoSQL database for later analysis.
 - SocialMediaProfiles: A library to identify social media links on enterprise websites.
 
@@ -54,6 +53,6 @@ The current folder has the following directories:
 
 
 ## Alternative Resources
-Here are some alternative softwares used by ESS for several years that you may try:
+Here are some alternative softwares used by the ESS for several years that you may try:
 - [urlfinding](https://github.com/SNStatComp/urlfinding "Repository for the CBS URL finder"): Generic software for finding websites of enterprises using [Google Search Engine](https://www.google.com) and Machine Learning by [Statistics Netherlands](https://www.cbs.nl/en-gb). Remark: only a 100 Google search queries per day are free.
 - [SummaIstat](https://github.com/SummaIstat "Repositories for Web Scraping for Enterprise Characteristics"): Software tools by [Italian Statistics](https://www.istat.it/en/) for Web Scraping for Enterprise Characteristics in [Java](https://www.java.com/en/) and [Solr](https://lucene.apache.org/solr/). It uses the [Bing Search Engine](https://www.bing.com/) for finding websites of enterprises.
