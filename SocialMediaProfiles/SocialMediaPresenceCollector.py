@@ -36,8 +36,8 @@ class HTMLParserBS:
     # method extractURLs is to extract all URLs and return them as the urls[] list
     # it goes through the website to find all anchors <a href>
     def extractURLs(self,page):      
-        # all links are lowered because sometimes the same link is written differently, e.g., ug.edu.pl or UG.edu.pl
-        soup = BeautifulSoup(page.text.lower(),"html.parser")
+        # Capitalization makes a difference for links! So they shouldn't be lowered
+        soup = BeautifulSoup(page.text,"html.parser")
         urls = []
         for a in soup.find_all('a', href=True):
             urls.append(a['href'])
@@ -66,7 +66,7 @@ class SocialMediaDeep:
                     if website in url and 'javascript' not in url:
                         print("Scraping InternalURL_type2: %s" % url)
                         smp.searchSocialMediaLinks(url,'2')
-                    elif url[0]=="/" or url[0:1]=="./" or "http" not in url:
+                    elif url[0]=="/" or url[0:2]=="./" or "http" not in url:
                         if url[0]=="/":
                             print("Scraping InternalURL_type1: {0} {1} ".format(website,url))
                             smp.searchSocialMediaLinks(website+url,'2')
