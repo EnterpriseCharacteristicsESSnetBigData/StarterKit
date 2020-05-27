@@ -36,7 +36,7 @@ usl.startScraping()
 1. Install Anaconda with Python 3.
 
 2. Install MongoDB: MongoDB is available as a free Community Edition. Instructions on how to install it for different operating systems are available on the [MongoDB website](https://docs.mongodb.com/manual/installation/). Choose your operating system in the section on Community Edition Installation Tutorials and follow the instructions.
-If you are a windows user, you can uncheck the box "Install MongoDB as a Service".
+If you are a windows user, you can uncheck the box "Install MongoDB as a Service" in the installation wizard.
 
 3. Get the pymongo library by typing into Anaconda prompt:
 

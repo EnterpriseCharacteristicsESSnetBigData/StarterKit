@@ -18,7 +18,7 @@ Each part of the Starter Kit has a **Jupyter Notebook** (file with .ipynb extens
 
 ## Setting up the environment
 
-The Starter Kit is written for **Python 3** (note: on Python 2 the applications will not work). We recommend to install **Python** with the [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") distribution. [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") comes with several pre-installed libraries that will be used in the Starter Kit. Occasionally, you will need to install additional libraries. Those will be mentioned in the respective part of the Starter Kit. Also, [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") distribution comes with pre-installed **Jupyter Notebook** software. For instructions on how to install Anaconda on your system, consult the [anaconda website](https://docs.anaconda.com/anaconda/install/) which offers tutorials for many operating systems.
+The Starter Kit is written for **Python 3** (note: on Python 2 the applications will not work). We recommend to install **Python** with the [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") distribution. [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") comes with several pre-installed libraries that will be used in the Starter Kit. Occasionally, you will need to install additional libraries. Those will be mentioned in the respective part of the Starter Kit. Also, [Anaconda](https://www.anaconda.com/ "Solutions for Data Science Practitioners and Enterprise Machine Learning") distribution comes with pre-installed **Jupyter Notebook** software. For instructions on how to install Anaconda on your system, consult the [Anaconda installation tutorials](https://docs.anaconda.com/anaconda/install/) that are available for many operating systems.
 
 You can install libraries with the following commands in Anaconda Prompt (or the command line tool of your choice):
 
@@ -52,7 +52,7 @@ The current folder has the following directories:
     - url.txt \- example data
 
 
-## Alternative Resources
+## Additional Resources
 Here are some alternative softwares used by the ESS for several years that you may try:
 - [urlfinding](https://github.com/SNStatComp/urlfinding "Repository for the CBS URL finder"): Generic software for finding websites of enterprises using [Google Search Engine](https://www.google.com) and Machine Learning by [Statistics Netherlands](https://www.cbs.nl/en-gb). Remark: only a 100 Google search queries per day are free.
 - [SummaIstat](https://github.com/SummaIstat "Repositories for Web Scraping for Enterprise Characteristics"): Software tools by [Italian Statistics](https://www.istat.it/en/) for Web Scraping for Enterprise Characteristics in [Java](https://www.java.com/en/) and [Solr](https://lucene.apache.org/solr/). It uses the [Bing Search Engine](https://www.bing.com/) for finding websites of enterprises.
