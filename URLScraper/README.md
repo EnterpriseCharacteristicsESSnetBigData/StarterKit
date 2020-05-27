@@ -1,5 +1,5 @@
-<h1>URL Scraper Starter Kitt</h1>
-<h2>Structure of this Starter Kitt</h2>
+<h1>URL Scraper Starter Kit</h1>
+<h2>Structure of this Starter Kit</h2>
     <ol>
 <li>Source code (in Python):
     <ol>
@@ -22,7 +22,7 @@
 <li>Create a connection to mongodb server</li>
 <li>Set the database name</li>
 <li>Set the file name of URLs to import</li>
-<li>Start the web scraping</li>
+<li>Start scraping</li>
 </ol>
 
 # How to use a library
@@ -33,26 +33,17 @@ usl.startScraping()
 
 # Initial work
 
-1. Install MongoDB.
+1. Install Anaconda with Python 3.
 
-2. Install Anaconda with Python 3.
+2. Install MongoDB: MongoDB is available as a free Community Edition. Instructions on how to install it for different operating systems are available on the [MongoDB website](https://docs.mongodb.com/manual/installation/). Choose your operating system in the section on Community Edition Installation Tutorials and follow the instructions.
+If you are a windows user, you can uncheck the box "Install MongoDB as a Service".
 
-3. Get the pymongo library:
+3. Get the pymongo library by typing into Anaconda prompt:
 
-easy_install pymongo
-
-OR
 
 pip install pymongo
 
-OR
-
-python -m pip install pymongo
 
 OR
 
-conda install pymonog
-
-OR
-
-python3 -m pip install pymongo
+conda install pymongo
