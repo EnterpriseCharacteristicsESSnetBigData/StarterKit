@@ -33,8 +33,11 @@ Substitute \<library name\> with the name of the library, for example for the li
 The current folder has the following directories:
   - src \- source code of the modules
     - URLsFinder.py \- defines methods for finding enterprise URLs with the help of the search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
-    - URLsFinderPrepare.py \- defines methods for determining the correct enterprise URLs among all found URLs by using machine learning (logistic regression).
+    - URLsFinderPrepare.py \- defines methods for determining the correct enterprise URLs among all found URLs by using machine learning 
+ (logistic regression).
     - StarterKitLogging.py (optional use) \- defines methods for storing log records for the URL finder.
+    - SocialMediaPresenceCollector.py \- Source code for finding social media links
+    - DomainScraper.py \- Source code for the URLScraper
   - URLsFinder
     - URLs_Finder_Starter_Kit.ipynb \- Manual on how to use the library for URL finding
     - scrape_data \- Destination folder for scraped data
@@ -43,7 +46,6 @@ The current folder has the following directories:
     - black_list_urls \- Location for the blacklist of URLs that should not be ignored by the URL finder
   - SocialMediaProfiles
     - Starter-Kit_Social_Media_Profiles.ipynb \- Manual on how to use the library for finding social media links
-    - SocialMediaPresenceCollector.py \- Source code for finding social media links (will be moved into folder src)
     - url.txt \- example data
   - URLScraper
     - URLScraperApplication.ipynb \- Manual on how to scrape URLs
