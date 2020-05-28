@@ -1,14 +1,16 @@
 <h1>URL Scraper Starter Kit</h1>
 <h2>Structure of this Starter Kit</h2>
     <ol>
+<!--- Not currently up to date:
 <li>Source code (in Python):
     <ol>
         <li>library</li>
         <li>standalone application</li>
         <li>self-tutorial of application</li>
-    </ol>
+    </ol> -->
 <li>Jupyter Notebook files (ipynb) including manuals inside</li>
-<li>Example files - data with urls - url.txt</li>
+<li>Example data with urls - url.txt</li>
+<li>At the moment, URLScraperApplication.py and URLScraperLibrary.py are not up-to-date. Use at your own risk! For the source code, refer to DomainScraper.py in folder src</li>
 </ol>
 <h3>Data processing schema</h3>
     <p>URL list in files -&gt; URLScraper -&gt; Websites in NoSQL collections for further processing</p>
@@ -25,17 +27,18 @@
 <li>Start scraping</li>
 </ol>
 
+<!---
 # How to use a library
 
 import URLScraperLibrary as usl
 
-usl.startScraping()
+usl.startScraping() -->
 
 # Initial work
 
 1. Install Anaconda with Python 3.
 
-2. Install MongoDB: MongoDB is available as a free Community Edition. Instructions on how to install it for different operating systems are available on the [MongoDB website](https://docs.mongodb.com/manual/installation/). Choose your operating system in the section on Community Edition Installation Tutorials and follow the instructions.
+2. Install MongoDB: MongoDB is available as a free Community Edition. Instructions on how to install it for different operating systems are available on the [MongoDB documentation](https://docs.mongodb.com/manual/installation/). Choose your operating system in the section on Community Edition Installation Tutorials and follow the instructions.
 If you are a windows user, you can uncheck the box "Install MongoDB as a Service" in the installation wizard.
 
 3. Get the pymongo library by typing into Anaconda prompt:
