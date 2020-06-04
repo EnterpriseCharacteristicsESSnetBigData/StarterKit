@@ -46,12 +46,14 @@ class ScrapeDomain():
         self.accept_subdomains = accept_subdomains
         self.lang_codes = lang_codes
         if self.lang_codes:
-            self.lang_idents = []
+            lang_idents = []
             #TODO: language tag identification with regular expressions
             for language in self.lang_codes:
-                self.lang_idents.append("/{}/".format(language))
-                self.lang_idents.append("/{}-{}/".format(language, language))
-                self.lang_idents.append("?lang={}".format(language))
+                lang_idents.append("\/{}\/".format(language))
+                lang_idents.append("\/{}-{}\/".format(language, language))
+                lang_idents.append("\?lang={}".format(language))
+                lang_idents.append("/{}$".format(language))
+            self.lang_patterns = re.compile('|'.join(lang_idents), re.IGNORECASE)
 
     
     ##################
@@ -78,7 +80,7 @@ class ScrapeDomain():
             correct_lang = []
             other_lang = []
             for link in not_scraped:
-                if any(tag.lower() in link.lower() for tag in self.lang_idents):
+                if re.search(self.lang_patterns, link):
                     correct_lang.append(link)
                 else:
                     other_lang.append(link)
@@ -90,7 +92,7 @@ class ScrapeDomain():
         for a in soup.find_all('a', href=True):
            url = self.get_internalURL(a['href'])
            if url:
-               # only include links that don't belong to blacklisted filetypes and not mailto links
+               # only include links that don't belong to blacklisted filetypes
                if not url.split(".")[-1].lower() in self.filetypes:
                    self.link_set.add(url)
     def get_internalURL(self, url):
