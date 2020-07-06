@@ -13,9 +13,6 @@ with new content. That kind of URLs should be scraped.
 Also, websites with the ending index.html are usually just synonyms for the same
 url without that ending
 
-TODO: The language priotising doesn't work as well for nsi.bg, because it expects 
-the language tag to be within two slashes. I should probably change it so that
-a URL like http://nsi.bg/en is priotised over http://nsi.bg/bg when 'en' is specified.
 
 TODO: Implement logging.
 
@@ -33,9 +30,11 @@ class ScrapeDomain():
     ##################
     # init
     ##################
-    def __init__(self, domain, index, lang_codes=[], max_pages=1, accept_subdomains=False):
+    def __init__(self, domain, index, lang_codes=[], max_pages=1,
+                 accept_subdomains=False, protocol='https://'):
+        self.protocol = protocol
         self.domain = domain.lower().strip().replace('http://','').replace('https://','').replace('www.','')
-        self.domain_link = 'https://'+self.domain
+        self.domain_link = self.protocol+self.domain
         self.json = {'domain': self.domain,
                       'index': index,
                      'content': {}} # All scraped pages are embedded documents within content dict
@@ -47,7 +46,6 @@ class ScrapeDomain():
         self.lang_codes = lang_codes
         if self.lang_codes:
             lang_idents = []
-            #TODO: language tag identification with regular expressions
             for language in self.lang_codes:
                 lang_idents.append("\/{}\/".format(language))
                 lang_idents.append("\/{}-{}\/".format(language, language))
@@ -70,7 +68,7 @@ class ScrapeDomain():
             'mp3?download=true', 'wma?download=true', 'ogg?download=true', 'wav?download=true', 'ra?download=true', 'aac?download=true', 'mid?download=true', 'au?download=true', 'aiff?download=true',
             '3gp?download=true', 'asf?download=true', 'asx?download=true', 'avi?download=true', 'mov?download=true', 'mp4?download=true', 'mpg?download=true', 'qt?download=true', 'rm?download=true', 'swf?download=true', 'wmv?download=true', 'm4a?download=true',
             'css?download=true', 'pdf?download=true', 'doc?download=true', 'exe?download=true', 'bin?download=true', 'rss?download=true', 'zip?download=true', 'rar?download=true', 'msu?download=true', 'flv?download=true', 'dmg?download=true'])
-
+    filetypes_pattern = '|'.join(['\.'+filetype+'$' for filetype in filetypes])
     def det_prio(self):
         '''Determines which URL should be scraped next'''
         not_scraped = list(self.link_set.difference(self.scraped))
@@ -87,17 +85,18 @@ class ScrapeDomain():
             # Sort urls that were not yet scraped by link length
             link_stack = sorted(correct_lang, key=len) + sorted(other_lang, key=len)
         self.to_scrape = link_stack[0]
-    def extractLinks(self):      
+    def extractLinks(self):
+        '''Parse html code to find links.
+        Calls get_internalURL to test whether the link should be scraped.'''
         soup = BeautifulSoup(self.website.text,"html.parser")
         for a in soup.find_all('a', href=True):
            url = self.get_internalURL(a['href'])
            if url:
-               # only include links that don't belong to blacklisted filetypes
-               if not url.split(".")[-1].lower() in self.filetypes:
-                   self.link_set.add(url)
+               self.link_set.add(self.standardize_link(url))
     def get_internalURL(self, url):
-        #ignore javascript, mailto and telephone links
-        pattern = re.compile("mailto:|tel:|javascript:", re.IGNORECASE)
+        #ignore javascript, mailto and telephone links as well as unwanted file endings
+        pattern = re.compile(''.join(["^mailto:|^tel:|^javascript:|",
+                                      self.filetypes_pattern]), re.IGNORECASE)
         if url and not re.search(pattern, url):
             if self.domain in url:
                 if self.accept_subdomains == False:
@@ -113,6 +112,17 @@ class ScrapeDomain():
                 return self.domain_link+url
             elif "http" not in url:
                 return self.domain_link+'/'+url
+    def standardize_link(self, url):
+        '''Standardize the url to exclude duplicates'''
+        # Define protocol
+        url = url.replace('http://','').replace('https://','').replace('www.','')
+        url = self.protocol+url
+        # URL endings
+        # First removes standalone slashes at the end, then removes # urls
+        url = re.sub('#[^!\/]*$', '', re.sub('\/$', '', url))
+        # Removes index.html
+        url = re.sub('\/index\.html?\/?$', '', url)
+        return url
 
     ##################
     # Scraper
