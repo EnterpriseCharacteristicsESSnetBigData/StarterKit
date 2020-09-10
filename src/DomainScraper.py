@@ -25,6 +25,8 @@ from bs4 import BeautifulSoup
 import re
 from datetime import datetime
 import time
+from pymongo import MongoClient
+
 
 class ScrapeDomain():
     ##################
@@ -164,4 +166,12 @@ class ScrapeDomain():
             if self.link_set.difference(self.scraped) and self.num_pages<self.max_pages:
                 # N second delay on purpose
                 time.sleep(timeBetweenRequests)
-                self.url_scraping(user_agent, timeOutConnect, timeOutRead, timeBetweenRequests)
+                self.url_scraping(user_agent, collectionName, timeOutConnect, timeOutRead, timeBetweenRequests)
+                
+                
+
+class MWE():
+    json = {'some data': 'to be inserted into mongo db'}
+    
+    def insert_mongodb(self, collectionName):
+        collectionName.insert_one(self.json)
