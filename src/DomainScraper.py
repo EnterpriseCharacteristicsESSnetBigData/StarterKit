@@ -168,10 +168,3 @@ class ScrapeDomain():
                 time.sleep(timeBetweenRequests)
                 self.url_scraping(user_agent, collectionName, timeOutConnect, timeOutRead, timeBetweenRequests)
                 
-                
-
-class MWE():
-    json = {'some data': 'to be inserted into mongo db'}
-    
-    def insert_mongodb(self, collectionName):
-        collectionName.insert_one(self.json)
