@@ -142,7 +142,7 @@ class SocialMediaPresence:
             #    if "facebookLoginButton" in line:
             #        print ("Facebook login found: %d" % line)
             p = HTMLParserBS()
-            p.output_list=p.extractURLs(r)
+            p.output_list=p.extractURLs(r.content)
             URLs=list(p.output_list)
             print("Number of links on website: %d" % len(URLs))
             # sets are used instead of lists to eliminate all duplicates automatically
