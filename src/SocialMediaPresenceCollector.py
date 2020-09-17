@@ -1,3 +1,16 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Sep 17 10:59:05 2020
+
+@author: notebook
+"""
+
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[2]:
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
@@ -27,6 +40,7 @@ import os.path
 from bs4 import BeautifulSoup 
 from collections import OrderedDict
 from datetime import datetime
+from pymongo import MongoClient
 
 
 
@@ -37,7 +51,7 @@ class HTMLParserBS:
     # it goes through the website to find all anchors <a href>
     def extractURLs(self,page):      
         # Capitalization makes a difference for links! So they shouldn't be lowered
-        soup = BeautifulSoup(page.text,"html.parser")
+        soup = BeautifulSoup(page,"html.parser")
         urls = []
         for a in soup.find_all('a', href=True):
             urls.append(a['href'])
@@ -45,7 +59,7 @@ class HTMLParserBS:
     # method extractsURLs is to extract all URLs that are not in anchors <a>
     # it uses regular expression that search for any http or https, even not included in anchors
     def extractAllHTTP(self,page):
-        URLs=re.findall(r"https?://[\w\-.~/?:#\[\]@!$&'()*+,;=]+", page.text.lower())
+        URLs=re.findall(r"https?://[\w\-.~/?:#\[\]@!$&'()*+,;=]+", page.lower())
         return URLs
 
 # class SocialMediaDeep contains a function responsible to divide the links into:
@@ -189,7 +203,7 @@ class SocialMediaPresence:
             if none=='1' and level=='1' and len(URLs)>1:
                 smd.goDeeperToFindSocialMedia(website,URLs)
             return data
-
+        
     def searchSocialMediaLinksNoSQL(self,collection,dateFrom='2020-01-01',dateUntil=datetime.now()):
         result=collection.find({})
         for websitenosql in result:
@@ -206,7 +220,7 @@ class SocialMediaPresence:
             #    if "facebookLoginButton" in line:
             #        print ("Facebook login found: %d" % line)
             p = HTMLParserBS()
-            p.output_list=p.extractURLs(BeautifulSoup(contentWeb, "html.parser"))
+            p.output_list=p.extractURLs(contentWeb)
             URLs=list(p.output_list)
             print("Number of links on website: %d" % len(URLs))
             # sets are used instead of lists to eliminate all duplicates automatically
@@ -268,20 +282,8 @@ class SocialMediaPresence:
                 smd.goDeeperToFindSocialMedia(website,URLs)
             print(data)
 
-            
+# In[ ]:
 
-# HOW TO USE PART WITH NoSQL
-#smp=SocialMediaPresence()
-
-#nosqlclient = MongoClient('mongodb://localhost:27017')
-# change the nosql_database_name to the name of your database created with URLScraper or DomainScraper
-#nosqldatabase=nosqlclient['nosql_database_name']
-# change nosql_collection_name to the collection name created with URLScraper or DomainScraper
-#nosqlcollection=nosqldatabase.nosql_collection_name
-
-# change the dates you want to extract links or omit this two attributes, like this:
-# smp.searchSocialMediaLinksNoSQL(nosqlcollection)
-#smp.searchSocialMediaLinksNoSQL(nosqlcollection,'2020-09-10','2020-09-11')
 
 # class SocialMediaPresenceStarterKitt:
 #     smp=SocialMediaPresence()
@@ -308,6 +310,23 @@ class SocialMediaPresence:
 #             fa.jsonListWrite(jsonList)
 
 
+# In[1]:
+
+
+#smp=SocialMediaPresence()
+
+#nosqlclient = MongoClient('mongodb://localhost:27017')
+# change the nosql_database_name to the name of your database created with URLScraper or DomainScraper
+#nosqldatabase=nosqlclient['k1']
+# change nosql_collection_name to the collection name created with URLScraper or DomainScraper
+#nosqlcollection=nosqldatabase.k1
+
+# change the dates you want to extract links or omit this two attributes, like this:
+# smp.searchSocialMediaLinksNoSQL(nosqlcollection)
+#smp.searchSocialMediaLinksNoSQL(nosqlcollection,'2020-09-09','2020-09-15')
+
+
+# In[ ]:
 
 
 
