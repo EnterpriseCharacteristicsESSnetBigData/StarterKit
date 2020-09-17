@@ -190,9 +190,98 @@ class SocialMediaPresence:
                 smd.goDeeperToFindSocialMedia(website,URLs)
             return data
 
+    def searchSocialMediaLinksNoSQL(self,collection,dateFrom='2020-01-01',dateUntil=datetime.now()):
+        result=collection.find({})
+        for websitenosql in result:
+            print(websitenosql['domain'],websitenosql['content']['1']['date'])
+            if str(websitenosql['content']['1']['date'][:10])<str(dateFrom) or str(websitenosql['content']['1']['date'][:10])>str(dateUntil)[:10]:
+                continue
+            contentWeb=str(websitenosql['content']['1']['page'])
+            website=websitenosql['domain']
+            print("The length of the scrapped content: %s characters" % str(len(contentWeb)))            
+            rows=contentWeb.splitlines()
+            # if facebook login button is present on the website - report this on the screen
+            # not used now but maybe in the future it can enrich the ICT survey
+            #for line in rows:
+            #    if "facebookLoginButton" in line:
+            #        print ("Facebook login found: %d" % line)
+            p = HTMLParserBS()
+            p.output_list=p.extractURLs(contentWeb)
+            URLs=list(p.output_list)
+            print("Number of links on website: %d" % len(URLs))
+            # sets are used instead of lists to eliminate all duplicates automatically
+            # sometimes inside the main page there are several links to Social Media, in this case all duplicates will be removed
+            # but all Social Media links will be added to the final list
+            # Dictionary to store links for specific social media platforms
+            link_dict = {}
+            link_dict['URL'] = [website]
+            for social_media in self.social_media_dict:
+                link_dict[social_media] = set([])
+            none='';
+            # this loops through through all specified social media domain names
+            for url in URLs:
+                if url:
+                    for social_media in self.social_media_dict:
+                        for domain in self.social_media_dict[social_media]:
+                            if domain in url:
+                                link_dict[social_media].add(url)
+                                print(url)
 
-# In[ ]:
+           # Count the number of found links
+            n_links = 0
+            for social_media in self.social_media_dict:
+                n_links += len(link_dict[social_media])
 
+            if n_links==0:
+                print('No social media links have been found.')
+                none='1';
+            else:
+                print('Total number of unique social media links found:',
+                      n_links)
+            # if subpage does not have a social media URL - do not write this in the result file
+            if not (none=='1' and level=='2'):            
+                try:
+                    # name of the file
+                    filename='wp2_social.csv'
+                    exists=1
+                    if not os.path.isfile(filename):
+                        exists=0
+                    with open (filename,'a') as file:
+                        if exists==0:
+                            file.write(';'.join(link_dict) + "\n")
+                        columnNames= list(link_dict.keys())                    
+                        writer=csv.DictWriter(file,delimiter=';',dialect=csv.excel,fieldnames=columnNames)
+                        writer.writerow({item: ' ,'.join(link_dict[item]) for item in link_dict})
+                except IOError:
+                    msg = ("Error writing CSV file.")     
+                    print(msg)
+                data = {}
+                data['URL'] = website
+                for social_media in self.social_media_dict:
+                    if social_media in link_dict:
+                        data[social_media] = list(link_dict[social_media])
+                    else:
+                        data[social_media] = []
+            smd=SocialMediaDeep();
+            # if no links have been found on the main page, go one level deeper
+            if none=='1' and level=='1' and len(URLs)>1:
+                smd.goDeeperToFindSocialMedia(website,URLs)
+            print(data)
+
+            
+
+# HOW TO USE PART WITH NoSQL
+#smp=SocialMediaPresence()
+
+#nosqlclient = MongoClient('mongodb://localhost:27017')
+# change the nosql_database_name to the name of your database created with URLScraper or DomainScraper
+#nosqldatabase=nosqlclient['nosql_database_name']
+# change nosql_collection_name to the collection name created with URLScraper or DomainScraper
+#nosqlcollection=nosqldatabase.nosql_collection_name
+
+# change the dates you want to extract links or omit this two attributes, like this:
+# smp.searchSocialMediaLinksNoSQL(nosqlcollection)
+#smp.searchSocialMediaLinksNoSQL(nosqlcollection,'2020-09-10','2020-09-11')
 
 # class SocialMediaPresenceStarterKitt:
 #     smp=SocialMediaPresence()
