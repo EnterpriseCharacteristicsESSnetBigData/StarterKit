@@ -39,11 +39,12 @@ The current folder has the following directories:
     - SocialMediaPresenceCollector.py \- Source code for finding social media links
     - DomainScraper.py \- Source code for the URLScraper
   - URLsFinder
-    - URLs_Finder_Starter_Kit.ipynb \- Manual on how to use the library for URL finding
+    - OBEC_Starter_Kit_URLs_Finder.ipynb \- Manual on how to use the library for URL finding
     - scrape_data \- Destination folder for scraped data
     - sbr_data \- Source folder for statistical business register data used for scraping
-    - logs \- Location of safed log files
-    - black_list_urls \- Location for the blacklist of URLs that should not be ignored by the URL finder
+    - logs \- Location of saved log files
+    - black_list_urls \- Location for the blacklist of URLs that should be ignored by the URLs finder
+    - machine_learning \- Results from machine learning predictions for URLs of enterprises
   - SocialMediaProfiles
     - Starter-Kit_Social_Media_Profiles.ipynb \- Manual on how to use the library for finding social media links
     - url.txt \- example data
