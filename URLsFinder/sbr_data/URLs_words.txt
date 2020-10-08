@@ -1,0 +1,7 @@
+Word
+Has Address
+Has Email
+Has ID
+Has Name
+Has Phone
+Has Populated place
