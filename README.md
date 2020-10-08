@@ -32,10 +32,10 @@ Substitute \<library name\> with the name of the library, for example for the li
 ## Directory structure
 The current folder has the following directories:
   - src \- source code of the modules
-    - URLsFinder.py \- defines methods for finding enterprise URLs with the help of the search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
-    - URLsFinderPrepare.py \- defines methods for determining the correct enterprise URLs among all found URLs by using machine learning 
- (logistic regression).
-    - StarterKitLogging.py (optional use) \- defines methods for storing log records for the URL finder.
+    - obec.py \- Initialization code for the URLs Finder Stater Kit classes to be used with Jupyter Notebook.
+    - URLsFinderWS.py \- defines methods for scraping information for the enterprises' urls from the internet with the help of search engine [Duck Duck   Go](https://duckduckgo.com "The best search engine for privacy").
+    - URLsFinderMLLR.py \- defines methods for determine the enterprises' urls from the scraped information from the internet by using logistic regersion machine  learning technic.
+    - StarterKitLogging.py (optional to use) \- defines methods for storing log records for the others modules work.
     - SocialMediaPresenceCollector.py \- Source code for finding social media links
     - DomainScraper.py \- Source code for the URLScraper
   - URLsFinder
