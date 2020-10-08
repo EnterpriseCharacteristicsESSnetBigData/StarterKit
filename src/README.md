@@ -5,9 +5,10 @@ Part of [Starter Kit](https://github.com/EnterpriseCharacteristicsESSnetBigData/
 ## Description
 
 The [Python](https://www.python.org/) files are:
-- URLsFinder \- defines methods for scraping information for the enterprises' urls from the internet with the help of search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
-- URLsFinderPrepare \- defines methods for determine the enterprises' urls from the scraped information from the internet by using logistic regersion machine learning technic.
-- StarterKitLogging (optional to use) \- defines methods for storing log records for the others modules work.
+- obec.py \- Initialization code for the URLs Finder Stater Kit classes to be used with Jupyter Notebook.
+- URLsFinderWS.py \- defines methods for scraping information for the enterprises' urls from the internet with the help of search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+- URLsFinderMLLR.py \- defines methods for determine the enterprises' urls from the scraped information from the internet by using logistic regersion machine learning technic.
+- StarterKitLogging.py (optional to use) \- defines methods for storing log records for the others modules work.
 - SocialMediaPresenceCollector.py \- defines classes and methods for finding social media links on websites.
 - DomainScraper.py \- defines the class to scrape domains/websites including internal links.
 
@@ -31,10 +32,4 @@ Go to the respective folder. The Jupyter Notebook file **Starter-Kit_Social_Medi
 
 ### URLScraper
 You find the Jupyter Notebook file **URLScraperApplication.ipynb** in the respective folder.
-
-## To do
-
-- URLsFinder \- improve code readability and add comments.
-- URLsFinderPrepare \- improve code readability and add comments.
-- StarterKitLogging (optional to use) \- improve code readability and add comments.
 
