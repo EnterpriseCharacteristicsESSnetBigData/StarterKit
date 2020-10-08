@@ -27,7 +27,7 @@ plt.rcParams["figure.dpi"] = 100
 #    version - identification of the scraped files by date, id or other.
 #    start_path - directory where a csv file with Enterprises 
 #                 information is located.
-#    machin_learning_path - directory where the csv files with 
+#    machine_learning_path - directory where the csv files with 
 #                           machine learning information are saved.
 #    scrape_path - directory where a csv files with scraped 
 #                  Enterprises information are saved.
@@ -49,7 +49,7 @@ plt.rcParams["figure.dpi"] = 100
 #    'version': datetime.now().strftime('%Y-%m-%d'),
 #    'version': 'v.2020.2',
 #    'start_path': '.\\sbr_data\\',
-#    'machin_learning_path': '.\\machin_learning\\',
+#    'machine_learning_path': '.\\machine_learning\\',
 #    'scrape_path': '.\\scrape_data\\',
 #    'scrape_file': 'OBEC_Starter_Kit_Scrape_Data',
 #    'obec_file': 'OBEC_Starter_Kit_URLs',
@@ -179,7 +179,7 @@ class URLsFinderMLLR:
                         print(
 					        'Something went wrong on joining ' \
                             '{0}{1}_{2}{3} and {4}{5}'.format(
-							    self.machin_learning_path,
+							    self.machine_learning_path,
                                 self.scrape_file,
 								self.version,
                                 self.csv_ext,								
@@ -352,7 +352,7 @@ class URLsFinderMLLR:
 
     def save_results(self, frame, str):
         frame.to_csv(r'{0}{1}_{2}{3}{4}'.format(
-                                      self.machin_learning_path,
+                                      self.machine_learning_path,
 		                              self.obec_file,
 									  self.version,
 									  str,
