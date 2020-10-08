@@ -1,0 +1,1031 @@
+ID;Name;Suggested URL;Link position;Has equal domain;Has Simple Suggested URL;OBEC;Known OBEC;sum;Score;predict;0;1
+000000000;National Statistical Institute;https://ine.es/en/;5.0;0.0;1.0;;0;1.0;0.95;0.0;0.9569850029284516;0.04301499707154843
+000000000;National Statistical Institute;https://insse.ro/cms/en;1.0;0.0;0.0;;0;1.0;0.99;0.0;0.9556423750328915;0.0443576249671085
+000000000;National Statistical Institute;https://nis.gov.kh/;9.0;0.0;1.0;;0;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000000;National Statistical Institute;https://www.istat.it/en/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000000;National Statistical Institute;https://www.niss.org/;0.0;0.0;1.0;;0;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000000;National Statistical Institute;https://www.nsi.bg/en/aggregator/sources/1;4.0;0.0;0.0;;0;4.0;3.84;0.0;0.6857105664036129;0.314289433596387
+000000000;National Statistical Institute;https://www.ons.gov.uk/;6.0;0.0;1.0;;0;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000001;STATISTIK AUSTRIA;http://statistik.at/;0.0;0.0;1.0;http://www.statistik.at;1;6.0;6.0;1.0;0.2777989938694888;0.7222010061305112
+000000001;STATISTIK AUSTRIA;http://www.statistik-austria.at/;5.0;0.0;1.0;http://www.statistik.at;1;6.0;5.7;1.0;0.32863670790898536;0.6713632920910146
+000000001;STATISTIK AUSTRIA;http://www.statistik.at/web_de/statistiken/index.html;1.0;1.0;0.0;http://www.statistik.at;1;6.0;5.94;1.0;0.28757395368052474;0.7124260463194753
+000000001;STATISTIK AUSTRIA;https://wn.com/Statistik_Austria;6.0;0.0;0.0;http://www.statistik.at;1;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000001;STATISTIK AUSTRIA;https://www.ams.at/arbeitsmarktdaten-und-medien/arbeitsmarkt-daten-und-arbeitsmarkt-forschung/arbeitsmarktdaten;8.0;0.0;0.0;http://www.statistik.at;1;1.0;0.92;0.0;0.9579664124798111;0.04203358752018896
+000000001;STATISTIK AUSTRIA;https://www.ots.at/pressemappe/209/statistik-austria;9.0;0.0;0.0;http://www.statistik.at;1;2.0;1.82;0.0;0.9170709284935428;0.0829290715064572
+000000002;STATISTIK AUSTRIA;http://statistik.at/;0.0;0.0;1.0;;0;6.0;6.0;1.0;0.2777989938694888;0.7222010061305112
+000000002;STATISTIK AUSTRIA;http://www.statistik-austria.at/;5.0;0.0;1.0;;0;6.0;5.7;1.0;0.32863670790898536;0.6713632920910146
+000000002;STATISTIK AUSTRIA;http://www.statistik.at/web_de/statistiken/index.html;1.0;0.0;0.0;;0;5.0;4.95;1.0;0.4720947733088706;0.5279052266911294
+000000002;STATISTIK AUSTRIA;https://wn.com/Statistik_Austria;6.0;0.0;0.0;;0;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000002;STATISTIK AUSTRIA;https://www.ams.at/arbeitsmarktdaten-und-medien/arbeitsmarkt-daten-und-arbeitsmarkt-forschung/arbeitsmarktdaten;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.9579664124798111;0.04203358752018896
+000000002;STATISTIK AUSTRIA;https://www.ots.at/pressemappe/209/statistik-austria;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9170709284935428;0.0829290715064572
+000000003;STATISTIK AUSTRIA;http://statistik.at/;0.0;0.0;1.0;;0;5.0;5.0;1.0;0.46209493828970594;0.5379050617102941
+000000003;STATISTIK AUSTRIA;http://www.statistik-austria.at/;5.0;0.0;1.0;;0;5.0;4.75;0.0;0.5122380001174656;0.4877619998825344
+000000003;STATISTIK AUSTRIA;http://www.statistik.at/web_de/statistiken/index.html;1.0;0.0;0.0;;0;4.0;3.96;0.0;0.6645689072427203;0.3354310927572797
+000000003;STATISTIK AUSTRIA;https://wn.com/Statistik_Austria;6.0;0.0;0.0;;0;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000003;STATISTIK AUSTRIA;https://www.ams.at/arbeitsmarktdaten-und-medien/arbeitsmarkt-daten-und-arbeitsmarkt-forschung/arbeitsmarktdaten;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.9579664124798111;0.04203358752018896
+000000003;STATISTIK AUSTRIA;https://www.ots.at/pressemappe/209/statistik-austria;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9170709284935428;0.0829290715064572
+000000004;STATISTIK AUSTRIA;http://statistik.at/;0.0;0.0;1.0;;0;5.0;5.0;1.0;0.46209493828970594;0.5379050617102941
+000000004;STATISTIK AUSTRIA;http://www.statistik-austria.at/;5.0;0.0;1.0;;0;5.0;4.75;0.0;0.5122380001174656;0.4877619998825344
+000000004;STATISTIK AUSTRIA;http://www.statistik.at/web_de/statistiken/index.html;1.0;0.0;0.0;;0;4.0;3.96;0.0;0.6645689072427203;0.3354310927572797
+000000004;STATISTIK AUSTRIA;https://wn.com/Statistik_Austria;6.0;0.0;0.0;;0;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000004;STATISTIK AUSTRIA;https://www.ams.at/arbeitsmarktdaten-und-medien/arbeitsmarkt-daten-und-arbeitsmarkt-forschung/arbeitsmarktdaten;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.9579664124798111;0.04203358752018896
+000000004;STATISTIK AUSTRIA;https://www.ots.at/pressemappe/209/statistik-austria;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9170709284935428;0.0829290715064572
+000000005;STATISTIK AUSTRIA;http://statistik.at/;0.0;0.0;1.0;;0;4.0;4.0;0.0;0.6573669333754384;0.34263306662456167
+000000005;STATISTIK AUSTRIA;http://www.statistik-austria.at/;5.0;0.0;1.0;;0;4.0;3.8;0.0;0.6925953709318036;0.3074046290681964
+000000005;STATISTIK AUSTRIA;http://www.statistik.at/web_de/statistiken/index.html;1.0;0.0;0.0;;0;3.0;2.97;0.0;0.8144488528619567;0.18555114713804333
+000000005;STATISTIK AUSTRIA;https://wn.com/Statistik_Austria;6.0;0.0;0.0;;0;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000005;STATISTIK AUSTRIA;https://www.ams.at/arbeitsmarktdaten-und-medien/arbeitsmarkt-daten-und-arbeitsmarkt-forschung/arbeitsmarktdaten;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.9579664124798111;0.04203358752018896
+000000005;STATISTIK AUSTRIA;https://www.ots.at/pressemappe/209/statistik-austria;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9170709284935428;0.0829290715064572
+000000006;Institute of Statistics;https://insse.ro/cms/en;3.0;0.0;0.0;http://www.instat.gov.al;1;1.0;0.97;0.0;0.9563186116099341;0.043681388390065905
+000000006;Institute of Statistics;https://www.istat.it/en/;4.0;0.0;1.0;http://www.instat.gov.al;1;2.0;1.92;0.0;0.9107518469553919;0.08924815304460813
+000000006;Institute of Statistics;https://www.niss.org/;7.0;0.0;1.0;http://www.instat.gov.al;1;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000006;Institute of Statistics;https://www.statistics.gov.rw/;6.0;0.0;1.0;http://www.instat.gov.al;1;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000007;Institute of Statistics;https://insse.ro/cms/en;3.0;0.0;0.0;;0;1.0;0.97;0.0;0.9563186116099341;0.043681388390065905
+000000007;Institute of Statistics;https://www.istat.it/en/;4.0;0.0;1.0;;0;2.0;1.92;0.0;0.9107518469553919;0.08924815304460813
+000000007;Institute of Statistics;https://www.niss.org/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000007;Institute of Statistics;https://www.statistics.gov.rw/;6.0;0.0;1.0;;0;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000008;Institute of Statistics;https://insse.ro/cms/en;3.0;0.0;0.0;http://www.instat.gov.al;1;1.0;0.97;0.0;0.9563186116099341;0.043681388390065905
+000000008;Institute of Statistics;https://www.istat.it/en/;4.0;0.0;1.0;http://www.instat.gov.al;1;2.0;1.92;0.0;0.9107518469553919;0.08924815304460813
+000000008;Institute of Statistics;https://www.niss.org/;7.0;0.0;1.0;http://www.instat.gov.al;1;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000008;Institute of Statistics;https://www.statistics.gov.rw/;6.0;0.0;1.0;http://www.instat.gov.al;1;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000009;Institute of Statistics;https://insse.ro/cms/en;3.0;0.0;0.0;http://www.instat.gov.al;1;1.0;0.97;0.0;0.9563186116099341;0.043681388390065905
+000000009;Institute of Statistics;https://www.istat.it/en/;4.0;0.0;1.0;http://www.instat.gov.al;1;2.0;1.92;0.0;0.9107518469553919;0.08924815304460813
+000000009;Institute of Statistics;https://www.niss.org/;7.0;0.0;1.0;http://www.instat.gov.al;1;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000009;Institute of Statistics;https://www.statistics.gov.rw/;6.0;0.0;1.0;http://www.instat.gov.al;1;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000010;Institute of Statistics;https://insse.ro/cms/en;3.0;0.0;0.0;;0;1.0;0.97;0.0;0.9563186116099341;0.043681388390065905
+000000010;Institute of Statistics;https://www.istat.it/en/;4.0;0.0;1.0;;0;2.0;1.92;0.0;0.9107518469553919;0.08924815304460813
+000000010;Institute of Statistics;https://www.niss.org/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000010;Institute of Statistics;https://www.statistics.gov.rw/;6.0;0.0;1.0;;0;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000011;Departament d´Estadística;http://ensenyament.gencat.cat/ca/departament/estadistiques/;5.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000011;Departament d´Estadística;http://www.ub.edu/stat/;2.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000011;Departament d´Estadística;https://edirc.repec.org/data/seegvad.html;9.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000011;Departament d´Estadística;https://studylib.es/doc/8208601/ipc---departament-d-estadística;8.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000011;Departament d´Estadística;https://www.bcn.cat/estadistica/castella/index.htm;0.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000011;Departament d´Estadística;https://www.eio.upc.edu/;6.0;0.0;1.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;1.0;0.94;0.0;0.9573145470625423;0.042685452937457694
+000000012;Departament d´Estadística;http://ensenyament.gencat.cat/ca/departament/estadistiques/;5.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000012;Departament d´Estadística;http://www.ub.edu/stat/;2.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000012;Departament d´Estadística;https://edirc.repec.org/data/seegvad.html;9.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000012;Departament d´Estadística;https://studylib.es/doc/8208601/ipc---departament-d-estadística;8.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000012;Departament d´Estadística;https://www.bcn.cat/estadistica/castella/index.htm;0.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000012;Departament d´Estadística;https://www.eio.upc.edu/;6.0;0.0;1.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;1.0;0.94;0.0;0.9573145470625423;0.042685452937457694
+000000013;Departament d´Estadística;http://ensenyament.gencat.cat/ca/departament/estadistiques/;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000013;Departament d´Estadística;http://www.ub.edu/stat/;2.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000013;Departament d´Estadística;https://edirc.repec.org/data/seegvad.html;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000013;Departament d´Estadística;https://studylib.es/doc/8208601/ipc---departament-d-estadística;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000013;Departament d´Estadística;https://www.bcn.cat/estadistica/castella/index.htm;0.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000013;Departament d´Estadística;https://www.eio.upc.edu/;6.0;0.0;1.0;;0;1.0;0.94;0.0;0.9573145470625423;0.042685452937457694
+000000014;Departament d´Estadística;http://ensenyament.gencat.cat/ca/departament/estadistiques/;5.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000014;Departament d´Estadística;http://www.ub.edu/stat/;2.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000014;Departament d´Estadística;https://edirc.repec.org/data/seegvad.html;9.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000014;Departament d´Estadística;https://studylib.es/doc/8208601/ipc---departament-d-estadística;8.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000014;Departament d´Estadística;https://www.bcn.cat/estadistica/castella/index.htm;0.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000014;Departament d´Estadística;https://www.eio.upc.edu/;6.0;0.0;1.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;1.0;0.94;0.0;0.9573145470625423;0.042685452937457694
+000000015;Departament d´Estadística;http://ensenyament.gencat.cat/ca/departament/estadistiques/;5.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000015;Departament d´Estadística;http://www.ub.edu/stat/;2.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000015;Departament d´Estadística;https://edirc.repec.org/data/seegvad.html;9.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000015;Departament d´Estadística;https://studylib.es/doc/8208601/ipc---departament-d-estadística;8.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000015;Departament d´Estadística;https://www.bcn.cat/estadistica/castella/index.htm;0.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000015;Departament d´Estadística;https://www.eio.upc.edu/;6.0;0.0;1.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;1.0;0.94;0.0;0.9573145470625423;0.042685452937457694
+000000016;Departament d´Estadística;http://ensenyament.gencat.cat/ca/departament/estadistiques/;5.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000016;Departament d´Estadística;http://www.ub.edu/stat/;2.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000016;Departament d´Estadística;https://edirc.repec.org/data/seegvad.html;9.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000016;Departament d´Estadística;https://studylib.es/doc/8208601/ipc---departament-d-estadística;8.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000016;Departament d´Estadística;https://www.bcn.cat/estadistica/castella/index.htm;0.0;0.0;0.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000016;Departament d´Estadística;https://www.eio.upc.edu/;6.0;0.0;1.0;https://www.estadistica.ad/serveiestudis/web/index.asp;1;1.0;0.94;0.0;0.9573145470625423;0.042685452937457694
+000000017;National Statistical Committee of the Republic of Belarus;https://cis-legislation.com/document.fwx?rgn=121019;4.0;0.0;0.0;https://www.belstat.gov.by;1;2.0;1.92;0.0;0.9107518469553919;0.08924815304460813
+000000017;National Statistical Committee of the Republic of Belarus;https://webarchive.library.unt.edu/eot2008/20090314130058/http://www.belstat.gov.by/homep/en/main.html;9.0;0.0;0.0;https://www.belstat.gov.by;1;2.0;1.82;0.0;0.9170709284935428;0.0829290715064572
+000000017;National Statistical Committee of the Republic of Belarus;https://www.belstat.gov.by/;1.0;1.0;1.0;https://www.belstat.gov.by;1;5.0;4.95;1.0;0.4720947733088706;0.5279052266911294
+000000017;National Statistical Committee of the Republic of Belarus;https://www.belstat.gov.by/en/;0.0;1.0;1.0;https://www.belstat.gov.by;1;5.0;5.0;1.0;0.46209493828970594;0.5379050617102941
+000000017;National Statistical Committee of the Republic of Belarus;https://www.belstat.gov.by/en/map/?special_version=Y;2.0;1.0;0.0;https://www.belstat.gov.by;1;4.0;3.92;0.0;0.6716951030058906;0.3283048969941094
+000000017;National Statistical Committee of the Republic of Belarus;https://www.wikidata.org/wiki/Q6520738;7.0;0.0;0.0;https://www.belstat.gov.by;1;2.0;1.8599999999999999;0.0;0.914593647030856;0.08540635296914399
+000000019;National Statistical Committee of the Republic of Belarus;https://cis-legislation.com/document.fwx?rgn=121019;4.0;0.0;0.0;;0;2.0;1.92;0.0;0.9107518469553919;0.08924815304460813
+000000019;National Statistical Committee of the Republic of Belarus;https://webarchive.library.unt.edu/eot2008/20090314130058/http://www.belstat.gov.by/homep/en/main.html;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9170709284935428;0.0829290715064572
+000000019;National Statistical Committee of the Republic of Belarus;https://www.belstat.gov.by/;1.0;0.0;1.0;;0;3.0;2.97;0.0;0.8144488528619567;0.18555114713804333
+000000019;National Statistical Committee of the Republic of Belarus;https://www.belstat.gov.by/en/;0.0;0.0;1.0;;0;3.0;3.0;0.0;0.8107784433033998;0.18922155669660026
+000000019;National Statistical Committee of the Republic of Belarus;https://www.belstat.gov.by/en/map/?special_version=Y;2.0;0.0;0.0;;0;2.0;1.96;0.0;0.9081047153236085;0.09189528467639148
+000000019;National Statistical Committee of the Republic of Belarus;https://www.wikidata.org/wiki/Q6520738;7.0;0.0;0.0;;0;2.0;1.8599999999999999;0.0;0.914593647030856;0.08540635296914399
+000000020;Statistics Belgium;https://asylumineurope.org/reports/country/belgium/statistics;5.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000020;Statistics Belgium;https://statbel.fgov.be/en;0.0;1.0;1.0;https://statbel.fgov.be;1;6.0;6.0;1.0;0.2777989938694888;0.7222010061305112
+000000020;Statistics Belgium;https://tradingeconomics.com/belgium/unemployment-rate;8.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000020;Statistics Belgium;https://www.belgium.be/fr/economie/informations_economiques/statistiques;4.0;0.0;0.0;https://statbel.fgov.be;1;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000020;Statistics Belgium;https://www.nbb.be/en/statistics;9.0;0.0;0.0;https://statbel.fgov.be;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000020;Statistics Belgium;https://www.statista.com/topics/2384/belgium/;2.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000020;Statistics Belgium;https://www.worldometers.info/world-population/belgium-population/;6.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000021;Statistics Belgium;https://asylumineurope.org/reports/country/belgium/statistics;5.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000021;Statistics Belgium;https://statbel.fgov.be/en;0.0;1.0;1.0;https://statbel.fgov.be;1;6.0;6.0;1.0;0.2777989938694888;0.7222010061305112
+000000021;Statistics Belgium;https://tradingeconomics.com/belgium/unemployment-rate;8.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000021;Statistics Belgium;https://www.belgium.be/fr/economie/informations_economiques/statistiques;4.0;0.0;0.0;https://statbel.fgov.be;1;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000021;Statistics Belgium;https://www.nbb.be/en/statistics;9.0;0.0;0.0;https://statbel.fgov.be;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000021;Statistics Belgium;https://www.statista.com/topics/2384/belgium/;2.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000021;Statistics Belgium;https://www.worldometers.info/world-population/belgium-population/;6.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000022;Statistics Belgium;https://asylumineurope.org/reports/country/belgium/statistics;5.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000022;Statistics Belgium;https://statbel.fgov.be/en;0.0;1.0;1.0;https://statbel.fgov.be;1;5.0;5.0;1.0;0.46209493828970594;0.5379050617102941
+000000022;Statistics Belgium;https://tradingeconomics.com/belgium/unemployment-rate;8.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000022;Statistics Belgium;https://www.belgium.be/fr/economie/informations_economiques/statistiques;4.0;0.0;0.0;https://statbel.fgov.be;1;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000022;Statistics Belgium;https://www.nbb.be/en/statistics;9.0;0.0;0.0;https://statbel.fgov.be;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000022;Statistics Belgium;https://www.statista.com/topics/2384/belgium/;2.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000022;Statistics Belgium;https://www.worldometers.info/world-population/belgium-population/;6.0;0.0;0.0;https://statbel.fgov.be;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000023;Statistics Belgium;https://asylumineurope.org/reports/country/belgium/statistics;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000023;Statistics Belgium;https://statbel.fgov.be/en;0.0;0.0;1.0;;0;5.0;5.0;1.0;0.46209493828970594;0.5379050617102941
+000000023;Statistics Belgium;https://tradingeconomics.com/belgium/unemployment-rate;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000023;Statistics Belgium;https://www.belgium.be/fr/economie/informations_economiques/statistiques;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000023;Statistics Belgium;https://www.nbb.be/en/statistics;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000023;Statistics Belgium;https://www.statista.com/topics/2384/belgium/;2.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000023;Statistics Belgium;https://www.worldometers.info/world-population/belgium-population/;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000024;Statistisches Bundesamt;https://www.bfs.admin.ch/;5.0;0.0;1.0;https://www.destatis.de;1;1.0;0.95;0.0;0.9569850029284516;0.04301499707154843
+000000024;Statistisches Bundesamt;https://www.bmi.bund.de/SharedDocs/behoerden/DE/destatis.html;9.0;0.0;0.0;https://www.destatis.de;1;2.0;1.82;0.0;0.9170709284935428;0.0829290715064572
+000000024;Statistisches Bundesamt;https://www.destatis.de/;0.0;1.0;1.0;https://www.destatis.de;1;4.0;4.0;0.0;0.6573669333754384;0.34263306662456167
+000000024;Statistisches Bundesamt;https://www.destatis.de/EN/Home/_node.html;1.0;1.0;0.0;https://www.destatis.de;1;3.0;2.97;0.0;0.8144488528619567;0.18555114713804333
+000000024;Statistisches Bundesamt;https://www.t-online.de/themen/statistisches-bundesamt;6.0;0.0;0.0;https://www.destatis.de;1;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000025;Federal Statistical Office;https://knoema.com/atlas/sources/DESTATIS;6.0;0.0;0.0;https://www.destatis.de;1;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000025;Federal Statistical Office;https://wn.com/Federal_Statistical_Office_Of_Germany;7.0;0.0;0.0;https://www.destatis.de;1;2.0;1.8599999999999999;0.0;0.914593647030856;0.08540635296914399
+000000025;Federal Statistical Office;https://www.bfs.admin.ch/bfs/en/home.html;2.0;0.0;0.0;https://www.destatis.de;1;1.0;0.98;0.0;0.9559817321077185;0.04401826789228151
+000000025;Federal Statistical Office;https://www.destatis.de/EN/Home/_node.html;0.0;1.0;0.0;https://www.destatis.de;1;3.0;3.0;0.0;0.8107784433033998;0.18922155669660026
+000000025;Federal Statistical Office;https://ycharts.com/indicators/sources/federal_statistical_office_of_germany;9.0;0.0;0.0;https://www.destatis.de;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000026;Federal Statistical Office;https://knoema.com/atlas/sources/DESTATIS;6.0;0.0;0.0;https://www.destatis.de;1;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000026;Federal Statistical Office;https://wn.com/Federal_Statistical_Office_Of_Germany;7.0;0.0;0.0;https://www.destatis.de;1;2.0;1.8599999999999999;0.0;0.914593647030856;0.08540635296914399
+000000026;Federal Statistical Office;https://www.bfs.admin.ch/bfs/en/home.html;2.0;0.0;0.0;https://www.destatis.de;1;1.0;0.98;0.0;0.9559817321077185;0.04401826789228151
+000000026;Federal Statistical Office;https://www.destatis.de/EN/Home/_node.html;0.0;1.0;0.0;https://www.destatis.de;1;3.0;3.0;0.0;0.8107784433033998;0.18922155669660026
+000000026;Federal Statistical Office;https://ycharts.com/indicators/sources/federal_statistical_office_of_germany;9.0;0.0;0.0;https://www.destatis.de;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000027;Statistisches Bundesam;https://www.bfs.admin.ch/;5.0;0.0;1.0;https://www.destatis.de;1;1.0;0.95;0.0;0.9569850029284516;0.04301499707154843
+000000027;Statistisches Bundesam;https://www.bmi.bund.de/SharedDocs/behoerden/DE/destatis.html;9.0;0.0;0.0;https://www.destatis.de;1;2.0;1.82;0.0;0.9170709284935428;0.0829290715064572
+000000027;Statistisches Bundesam;https://www.destatis.de/;0.0;1.0;1.0;https://www.destatis.de;1;4.0;4.0;0.0;0.6573669333754384;0.34263306662456167
+000000027;Statistisches Bundesam;https://www.destatis.de/EN/Home/_node.html;1.0;1.0;0.0;https://www.destatis.de;1;3.0;2.97;0.0;0.8144488528619567;0.18555114713804333
+000000027;Statistisches Bundesam;https://www.t-online.de/themen/statistisches-bundesamt;6.0;0.0;0.0;https://www.destatis.de;1;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000028;Government of Gibraltar;https://WikiMili.com/en/Government_of_Gibraltar;8.0;0.0;0.0;https://www.gibraltar.gov.gi;1;2.0;1.84;0.0;0.9158405648104189;0.08415943518958112
+000000028;Government of Gibraltar;https://en.wikipediam.org/wiki/Government_of_Gibraltar;6.0;0.0;0.0;https://www.gibraltar.gov.gi;1;2.0;1.88;0.0;0.9158405648104189;0.08415943518958112
+000000028;Government of Gibraltar;https://gibraltarlaws.gov.gi/;3.0;0.0;1.0;https://www.gibraltar.gov.gi;1;3.0;2.91;0.0;0.9133300030690162;0.08666999693098379
+000000028;Government of Gibraltar;https://www.britannica.com/place/Gibraltar/Government;7.0;0.0;0.0;https://www.gibraltar.gov.gi;1;0.0;0.0;0.0;0.9133300030690162;0.08666999693098379
+000000028;Government of Gibraltar;https://www.gibraltar.gov.gi/;0.0;1.0;1.0;https://www.gibraltar.gov.gi;1;4.0;4.0;0.0;0.8216242215404816;0.17837577845951838
+000000028;Government of Gibraltar;https://www.wikiwand.com/en/Government_of_Gibraltar;5.0;0.0;0.0;https://www.gibraltar.gov.gi;1;2.0;1.9;0.0;0.8216242215404816;0.17837577845951838
+000000028;Statistics Office;https://context.reverso.net/перевод/английский-русский/national+statistics+office;9.0;0.0;0.0;https://www.gibraltar.gov.gi;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000028;Statistics Office;https://www.cso.ie/;2.0;0.0;1.0;https://www.gibraltar.gov.gi;1;2.0;1.96;0.0;0.9794787212149416;0.02052127878505839
+000000028;Statistics Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;https://www.gibraltar.gov.gi;1;1.0;0.94;0.0;0.6573669333754384;0.34263306662456167
+000000028;Statistics Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://www.gibraltar.gov.gi;1;1.0;1.0;0.0;0.6573669333754384;0.34263306662456167
+000000029;Statistics Office;https://context.reverso.net/перевод/английский-русский/national+statistics+office;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9120494605687088;0.08795053943129114
+000000029;Statistics Office;https://www.cso.ie/;2.0;0.0;1.0;;0;2.0;1.96;0.0;0.9120494605687088;0.08795053943129114
+000000029;Statistics Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9794787212149416;0.02052127878505839
+000000029;Statistics Office;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;0.0;0.9794787212149416;0.02052127878505839
+000000030;Government of Gibraltar;https://WikiMili.com/en/Government_of_Gibraltar;8.0;0.0;0.0;https://www.gibraltar.gov.gi;1;2.0;1.84;0.0;0.9081047153236085;0.09189528467639148
+000000030;Government of Gibraltar;https://en.wikipediam.org/wiki/Government_of_Gibraltar;6.0;0.0;0.0;https://www.gibraltar.gov.gi;1;2.0;1.88;0.0;0.9081047153236085;0.09189528467639148
+000000030;Government of Gibraltar;https://gibraltarlaws.gov.gi/;3.0;0.0;1.0;https://www.gibraltar.gov.gi;1;3.0;2.91;0.0;0.9573145470625423;0.042685452937457694
+000000030;Government of Gibraltar;https://www.britannica.com/place/Gibraltar/Government;7.0;0.0;0.0;https://www.gibraltar.gov.gi;1;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000030;Government of Gibraltar;https://www.gibraltar.gov.gi/;0.0;1.0;1.0;https://www.gibraltar.gov.gi;1;4.0;4.0;0.0;0.9553005240284815;0.044699475971518486
+000000030;Government of Gibraltar;https://www.wikiwand.com/en/Government_of_Gibraltar;5.0;0.0;0.0;https://www.gibraltar.gov.gi;1;2.0;1.9;0.0;0.9553005240284815;0.044699475971518486
+000000031;Statistics Greenland;http://statistics.greenland.com/;2.0;0.0;1.0;http://www.stat.gl/;1;2.0;1.96;0.0;0.9794787212149416;0.02052127878505839
+000000031;Statistics Greenland;http://www.tourismstat.gl/;6.0;0.0;1.0;http://www.stat.gl/;1;2.0;1.88;0.0;0.9081047153236085;0.09189528467639148
+000000031;Statistics Greenland;https://www.stat.gl/default.asp?lang=en;0.0;1.0;0.0;http://www.stat.gl/;1;5.0;5.0;0.0;0.9573145470625423;0.042685452937457694
+000000031;Statistics Greenland;https://www.statista.com/statistics/805672/population-of-greenland/;7.0;0.0;0.0;http://www.stat.gl/;1;0.0;0.0;0.0;0.9553005240284815;0.044699475971518486
+000000031;Statistics Greenland;https://www.worldometers.info/world-population/greenland-population/;3.0;0.0;0.0;http://www.stat.gl/;1;0.0;0.0;0.0;0.9158405648104189;0.08415943518958112
+000000032;Statistics Greenland;http://statistics.greenland.com/;2.0;0.0;1.0;http://www.stat.gl/;1;2.0;1.96;0.0;0.9133300030690162;0.08666999693098379
+000000032;Statistics Greenland;http://www.tourismstat.gl/;6.0;0.0;1.0;http://www.stat.gl/;1;2.0;1.88;0.0;0.8216242215404816;0.17837577845951838
+000000032;Statistics Greenland;https://www.stat.gl/default.asp?lang=en;0.0;1.0;0.0;http://www.stat.gl/;1;5.0;5.0;0.0;0.9794787212149416;0.02052127878505839
+000000032;Statistics Greenland;https://www.statista.com/statistics/805672/population-of-greenland/;7.0;0.0;0.0;http://www.stat.gl/;1;0.0;0.0;0.0;0.6573669333754384;0.34263306662456167
+000000032;Statistics Greenland;https://www.worldometers.info/world-population/greenland-population/;3.0;0.0;0.0;http://www.stat.gl/;1;0.0;0.0;0.0;0.9120494605687088;0.08795053943129114
+000000033;Statistics Greenland;http://statistics.greenland.com/;2.0;0.0;1.0;;0;2.0;1.96;0.0;0.9081047153236085;0.09189528467639148
+000000033;Statistics Greenland;http://www.tourismstat.gl/;6.0;0.0;1.0;;0;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000033;Statistics Greenland;https://www.stat.gl/default.asp?lang=en;0.0;0.0;0.0;;0;4.0;4.0;1.0;0.46209493828970594;0.5379050617102941
+000000033;Statistics Greenland;https://www.statista.com/statistics/805672/population-of-greenland/;7.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000033;Statistics Greenland;https://www.worldometers.info/world-population/greenland-population/;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000034;Hellenic Statistical Authority;https://geodata.gov.gr/en/organization/elstat;6.0;0.0;0.0;https://www.statistics.gr;1;1.0;0.94;0.0;0.9081047153236085;0.09189528467639148
+000000034;Hellenic Statistical Authority;https://www.apollo.io/companies/Hellenic-Statistical-Authority--ELSTAT-/5d0a2afcf65125e4105e36b0;4.0;0.0;0.0;https://www.statistics.gr;1;1.0;0.96;0.0;0.9133300030690162;0.08666999693098379
+000000034;Hellenic Statistical Authority;https://www.elta.gr/;5.0;0.0;1.0;https://www.statistics.gr;1;1.0;0.95;1.0;0.46209493828970594;0.5379050617102941
+000000034;Hellenic Statistical Authority;https://www.statistics.gr/en/home/;0.0;1.0;0.0;https://www.statistics.gr;1;5.0;5.0;0.0;0.9794787212149416;0.02052127878505839
+000000034;Hellenic Statistical Authority;https://www.wikiwand.com/en/Hellenic_Statistical_Authority;9.0;0.0;0.0;https://www.statistics.gr;1;1.0;0.91;0.0;0.9794787212149416;0.02052127878505839
+000000035;National Statistical Service;https://stat.fi/org/tilastotoimi/index_en.html;7.0;0.0;0.0;https://www.statistics.gr;1;1.0;0.9299999999999999;0.0;0.9081047153236085;0.09189528467639148
+000000035;National Statistical Service;https://statsghana.gov.gh/;9.0;0.0;1.0;https://www.statistics.gr;1;1.0;0.91;0.0;0.9133300030690162;0.08666999693098379
+000000035;National Statistical Service;https://www.armstat.am/en/;2.0;0.0;1.0;https://www.statistics.gr;1;1.0;0.98;0.0;0.6573669333754384;0.34263306662456167
+000000035;National Statistical Service;https://www.ons.gov.uk/;6.0;0.0;1.0;https://www.statistics.gr;1;1.0;0.94;0.0;0.9794787212149416;0.02052127878505839
+000000036;Hellenic Statistical Authority;https://geodata.gov.gr/en/organization/elstat;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9794787212149416;0.02052127878505839
+000000036;Hellenic Statistical Authority;https://www.apollo.io/companies/Hellenic-Statistical-Authority--ELSTAT-/5d0a2afcf65125e4105e36b0;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9573145470625423;0.042685452937457694
+000000036;Hellenic Statistical Authority;https://www.elta.gr/;5.0;0.0;1.0;;0;1.0;0.95;0.0;0.9566530298173299;0.04334697018267012
+000000036;Hellenic Statistical Authority;https://www.statistics.gr/en/home/;0.0;0.0;0.0;;0;4.0;4.0;0.0;0.9569850029284516;0.04301499707154843
+000000036;Hellenic Statistical Authority;https://www.wikiwand.com/en/Hellenic_Statistical_Authority;9.0;0.0;0.0;;0;1.0;0.91;1.0;0.46209493828970594;0.5379050617102941
+000000037;Statistics Denmark;https://WikiMili.com/en/Statistics_Denmark;4.0;0.0;0.0;https://www.dst.dk;1;2.0;1.92;0.0;0.9582887656045738;0.04171123439542624
+000000037;Statistics Denmark;https://www.dst.dk/en;0.0;1.0;1.0;https://www.dst.dk;1;7.0;7.0;0.0;0.9576416782594945;0.042358321740505425
+000000037;Statistics Denmark;https://www.statista.com/topics/2522/denmark/;3.0;0.0;0.0;https://www.dst.dk;1;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000037;Statistics Denmark;https://www.worldometers.info/world-population/denmark-population/;9.0;0.0;0.0;https://www.dst.dk;1;0.0;0.0;0.0;0.9559817321077185;0.04401826789228151
+000000038;Statistics Denmark;https://WikiMili.com/en/Statistics_Denmark;4.0;0.0;0.0;;0;2.0;1.92;0.0;0.9573145470625423;0.042685452937457694
+000000038;Statistics Denmark;https://www.dst.dk/en;0.0;0.0;1.0;;0;6.0;6.0;0.0;0.9573145470625423;0.042685452937457694
+000000038;Statistics Denmark;https://www.statista.com/topics/2522/denmark/;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9566530298173299;0.04334697018267012
+000000038;Statistics Denmark;https://www.worldometers.info/world-population/denmark-population/;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9569850029284516;0.04301499707154843
+000000039;Statistics Denmark;https://WikiMili.com/en/Statistics_Denmark;4.0;0.0;0.0;;0;2.0;1.92;0.0;0.6573669333754384;0.34263306662456167
+000000039;Statistics Denmark;https://www.dst.dk/en;0.0;0.0;1.0;;0;5.0;5.0;0.0;0.9582887656045738;0.04171123439542624
+000000039;Statistics Denmark;https://www.statista.com/topics/2522/denmark/;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9107518469553919;0.08924815304460813
+000000039;Statistics Denmark;https://www.worldometers.info/world-population/denmark-population/;9.0;0.0;0.0;;0;0.0;0.0;1.0;0.14692820172038057;0.8530717982796194
+000000040;Statistics Denmark;https://WikiMili.com/en/Statistics_Denmark;4.0;0.0;0.0;https://www.dst.dk;1;2.0;1.92;0.0;0.9794787212149416;0.02052127878505839
+000000040;Statistics Denmark;https://www.dst.dk/en;0.0;1.0;1.0;https://www.dst.dk;1;4.0;4.0;0.0;0.9794787212149416;0.02052127878505839
+000000040;Statistics Denmark;https://www.statista.com/topics/2522/denmark/;3.0;0.0;0.0;https://www.dst.dk;1;0.0;0.0;0.0;0.9107518469553919;0.08924815304460813
+000000040;Statistics Denmark;https://www.worldometers.info/world-population/denmark-population/;9.0;0.0;0.0;https://www.dst.dk;1;0.0;0.0;1.0;0.2777989938694888;0.7222010061305112
+000000041;Statistics Estonia;https://WikiMili.com/en/Statistics_Estonia;5.0;0.0;0.0;https://www.stat.ee;1;2.0;1.9;0.0;0.9794787212149416;0.02052127878505839
+000000041;Statistics Estonia;https://www.stat.ee/;1.0;1.0;1.0;https://www.stat.ee;1;5.0;4.95;0.0;0.9794787212149416;0.02052127878505839
+000000041;Statistics Estonia;https://www.stat.ee/en;0.0;1.0;1.0;https://www.stat.ee;1;6.0;6.0;0.0;0.9107518469553919;0.08924815304460813
+000000041;Statistics Estonia;https://www.statista.com/topics/3920/estonia/;7.0;0.0;0.0;https://www.stat.ee;1;0.0;0.0;1.0;0.46209493828970594;0.5379050617102941
+000000041;Statistics Estonia;https://www.wikiwand.com/en/Statistics_Estonia;9.0;0.0;0.0;https://www.stat.ee;1;1.0;0.91;0.0;0.9794787212149416;0.02052127878505839
+000000042;Statistics Estonia;https://WikiMili.com/en/Statistics_Estonia;5.0;0.0;0.0;;0;2.0;1.9;0.0;0.9794787212149416;0.02052127878505839
+000000042;Statistics Estonia;https://www.stat.ee/;1.0;0.0;1.0;;0;3.0;2.97;0.0;0.9107518469553919;0.08924815304460813
+000000042;Statistics Estonia;https://www.stat.ee/en;0.0;0.0;1.0;;0;4.0;4.0;0.0;0.6573669333754384;0.34263306662456167
+000000042;Statistics Estonia;https://www.statista.com/topics/3920/estonia/;7.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000042;Statistics Estonia;https://www.wikiwand.com/en/Statistics_Estonia;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9794787212149416;0.02052127878505839
+000000043;Statistics Estonia;https://WikiMili.com/en/Statistics_Estonia;5.0;0.0;0.0;https://www.stat.ee;1;2.0;1.9;0.0;0.9120494605687088;0.08795053943129114
+000000043;Statistics Estonia;https://www.stat.ee/;1.0;1.0;1.0;https://www.stat.ee;1;4.0;3.96;1.0;0.4720947733088706;0.5279052266911294
+000000043;Statistics Estonia;https://www.stat.ee/en;0.0;1.0;1.0;https://www.stat.ee;1;5.0;5.0;1.0;0.2777989938694888;0.7222010061305112
+000000043;Statistics Estonia;https://www.statista.com/topics/3920/estonia/;7.0;0.0;0.0;https://www.stat.ee;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000043;Statistics Estonia;https://www.wikiwand.com/en/Statistics_Estonia;9.0;0.0;0.0;https://www.stat.ee;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000044;Central Statistics Office;http://mospi.gov.in/central-statistics-office-cso-1;2.0;0.0;0.0;https://www.cso.ie;1;1.0;0.98;0.0;0.9120494605687088;0.08795053943129114
+000000044;Central Statistics Office;https://cso.gov.tt/;3.0;0.0;1.0;https://www.cso.ie;1;1.0;0.97;0.0;0.8144488528619567;0.18555114713804333
+000000044;Central Statistics Office;https://data.gov.ie/organization/central-statistics-office;6.0;0.0;0.0;https://www.cso.ie;1;2.0;1.88;0.0;0.6573669333754384;0.34263306662456167
+000000044;Central Statistics Office;https://www.cso.ie/;0.0;1.0;1.0;https://www.cso.ie;1;7.0;7.0;0.0;0.9794787212149416;0.02052127878505839
+000000044;Central Statistics Office;https://www.csostat.gov.mm/;9.0;0.0;1.0;https://www.cso.ie;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000044;Central Statistics Office;https://www.stats.gov.lc/;8.0;0.0;1.0;https://www.cso.ie;1;2.0;1.84;0.0;0.9120494605687088;0.08795053943129114
+000000045;Central Statistics Office;http://mospi.gov.in/central-statistics-office-cso-1;2.0;0.0;0.0;;0;1.0;0.98;0.0;0.6645689072427203;0.3354310927572797
+000000045;Central Statistics Office;https://cso.gov.tt/;3.0;0.0;1.0;;0;1.0;0.97;1.0;0.46209493828970594;0.5379050617102941
+000000045;Central Statistics Office;https://data.gov.ie/organization/central-statistics-office;6.0;0.0;0.0;;0;2.0;1.88;0.0;0.9794787212149416;0.02052127878505839
+000000045;Central Statistics Office;https://www.cso.ie/;0.0;0.0;1.0;;0;5.0;5.0;0.0;0.9582887656045738;0.04171123439542624
+000000045;Central Statistics Office;https://www.csostat.gov.mm/;9.0;0.0;1.0;;0;1.0;0.91;0.0;0.9559817321077185;0.04401826789228151
+000000045;Central Statistics Office;https://www.stats.gov.lc/;8.0;0.0;1.0;;0;2.0;1.84;0.0;0.9563186116099341;0.043681388390065905
+000000046;Central Statistics Office;http://mospi.gov.in/central-statistics-office-cso-1;2.0;0.0;0.0;https://www.cso.ie;1;1.0;0.98;0.0;0.9133300030690162;0.08666999693098379
+000000046;Central Statistics Office;https://cso.gov.tt/;3.0;0.0;1.0;https://www.cso.ie;1;1.0;0.97;1.0;0.14692820172038057;0.8530717982796194
+000000046;Central Statistics Office;https://data.gov.ie/organization/central-statistics-office;6.0;0.0;0.0;https://www.cso.ie;1;2.0;1.88;0.0;0.9582887656045738;0.04171123439542624
+000000046;Central Statistics Office;https://www.cso.ie/;0.0;1.0;1.0;https://www.cso.ie;1;5.0;5.0;0.0;0.9158405648104189;0.08415943518958112
+000000046;Central Statistics Office;https://www.csostat.gov.mm/;9.0;0.0;1.0;https://www.cso.ie;1;1.0;0.91;0.0;0.9559817321077185;0.04401826789228151
+000000046;Central Statistics Office;https://www.stats.gov.lc/;8.0;0.0;1.0;https://www.cso.ie;1;2.0;1.84;0.0;0.9563186116099341;0.043681388390065905
+000000047;Statistics Iceland;https://statice.is/;0.0;1.0;1.0;https://statice.is/;1;7.0;7.0;0.0;0.9133300030690162;0.08666999693098379
+000000047;Statistics Iceland;https://www.citypopulation.de/en/iceland/cities/;9.0;0.0;0.0;https://statice.is/;1;2.0;1.82;1.0;0.46209493828970594;0.5379050617102941
+000000047;Statistics Iceland;https://www.statista.com/topics/3079/iceland/;3.0;0.0;0.0;https://statice.is/;1;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000047;Statistics Iceland;https://www.wikiwand.com/en/Statistics_Iceland;8.0;0.0;0.0;https://statice.is/;1;1.0;0.92;0.0;0.9158405648104189;0.08415943518958112
+000000048;Statistics Iceland;https://statice.is/;0.0;0.0;1.0;https://hagstofa.is/;1;6.0;6.0;0.0;0.9559817321077185;0.04401826789228151
+000000048;Statistics Iceland;https://www.citypopulation.de/en/iceland/cities/;9.0;0.0;0.0;https://hagstofa.is/;1;2.0;1.82;0.0;0.9563186116099341;0.043681388390065905
+000000048;Statistics Iceland;https://www.statista.com/topics/3079/iceland/;3.0;0.0;0.0;https://hagstofa.is/;1;0.0;0.0;0.0;0.9133300030690162;0.08666999693098379
+000000048;Statistics Iceland;https://www.wikiwand.com/en/Statistics_Iceland;8.0;0.0;0.0;https://hagstofa.is/;1;1.0;0.92;1.0;0.46209493828970594;0.5379050617102941
+000000049;Statistics Iceland;https://statice.is/;0.0;0.0;1.0;;0;5.0;5.0;0.0;0.9582887656045738;0.04171123439542624
+000000049;Statistics Iceland;https://www.citypopulation.de/en/iceland/cities/;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9158405648104189;0.08415943518958112
+000000049;Statistics Iceland;https://www.statista.com/topics/3079/iceland/;3.0;0.0;0.0;;0;0.0;0.0;1.0;0.14692820172038057;0.8530717982796194
+000000049;Statistics Iceland;https://www.wikiwand.com/en/Statistics_Iceland;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.9170709284935428;0.0829290715064572
+000000050;Statistics Iceland;https://statice.is/;0.0;0.0;1.0;;0;5.0;5.0;0.0;0.9794787212149416;0.02052127878505839
+000000050;Statistics Iceland;https://www.citypopulation.de/en/iceland/cities/;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9579664124798111;0.04203358752018896
+000000050;Statistics Iceland;https://www.statista.com/topics/3079/iceland/;3.0;0.0;0.0;;0;0.0;0.0;1.0;0.2777989938694888;0.7222010061305112
+000000050;Statistics Iceland;https://www.wikiwand.com/en/Statistics_Iceland;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.9170709284935428;0.0829290715064572
+000000051;Instituto Nacional de Estadistica;http://www.ine.gov.ve/;9.0;0.0;1.0;https://www.ine.es;1;2.0;1.82;0.0;0.9794787212149416;0.02052127878505839
+000000051;Instituto Nacional de Estadistica;http://www.ine.gub.uy/;6.0;0.0;1.0;https://www.ine.es;1;1.0;0.94;0.0;0.9579664124798111;0.04203358752018896
+000000051;Instituto Nacional de Estadistica;https://ine.es/;0.0;0.0;1.0;https://www.ine.es;1;3.0;3.0;1.0;0.46209493828970594;0.5379050617102941
+000000051;Instituto Nacional de Estadistica;https://ine.st/;5.0;0.0;1.0;https://www.ine.es;1;1.0;0.95;0.0;0.9170709284935428;0.0829290715064572
+000000051;Instituto Nacional de Estadistica;https://www.ine.cl/;2.0;0.0;1.0;https://www.ine.es;1;1.0;0.98;0.0;0.9794787212149416;0.02052127878505839
+000000051;Instituto Nacional de Estadistica;https://www.ine.gob.bo/;3.0;0.0;1.0;https://www.ine.es;1;1.0;0.97;0.0;0.9579664124798111;0.04203358752018896
+000000051;Instituto Nacional de Estadistica;https://www.ine.gob.gt/;8.0;0.0;1.0;https://www.ine.es;1;1.0;0.92;1.0;0.46209493828970594;0.5379050617102941
+000000051;Instituto Nacional de Estadistica;https://www.inei.gob.pe/;4.0;0.0;1.0;https://www.ine.es;1;3.0;2.88;0.0;0.9170709284935428;0.0829290715064572
+000000052;Instituto Nacional de Estadistica;http://www.ine.gov.ve/;9.0;0.0;1.0;;0;2.0;1.82;0.0;0.9794787212149416;0.02052127878505839
+000000052;Instituto Nacional de Estadistica;http://www.ine.gub.uy/;6.0;0.0;1.0;;0;1.0;0.94;0.0;0.9579664124798111;0.04203358752018896
+000000052;Instituto Nacional de Estadistica;https://ine.es/;0.0;0.0;1.0;;0;3.0;3.0;0.0;0.9170709284935428;0.0829290715064572
+000000052;Instituto Nacional de Estadistica;https://ine.st/;5.0;0.0;1.0;;0;1.0;0.95;0.0;0.9573145470625423;0.042685452937457694
+000000052;Instituto Nacional de Estadistica;https://www.ine.cl/;2.0;0.0;1.0;;0;1.0;0.98;0.0;0.8107784433033998;0.18922155669660026
+000000052;Instituto Nacional de Estadistica;https://www.ine.gob.bo/;3.0;0.0;1.0;;0;1.0;0.97;0.0;0.9569850029284516;0.04301499707154843
+000000052;Instituto Nacional de Estadistica;https://www.ine.gob.gt/;8.0;0.0;1.0;;0;1.0;0.92;0.0;0.9559817321077185;0.04401826789228151
+000000052;Instituto Nacional de Estadistica;https://www.inei.gob.pe/;4.0;0.0;1.0;;0;3.0;2.88;0.0;0.9563186116099341;0.043681388390065905
+000000053;Instituto Nacional de Estadistica;http://www.ine.gov.ve/;9.0;0.0;1.0;https://www.ine.es;1;2.0;1.82;0.0;0.9579664124798111;0.04203358752018896
+000000053;Instituto Nacional de Estadistica;http://www.ine.gub.uy/;6.0;0.0;1.0;https://www.ine.es;1;1.0;0.94;0.0;0.825129626222616;0.17487037377738407
+000000053;Instituto Nacional de Estadistica;https://ine.es/;0.0;0.0;1.0;https://www.ine.es;1;3.0;3.0;0.0;0.9170709284935428;0.0829290715064572
+000000053;Instituto Nacional de Estadistica;https://ine.st/;5.0;0.0;1.0;https://www.ine.es;1;1.0;0.95;0.0;0.9573145470625423;0.042685452937457694
+000000053;Instituto Nacional de Estadistica;https://www.ine.cl/;2.0;0.0;1.0;https://www.ine.es;1;1.0;0.98;0.0;0.8107784433033998;0.18922155669660026
+000000053;Instituto Nacional de Estadistica;https://www.ine.gob.bo/;3.0;0.0;1.0;https://www.ine.es;1;1.0;0.97;0.0;0.9569850029284516;0.04301499707154843
+000000053;Instituto Nacional de Estadistica;https://www.ine.gob.gt/;8.0;0.0;1.0;https://www.ine.es;1;1.0;0.92;0.0;0.9559817321077185;0.04401826789228151
+000000053;Instituto Nacional de Estadistica;https://www.inei.gob.pe/;4.0;0.0;1.0;https://www.ine.es;1;3.0;2.88;0.0;0.9563186116099341;0.043681388390065905
+000000054;Instituto Nacional de Estadistica;http://www.ine.gov.ve/;9.0;0.0;1.0;;0;2.0;1.82;0.0;0.9579664124798111;0.04203358752018896
+000000054;Instituto Nacional de Estadistica;http://www.ine.gub.uy/;6.0;0.0;1.0;;0;1.0;0.94;0.0;0.825129626222616;0.17487037377738407
+000000054;Instituto Nacional de Estadistica;https://ine.es/;0.0;0.0;1.0;;0;2.0;2.0;0.0;0.9170709284935428;0.0829290715064572
+000000054;Instituto Nacional de Estadistica;https://ine.st/;5.0;0.0;1.0;;0;1.0;0.95;0.0;0.9573145470625423;0.042685452937457694
+000000054;Instituto Nacional de Estadistica;https://www.ine.cl/;2.0;0.0;1.0;;0;1.0;0.98;0.0;0.8107784433033998;0.18922155669660026
+000000054;Instituto Nacional de Estadistica;https://www.ine.gob.bo/;3.0;0.0;1.0;;0;1.0;0.97;0.0;0.9569850029284516;0.04301499707154843
+000000054;Instituto Nacional de Estadistica;https://www.ine.gob.gt/;8.0;0.0;1.0;;0;1.0;0.92;0.0;0.9559817321077185;0.04401826789228151
+000000054;Instituto Nacional de Estadistica;https://www.inei.gob.pe/;4.0;0.0;1.0;;0;3.0;2.88;0.0;0.9563186116099341;0.043681388390065905
+000000055;Italian National Institute of Statistics;https://db.nomics.world/ISTAT;3.0;0.0;0.0;https://www.istat.it;1;2.0;1.94;0.0;0.9579664124798111;0.04203358752018896
+000000055;Italian National Institute of Statistics;https://mapcarta.com/N6241969395;6.0;0.0;0.0;https://www.istat.it;1;2.0;1.88;0.0;0.825129626222616;0.17487037377738407
+000000055;Italian National Institute of Statistics;https://marketplace.officialstatistics.org/partner/italian_national_institute_of_statistics;9.0;0.0;0.0;https://www.istat.it;1;0.0;0.0;0.0;0.9170709284935428;0.0829290715064572
+000000055;Italian National Institute of Statistics;https://www.inps.it/;5.0;0.0;1.0;https://www.istat.it;1;1.0;0.95;0.0;0.9573145470625423;0.042685452937457694
+000000055;Italian National Institute of Statistics;https://www.istat.it/en/;0.0;1.0;1.0;https://www.istat.it;1;6.0;6.0;0.0;0.905387225293026;0.09461277470697399
+000000055;Italian National Institute of Statistics;https://www.wikiwand.com/en/Italian_National_Institute_of_Statistics;4.0;0.0;0.0;https://www.istat.it;1;2.0;1.92;0.0;0.9569850029284516;0.04301499707154843
+000000056;Italian National Institute of Statistics;https://db.nomics.world/ISTAT;3.0;0.0;0.0;;0;2.0;1.94;0.0;0.9559817321077185;0.04401826789228151
+000000056;Italian National Institute of Statistics;https://mapcarta.com/N6241969395;6.0;0.0;0.0;;0;2.0;1.88;0.0;0.9563186116099341;0.043681388390065905
+000000056;Italian National Institute of Statistics;https://marketplace.officialstatistics.org/partner/italian_national_institute_of_statistics;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9579664124798111;0.04203358752018896
+000000056;Italian National Institute of Statistics;https://www.inps.it/;5.0;0.0;1.0;;0;1.0;0.95;0.0;0.825129626222616;0.17487037377738407
+000000056;Italian National Institute of Statistics;https://www.istat.it/en/;0.0;0.0;1.0;;0;5.0;5.0;0.0;0.9094369894898552;0.0905630105101448
+000000056;Italian National Institute of Statistics;https://www.wikiwand.com/en/Italian_National_Institute_of_Statistics;4.0;0.0;0.0;;0;2.0;1.92;0.0;0.9133300030690162;0.08666999693098379
+000000057;Istat – Istituto nazionale di statistica;https://www.istat.it/;1.0;1.0;1.0;https://www.istat.it;1;4.0;3.96;0.0;0.9794787212149416;0.02052127878505839
+000000057;Istat – Istituto nazionale di statistica;https://www.istat.it/en/;0.0;1.0;1.0;https://www.istat.it;1;5.0;5.0;0.0;0.9569850029284516;0.04301499707154843
+000000057;Istat – Istituto nazionale di statistica;https://www.istat.org/;6.0;0.0;1.0;https://www.istat.it;1;1.0;0.94;1.0;0.2777989938694888;0.7222010061305112
+000000058;Istat – Istituto nazionale di statistica;https://www.istat.it/;1.0;0.0;1.0;;0;3.0;2.97;0.0;0.9107518469553919;0.08924815304460813
+000000058;Istat – Istituto nazionale di statistica;https://www.istat.it/en/;0.0;0.0;1.0;;0;4.0;4.0;0.0;0.9094369894898552;0.0905630105101448
+000000058;Istat – Istituto nazionale di statistica;https://www.istat.org/;6.0;0.0;1.0;;0;1.0;0.94;0.0;0.9133300030690162;0.08666999693098379
+000000060;Statistical Service;https://statsghana.gov.gh/;0.0;0.0;1.0;http://www.cystat.gov.cy;1;2.0;2.0;0.0;0.9794787212149416;0.02052127878505839
+000000061;Statistical Service;https://statsghana.gov.gh/;0.0;0.0;1.0;;0;2.0;2.0;0.0;0.9569850029284516;0.04301499707154843
+000000062;Statistical Service;https://statsghana.gov.gh/;0.0;0.0;1.0;;0;2.0;2.0;1.0;0.46209493828970594;0.5379050617102941
+000000063;Kosovo Agency of Statistics;http://cbonds.com/organisations/emitent/197799;4.0;0.0;0.0;https://ask.rks-gov.net;1;1.0;0.96;0.0;0.9107518469553919;0.08924815304460813
+000000063;Kosovo Agency of Statistics;https://ask.rks-gov.net/en/kosovo-agency-of-statistics;0.0;1.0;0.0;https://ask.rks-gov.net;1;3.0;3.0;0.0;0.6645689072427203;0.3354310927572797
+000000063;Kosovo Agency of Statistics;https://bqk-kos.org/kosovo-economy-at-a-glance/?lang=en;9.0;0.0;0.0;https://ask.rks-gov.net;1;1.0;0.91;1.0;0.46209493828970594;0.5379050617102941
+000000063;Kosovo Agency of Statistics;https://kosovoprojects.eu/;7.0;0.0;1.0;https://ask.rks-gov.net;1;3.0;2.79;0.0;0.9573145470625423;0.042685452937457694
+000000063;Kosovo Agency of Statistics;https://slideplayer.com/slide/16266729/;8.0;0.0;0.0;https://ask.rks-gov.net;1;1.0;0.92;0.0;0.8144488528619567;0.18555114713804333
+000000063;Kosovo Agency of Statistics;https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html;5.0;0.0;0.0;https://ask.rks-gov.net;1;1.0;0.95;0.0;0.6573669333754384;0.34263306662456167
+000000063;Kosovo Agency of Statistics;https://www.loc.gov/item/lcwaN0014040/;2.0;0.0;0.0;https://ask.rks-gov.net;1;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000064;Kosovo Agency of Statistics;http://cbonds.com/organisations/emitent/197799;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.905387225293026;0.09461277470697399
+000000064;Kosovo Agency of Statistics;https://bqk-kos.org/kosovo-economy-at-a-glance/?lang=en;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.905387225293026;0.09461277470697399
+000000064;Kosovo Agency of Statistics;https://kosovoprojects.eu/;7.0;0.0;1.0;;0;3.0;2.79;0.0;0.905387225293026;0.09461277470697399
+000000064;Kosovo Agency of Statistics;https://slideplayer.com/slide/16266729/;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.9566530298173299;0.04334697018267012
+000000064;Kosovo Agency of Statistics;https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html;5.0;0.0;0.0;;0;1.0;0.95;0.0;0.8107784433033998;0.18922155669660026
+000000064;Kosovo Agency of Statistics;https://www.loc.gov/item/lcwaN0014040/;2.0;0.0;0.0;;0;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000065;Agency of Statistics;https://nsa.org.na/;6.0;0.0;1.0;https://ask.rks-gov.net;1;1.0;0.94;0.0;0.8353199021222214;0.1646800978777786
+000000065;Agency of Statistics;https://world-statistics.org/index-pop.php;8.0;0.0;0.0;https://ask.rks-gov.net;1;1.0;0.92;0.0;0.9579664124798111;0.04203358752018896
+000000065;Agency of Statistics;https://www.census.gov/programs-surveys/international-programs/about/related-sites.html;7.0;0.0;0.0;https://ask.rks-gov.net;1;1.0;0.9299999999999999;0.0;0.9569850029284516;0.04301499707154843
+000000065;Agency of Statistics;https://www.ilo.org/stat/lang--en/index.htm;9.0;0.0;0.0;https://ask.rks-gov.net;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000065;Agency of Statistics;https://www.ons.gov.uk/;5.0;0.0;1.0;https://ask.rks-gov.net;1;1.0;0.95;0.0;0.9566530298173299;0.04334697018267012
+000000066;Agency of Statistics;https://nsa.org.na/;6.0;0.0;1.0;;0;1.0;0.94;0.0;0.9582887656045738;0.04171123439542624
+000000066;Agency of Statistics;https://world-statistics.org/index-pop.php;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.8353199021222214;0.1646800978777786
+000000066;Agency of Statistics;https://www.census.gov/programs-surveys/international-programs/about/related-sites.html;7.0;0.0;0.0;;0;1.0;0.9299999999999999;0.0;0.9579664124798111;0.04203358752018896
+000000066;Agency of Statistics;https://www.ilo.org/stat/lang--en/index.htm;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9569850029284516;0.04301499707154843
+000000066;Agency of Statistics;https://www.ons.gov.uk/;5.0;0.0;1.0;;0;1.0;0.95;0.0;0.9794787212149416;0.02052127878505839
+000000067;Central Statistical Bureau;https://world-statistics.org/index-pop.php;9.0;0.0;0.0;https://www.csb.gov.lv;1;1.0;0.91;0.0;0.9573145470625423;0.042685452937457694
+000000067;Central Statistical Bureau;https://www.cbs.cw/;6.0;0.0;1.0;https://www.csb.gov.lv;1;1.0;0.94;0.0;0.9579664124798111;0.04203358752018896
+000000067;Central Statistical Bureau;https://www.csb.gov.kw/Default_EN;2.0;0.0;0.0;https://www.csb.gov.lv;1;1.0;0.98;0.0;0.9576416782594945;0.042358321740505425
+000000067;Central Statistical Bureau;https://www.csb.gov.lv/en/sakums;1.0;1.0;0.0;https://www.csb.gov.lv;1;6.0;5.94;0.0;0.9794787212149416;0.02052127878505839
+000000067;Central Statistical Bureau;https://www.csb.gov.lv/en/statistics;0.0;1.0;0.0;https://www.csb.gov.lv;1;6.0;6.0;0.0;0.9569850029284516;0.04301499707154843
+000000067;Central Statistical Bureau;https://www.gov.il/en/departments/central_bureau_of_statistics;3.0;0.0;0.0;https://www.csb.gov.lv;1;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000068;Central Statistical Bureau;https://world-statistics.org/index-pop.php;9.0;0.0;0.0;https://www.csb.gov.lv;1;1.0;0.91;0.0;0.9579664124798111;0.04203358752018896
+000000068;Central Statistical Bureau;https://www.cbs.cw/;6.0;0.0;1.0;https://www.csb.gov.lv;1;1.0;0.94;0.0;0.9576416782594945;0.042358321740505425
+000000068;Central Statistical Bureau;https://www.csb.gov.kw/Default_EN;2.0;0.0;0.0;https://www.csb.gov.lv;1;1.0;0.98;0.0;0.9794787212149416;0.02052127878505839
+000000068;Central Statistical Bureau;https://www.csb.gov.lv/en/sakums;1.0;1.0;0.0;https://www.csb.gov.lv;1;6.0;5.94;0.0;0.9569850029284516;0.04301499707154843
+000000068;Central Statistical Bureau;https://www.csb.gov.lv/en/statistics;0.0;1.0;0.0;https://www.csb.gov.lv;1;6.0;6.0;0.0;0.9582887656045738;0.04171123439542624
+000000068;Central Statistical Bureau;https://www.gov.il/en/departments/central_bureau_of_statistics;3.0;0.0;0.0;https://www.csb.gov.lv;1;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000069;Central Statistical Bureau;https://world-statistics.org/index-pop.php;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9559817321077185;0.04401826789228151
+000000069;Central Statistical Bureau;https://www.cbs.cw/;6.0;0.0;1.0;;0;1.0;0.94;1.0;0.28757395368052474;0.7124260463194753
+000000069;Central Statistical Bureau;https://www.csb.gov.kw/Default_EN;2.0;0.0;0.0;;0;1.0;0.98;1.0;0.2777989938694888;0.7222010061305112
+000000069;Central Statistical Bureau;https://www.csb.gov.lv/en/sakums;1.0;0.0;0.0;;0;5.0;4.95;0.0;0.9794787212149416;0.02052127878505839
+000000069;Central Statistical Bureau;https://www.csb.gov.lv/en/statistics;0.0;0.0;0.0;;0;5.0;5.0;0.0;0.9582887656045738;0.04171123439542624
+000000069;Central Statistical Bureau;https://www.gov.il/en/departments/central_bureau_of_statistics;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000070;Central Statistical Bureau;https://world-statistics.org/index-pop.php;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9559817321077185;0.04401826789228151
+000000070;Central Statistical Bureau;https://www.cbs.cw/;6.0;0.0;1.0;;0;1.0;0.94;1.0;0.28757395368052474;0.7124260463194753
+000000070;Central Statistical Bureau;https://www.csb.gov.kw/Default_EN;2.0;0.0;0.0;;0;1.0;0.98;1.0;0.2777989938694888;0.7222010061305112
+000000070;Central Statistical Bureau;https://www.csb.gov.lv/en/sakums;1.0;0.0;0.0;;0;5.0;4.95;0.0;0.9794787212149416;0.02052127878505839
+000000070;Central Statistical Bureau;https://www.csb.gov.lv/en/statistics;0.0;0.0;0.0;;0;5.0;5.0;0.0;0.9582887656045738;0.04171123439542624
+000000070;Central Statistical Bureau;https://www.gov.il/en/departments/central_bureau_of_statistics;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000071;Central Statistical Bureau of Latvia;https://spkc.gov.lv/;7.0;0.0;1.0;https://www.csb.gov.lv;1;2.0;1.8599999999999999;0.0;0.9559817321077185;0.04401826789228151
+000000071;Central Statistical Bureau of Latvia;https://www.apollo.io/companies/Central-Statistical-Bureau-of-Latvia/54a1361f69702d3e8355e400;8.0;0.0;0.0;https://www.csb.gov.lv;1;2.0;1.84;1.0;0.4720947733088706;0.5279052266911294
+000000071;Central Statistical Bureau of Latvia;https://www.csb.gov.lv/;2.0;1.0;1.0;https://www.csb.gov.lv;1;4.0;3.92;1.0;0.46209493828970594;0.5379050617102941
+000000071;Central Statistical Bureau of Latvia;https://www.csb.gov.lv/en/about-us;3.0;1.0;0.0;https://www.csb.gov.lv;1;5.0;4.85;0.0;0.9794787212149416;0.02052127878505839
+000000071;Central Statistical Bureau of Latvia;https://www.csb.gov.lv/en/about-us/overview;4.0;1.0;0.0;https://www.csb.gov.lv;1;5.0;4.8;0.0;0.9582887656045738;0.04171123439542624
+000000071;Central Statistical Bureau of Latvia;https://www.csb.gov.lv/en/sakums;0.0;1.0;0.0;https://www.csb.gov.lv;1;5.0;5.0;0.0;0.9573145470625423;0.042685452937457694
+000000071;Central Statistical Bureau of Latvia;https://www.csb.gov.lv/en/statistics;1.0;1.0;0.0;https://www.csb.gov.lv;1;5.0;4.95;0.0;0.9559817321077185;0.04401826789228151
+000000072;Statistics Lithuania;https://www.cia.gov/library/publications/the-world-factbook/geos/lh.html;9.0;0.0;0.0;https://www.stat.gov.lt;1;1.0;0.91;1.0;0.4720947733088706;0.5279052266911294
+000000072;Statistics Lithuania;https://www.stat.gov.lt/;0.0;1.0;1.0;https://www.stat.gov.lt;1;7.0;7.0;1.0;0.46209493828970594;0.5379050617102941
+000000073;Statistics Lithuania;https://www.cia.gov/library/publications/the-world-factbook/geos/lh.html;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9794787212149416;0.02052127878505839
+000000073;Statistics Lithuania;https://www.stat.gov.lt/;0.0;0.0;1.0;;0;6.0;6.0;0.0;0.914593647030856;0.08540635296914399
+000000074;Statistics Lithuania;https://www.cia.gov/library/publications/the-world-factbook/geos/lh.html;9.0;0.0;0.0;https://www.stat.gov.lt;1;1.0;0.91;0.0;0.9158405648104189;0.08415943518958112
+000000074;Statistics Lithuania;https://www.stat.gov.lt/;0.0;1.0;1.0;https://www.stat.gov.lt;1;5.0;5.0;0.0;0.6716951030058906;0.3283048969941094
+000000076;Office of Statistics;https://www.gov.uk/government/organisations/office-for-national-statistics;3.0;0.0;0.0;https://www.llv.li;1;0.0;0.0;1.0;0.4921537395224421;0.5078462604775579
+000000076;Office of Statistics;https://www.ons.gov.uk/;0.0;0.0;1.0;https://www.llv.li;1;1.0;1.0;0.0;0.502196755959031;0.49780324404096904
+000000077;Office of Statistics;https://www.gov.uk/government/organisations/office-for-national-statistics;3.0;0.0;0.0;;0;0.0;0.0;1.0;0.46209493828970594;0.5379050617102941
+000000077;Office of Statistics;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;1.0;0.4720947733088706;0.5279052266911294
+000000078;Office of Statistics;https://www.gov.uk/government/organisations/office-for-national-statistics;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000078;Office of Statistics;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;1.0;0.14692820172038057;0.8530717982796194
+000000079;National Institute of Statistics and Economic Studies;https://dictionary.reverso.net/english-french/national+institute+of+statistics+and+economic+studies;9.0;0.0;0.0;https://statistiques.public.lu;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000079;National Institute of Statistics and Economic Studies;https://insse.ro/cms/en;6.0;0.0;0.0;https://statistiques.public.lu;1;0.0;0.0;1.0;0.2777989938694888;0.7222010061305112
+000000079;National Institute of Statistics and Economic Studies;https://knoema.com/atlas/sources/INSEE;3.0;0.0;0.0;https://statistiques.public.lu;1;2.0;1.94;0.0;0.9582887656045738;0.04171123439542624
+000000079;National Institute of Statistics and Economic Studies;https://www.gouvernement.fr/en/statistics;2.0;0.0;0.0;https://statistiques.public.lu;1;1.0;0.98;1.0;0.46209493828970594;0.5379050617102941
+000000079;National Institute of Statistics and Economic Studies;https://www.insee.fr/en/accueil;0.0;0.0;0.0;https://statistiques.public.lu;1;1.0;1.0;0.0;0.9794787212149416;0.02052127878505839
+000000079;National Institute of Statistics and Economic Studies;https://www.university-directory.eu/France/National-Institute-of-Statistics-and-Economic-Studies.html;4.0;0.0;0.0;https://statistiques.public.lu;1;2.0;1.92;0.0;0.9553005240284815;0.044699475971518486
+000000080;National Institute of Statistics and Economic Studies;https://dictionary.reverso.net/english-french/national+institute+of+statistics+and+economic+studies;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9794787212149416;0.02052127878505839
+000000080;National Institute of Statistics and Economic Studies;https://insse.ro/cms/en;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9553005240284815;0.044699475971518486
+000000080;National Institute of Statistics and Economic Studies;https://knoema.com/atlas/sources/INSEE;3.0;0.0;0.0;;0;2.0;1.94;0.0;0.9794787212149416;0.02052127878505839
+000000080;National Institute of Statistics and Economic Studies;https://www.gouvernement.fr/en/statistics;2.0;0.0;0.0;;0;1.0;0.98;0.0;0.9553005240284815;0.044699475971518486
+000000080;National Institute of Statistics and Economic Studies;https://www.insee.fr/en/accueil;0.0;0.0;0.0;;0;1.0;1.0;0.0;0.9582887656045738;0.04171123439542624
+000000080;National Institute of Statistics and Economic Studies;https://www.university-directory.eu/France/National-Institute-of-Statistics-and-Economic-Studies.html;4.0;0.0;0.0;;0;2.0;1.92;0.0;0.9794787212149416;0.02052127878505839
+000000081;National Institute of Statistics and Economic Studies;https://dictionary.reverso.net/english-french/national+institute+of+statistics+and+economic+studies;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9094369894898552;0.0905630105101448
+000000081;National Institute of Statistics and Economic Studies;https://insse.ro/cms/en;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9559817321077185;0.04401826789228151
+000000081;National Institute of Statistics and Economic Studies;https://knoema.com/atlas/sources/INSEE;3.0;0.0;0.0;;0;2.0;1.94;0.0;0.9553005240284815;0.044699475971518486
+000000081;National Institute of Statistics and Economic Studies;https://www.gouvernement.fr/en/statistics;2.0;0.0;0.0;;0;1.0;0.98;0.0;0.9107518469553919;0.08924815304460813
+000000081;National Institute of Statistics and Economic Studies;https://www.insee.fr/en/accueil;0.0;0.0;0.0;;0;1.0;1.0;0.0;0.9582887656045738;0.04171123439542624
+000000081;National Institute of Statistics and Economic Studies;https://www.university-directory.eu/France/National-Institute-of-Statistics-and-Economic-Studies.html;4.0;0.0;0.0;;0;2.0;1.92;0.0;0.9794787212149416;0.02052127878505839
+000000082;National Statistics Office;http://l-lists.com/en/lists/0qc3zn.html;9.0;0.0;0.0;https://nso.gov.mt;1;1.0;0.91;0.0;0.9094369894898552;0.0905630105101448
+000000082;National Statistics Office;https://www.bbc.com/news/topics/cx1m7zg0w2qt/office-for-national-statistics;7.0;0.0;0.0;https://nso.gov.mt;1;0.0;0.0;0.0;0.9559817321077185;0.04401826789228151
+000000082;National Statistics Office;https://www.gov.uk/government/organisations/office-for-national-statistics;1.0;0.0;0.0;https://nso.gov.mt;1;0.0;0.0;0.0;0.9553005240284815;0.044699475971518486
+000000082;National Statistics Office;https://www.indeed.co.uk/cmp/Office-For-National-Statistics/reviews;8.0;0.0;0.0;https://nso.gov.mt;1;0.0;0.0;0.0;0.9107518469553919;0.08924815304460813
+000000082;National Statistics Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://nso.gov.mt;1;1.0;1.0;0.0;0.9582887656045738;0.04171123439542624
+000000083;National Statistics Office;http://l-lists.com/en/lists/0qc3zn.html;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9794787212149416;0.02052127878505839
+000000083;National Statistics Office;https://www.bbc.com/news/topics/cx1m7zg0w2qt/office-for-national-statistics;7.0;0.0;0.0;;0;0.0;0.0;0.0;0.9094369894898552;0.0905630105101448
+000000083;National Statistics Office;https://www.gov.uk/government/organisations/office-for-national-statistics;1.0;0.0;0.0;;0;0.0;0.0;0.0;0.9559817321077185;0.04401826789228151
+000000083;National Statistics Office;https://www.indeed.co.uk/cmp/Office-For-National-Statistics/reviews;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9553005240284815;0.044699475971518486
+000000083;National Statistics Office;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;0.0;0.9107518469553919;0.08924815304460813
+000000084;National Statistics Office;http://l-lists.com/en/lists/0qc3zn.html;9.0;0.0;0.0;https://nso.gov.mt;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000084;National Statistics Office;https://www.bbc.com/news/topics/cx1m7zg0w2qt/office-for-national-statistics;7.0;0.0;0.0;https://nso.gov.mt;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000084;National Statistics Office;https://www.gov.uk/government/organisations/office-for-national-statistics;1.0;0.0;0.0;https://nso.gov.mt;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000084;National Statistics Office;https://www.indeed.co.uk/cmp/Office-For-National-Statistics/reviews;8.0;0.0;0.0;https://nso.gov.mt;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000084;National Statistics Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://nso.gov.mt;1;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000085;National Statistics Office;http://l-lists.com/en/lists/0qc3zn.html;9.0;0.0;0.0;https://nso.gov.mt;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000085;National Statistics Office;https://www.bbc.com/news/topics/cx1m7zg0w2qt/office-for-national-statistics;7.0;0.0;0.0;https://nso.gov.mt;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000085;National Statistics Office;https://www.gov.uk/government/organisations/office-for-national-statistics;1.0;0.0;0.0;https://nso.gov.mt;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000085;National Statistics Office;https://www.indeed.co.uk/cmp/Office-For-National-Statistics/reviews;8.0;0.0;0.0;https://nso.gov.mt;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000085;National Statistics Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://nso.gov.mt;1;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000086;National Bureau of Statistics;http://www.stats.gov.cn/english/;0.0;0.0;0.0;https://statistica.gov.md;1;1.0;1.0;0.0;0.9582887656045738;0.04171123439542624
+000000086;National Bureau of Statistics;https://statistica.gov.md/index.php?l=en;4.0;1.0;0.0;https://statistica.gov.md;1;6.0;5.76;0.0;0.9794787212149416;0.02052127878505839
+000000086;National Bureau of Statistics;https://statisticsmaldives.gov.mv/;7.0;0.0;1.0;https://statistica.gov.md;1;2.0;1.8599999999999999;0.0;0.9794787212149416;0.02052127878505839
+000000086;National Bureau of Statistics;https://www.knbs.or.ke/;3.0;0.0;1.0;https://statistica.gov.md;1;2.0;1.94;0.0;0.9794787212149416;0.02052127878505839
+000000086;National Bureau of Statistics;https://www.nbs.go.tz/;2.0;0.0;1.0;https://statistica.gov.md;1;2.0;1.96;0.0;0.9553005240284815;0.044699475971518486
+000000086;National Bureau of Statistics;https://www.nigerianstat.gov.ng/elibrary;6.0;0.0;0.0;https://statistica.gov.md;1;1.0;0.94;0.0;0.9582887656045738;0.04171123439542624
+000000086;National Bureau of Statistics;https://www.ons.gov.uk/;5.0;0.0;1.0;https://statistica.gov.md;1;1.0;0.95;0.0;0.9794787212149416;0.02052127878505839
+000000087;National Bureau of Statistics;http://www.stats.gov.cn/english/;0.0;0.0;0.0;;0;1.0;1.0;0.0;0.9794787212149416;0.02052127878505839
+000000087;National Bureau of Statistics;https://statistica.gov.md/index.php?l=en;4.0;0.0;0.0;;0;5.0;4.8;0.0;0.9794787212149416;0.02052127878505839
+000000087;National Bureau of Statistics;https://statisticsmaldives.gov.mv/;7.0;0.0;1.0;;0;2.0;1.8599999999999999;0.0;0.9553005240284815;0.044699475971518486
+000000087;National Bureau of Statistics;https://www.knbs.or.ke/;3.0;0.0;1.0;;0;2.0;1.94;0.0;0.9553005240284815;0.044699475971518486
+000000087;National Bureau of Statistics;https://www.nbs.go.tz/;2.0;0.0;1.0;;0;2.0;1.96;1.0;0.318089172283465;0.681910827716535
+000000087;National Bureau of Statistics;https://www.nigerianstat.gov.ng/elibrary;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.914593647030856;0.08540635296914399
+000000087;National Bureau of Statistics;https://www.ons.gov.uk/;5.0;0.0;1.0;;0;1.0;0.95;0.0;0.9094369894898552;0.0905630105101448
+000000088;National Bureau of Statistics;http://www.stats.gov.cn/english/;0.0;0.0;0.0;;0;1.0;1.0;0.0;0.9081047153236085;0.09189528467639148
+000000088;National Bureau of Statistics;https://statistica.gov.md/index.php?l=en;4.0;0.0;0.0;;0;4.0;3.84;0.0;0.9573145470625423;0.042685452937457694
+000000088;National Bureau of Statistics;https://statisticsmaldives.gov.mv/;7.0;0.0;1.0;;0;2.0;1.8599999999999999;0.0;0.9569850029284516;0.04301499707154843
+000000088;National Bureau of Statistics;https://www.knbs.or.ke/;3.0;0.0;1.0;;0;2.0;1.94;0.0;0.9553005240284815;0.044699475971518486
+000000088;National Bureau of Statistics;https://www.nbs.go.tz/;2.0;0.0;1.0;;0;2.0;1.96;0.0;0.502196755959031;0.49780324404096904
+000000088;National Bureau of Statistics;https://www.nigerianstat.gov.ng/elibrary;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.914593647030856;0.08540635296914399
+000000088;National Bureau of Statistics;https://www.ons.gov.uk/;5.0;0.0;1.0;;0;1.0;0.95;0.0;0.9094369894898552;0.0905630105101448
+000000090;Monaco Statistics;https://en.gouv.mc/Policy-Practice/The-Economy/Analysis-and-Statistics;3.0;0.0;0.0;https://www.monacostatistics.mc;1;2.0;1.94;0.0;0.9081047153236085;0.09189528467639148
+000000090;Monaco Statistics;https://www.fctables.com/teams/monaco-190135/;4.0;0.0;0.0;https://www.monacostatistics.mc;1;1.0;0.96;0.0;0.9573145470625423;0.042685452937457694
+000000090;Monaco Statistics;https://www.hellomonaco.com/category/officially/monaco-s-statistics/;9.0;0.0;0.0;https://www.monacostatistics.mc;1;1.0;0.91;0.0;0.9569850029284516;0.04301499707154843
+000000090;Monaco Statistics;https://www.imsee.mc/;2.0;0.0;1.0;https://www.monacostatistics.mc;1;4.0;3.92;0.0;0.9553005240284815;0.044699475971518486
+000000090;Monaco Statistics;https://www.monacostatistics.mc/;0.0;1.0;1.0;https://www.monacostatistics.mc;1;5.0;5.0;0.0;0.6857105664036129;0.314289433596387
+000000090;Monaco Statistics;https://www.worldometers.info/world-population/monaco-population/;6.0;0.0;0.0;https://www.monacostatistics.mc;1;1.0;0.94;0.0;0.914593647030856;0.08540635296914399
+000000091;Monaco Statistics;https://en.gouv.mc/Policy-Practice/The-Economy/Analysis-and-Statistics;3.0;0.0;0.0;;0;2.0;1.94;0.0;0.9094369894898552;0.0905630105101448
+000000091;Monaco Statistics;https://www.fctables.com/teams/monaco-190135/;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9081047153236085;0.09189528467639148
+000000091;Monaco Statistics;https://www.hellomonaco.com/category/officially/monaco-s-statistics/;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9573145470625423;0.042685452937457694
+000000091;Monaco Statistics;https://www.imsee.mc/;2.0;0.0;1.0;;0;4.0;3.92;0.0;0.9569850029284516;0.04301499707154843
+000000091;Monaco Statistics;https://www.monacostatistics.mc/;0.0;0.0;1.0;;0;4.0;4.0;0.0;0.9094369894898552;0.0905630105101448
+000000091;Monaco Statistics;https://www.worldometers.info/world-population/monaco-population/;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9566530298173299;0.04334697018267012
+000000092;Monaco Statistics;https://en.gouv.mc/Policy-Practice/The-Economy/Analysis-and-Statistics;3.0;0.0;0.0;;0;2.0;1.94;0.0;0.9582887656045738;0.04171123439542624
+000000092;Monaco Statistics;https://www.fctables.com/teams/monaco-190135/;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.6716951030058906;0.3283048969941094
+000000092;Monaco Statistics;https://www.hellomonaco.com/category/officially/monaco-s-statistics/;9.0;0.0;0.0;;0;1.0;0.91;1.0;0.46209493828970594;0.5379050617102941
+000000092;Monaco Statistics;https://www.imsee.mc/;2.0;0.0;1.0;;0;4.0;3.92;0.0;0.9573145470625423;0.042685452937457694
+000000092;Monaco Statistics;https://www.monacostatistics.mc/;0.0;0.0;1.0;;0;4.0;4.0;0.0;0.9094369894898552;0.0905630105101448
+000000092;Monaco Statistics;https://www.worldometers.info/world-population/monaco-population/;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9566530298173299;0.04334697018267012
+000000093;Statistics Netherlands;https://asylumineurope.org/reports/country/netherlands/statistics;9.0;0.0;0.0;https://www.cbs.nl;1;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000093;Statistics Netherlands;https://take-profit.org/statistics/countries/netherlands/;7.0;0.0;0.0;https://www.cbs.nl;1;0.0;0.0;0.0;0.6716951030058906;0.3283048969941094
+000000093;Statistics Netherlands;https://tradingeconomics.com/netherlands/indicators;6.0;0.0;0.0;https://www.cbs.nl;1;0.0;0.0;0.0;0.6573669333754384;0.34263306662456167
+000000093;Statistics Netherlands;https://www.cbs.nl/en-gb;0.0;1.0;0.0;https://www.cbs.nl;1;2.0;2.0;0.0;0.9573145470625423;0.042685452937457694
+000000093;Statistics Netherlands;https://www.iamexpat.nl/expat-info/organisations/statistics-netherlands-cbs;4.0;0.0;0.0;https://www.cbs.nl;1;2.0;1.92;0.0;0.9094369894898552;0.0905630105101448
+000000093;Statistics Netherlands;https://www.statista.com/topics/2697/the-netherlands/;5.0;0.0;0.0;https://www.cbs.nl;1;0.0;0.0;0.0;0.9566530298173299;0.04334697018267012
+000000093;Statistics Netherlands;https://www.worldometers.info/world-population/netherlands-population/;8.0;0.0;0.0;https://www.cbs.nl;1;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000094;Statistics Netherlands;https://asylumineurope.org/reports/country/netherlands/statistics;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.6716951030058906;0.3283048969941094
+000000094;Statistics Netherlands;https://take-profit.org/statistics/countries/netherlands/;7.0;0.0;0.0;;0;0.0;0.0;0.0;0.6573669333754384;0.34263306662456167
+000000094;Statistics Netherlands;https://tradingeconomics.com/netherlands/indicators;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000094;Statistics Netherlands;https://www.cbs.nl/en-gb;0.0;0.0;0.0;;0;1.0;1.0;0.0;0.9794787212149416;0.02052127878505839
+000000094;Statistics Netherlands;https://www.iamexpat.nl/expat-info/organisations/statistics-netherlands-cbs;4.0;0.0;0.0;;0;2.0;1.92;0.0;0.9794787212149416;0.02052127878505839
+000000094;Statistics Netherlands;https://www.statista.com/topics/2697/the-netherlands/;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000094;Statistics Netherlands;https://www.worldometers.info/world-population/netherlands-population/;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.905387225293026;0.09461277470697399
+000000095;Statistics Netherlands;https://asylumineurope.org/reports/country/netherlands/statistics;9.0;0.0;0.0;https://www.cbs.nl;1;0.0;0.0;0.0;0.9107518469553919;0.08924815304460813
+000000095;Statistics Netherlands;https://take-profit.org/statistics/countries/netherlands/;7.0;0.0;0.0;https://www.cbs.nl;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000095;Statistics Netherlands;https://tradingeconomics.com/netherlands/indicators;6.0;0.0;0.0;https://www.cbs.nl;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000095;Statistics Netherlands;https://www.cbs.nl/en-gb;0.0;1.0;0.0;https://www.cbs.nl;1;2.0;2.0;0.0;0.9794787212149416;0.02052127878505839
+000000095;Statistics Netherlands;https://www.iamexpat.nl/expat-info/organisations/statistics-netherlands-cbs;4.0;0.0;0.0;https://www.cbs.nl;1;1.0;0.96;0.0;0.9794787212149416;0.02052127878505839
+000000095;Statistics Netherlands;https://www.statista.com/topics/2697/the-netherlands/;5.0;0.0;0.0;https://www.cbs.nl;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000095;Statistics Netherlands;https://www.worldometers.info/world-population/netherlands-population/;8.0;0.0;0.0;https://www.cbs.nl;1;0.0;0.0;0.0;0.9553005240284815;0.044699475971518486
+000000096;Statistics Netherlands;https://asylumineurope.org/reports/country/netherlands/statistics;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9107518469553919;0.08924815304460813
+000000096;Statistics Netherlands;https://take-profit.org/statistics/countries/netherlands/;7.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000096;Statistics Netherlands;https://tradingeconomics.com/netherlands/indicators;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000096;Statistics Netherlands;https://www.cbs.nl/en-gb;0.0;0.0;0.0;;0;1.0;1.0;0.0;0.9794787212149416;0.02052127878505839
+000000096;Statistics Netherlands;https://www.iamexpat.nl/expat-info/organisations/statistics-netherlands-cbs;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9794787212149416;0.02052127878505839
+000000096;Statistics Netherlands;https://www.statista.com/topics/2697/the-netherlands/;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000096;Statistics Netherlands;https://www.worldometers.info/world-population/netherlands-population/;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.905387225293026;0.09461277470697399
+000000097;Statistics Norway;https://www.ceicdata.com/en/norway/tourism-statistics;6.0;0.0;0.0;https://www.ssb.no;1;1.0;0.94;0.0;0.9566530298173299;0.04334697018267012
+000000097;Statistics Norway;https://www.cia.gov/library/publications/the-world-factbook/geos/no.html;9.0;0.0;0.0;https://www.ssb.no;1;1.0;0.91;0.0;0.9794787212149416;0.02052127878505839
+000000097;Statistics Norway;https://www.lifeinnorway.net/norway-stats/;5.0;0.0;0.0;https://www.ssb.no;1;2.0;1.9;0.0;0.9794787212149416;0.02052127878505839
+000000097;Statistics Norway;https://www.norden.org/en/statistics;8.0;0.0;0.0;https://www.ssb.no;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000097;Statistics Norway;https://www.ssb.no/en;0.0;1.0;1.0;https://www.ssb.no;1;6.0;6.0;0.0;0.9794787212149416;0.02052127878505839
+000000097;Statistics Norway;https://www.statista.com/topics/3888/norway/;3.0;0.0;0.0;https://www.ssb.no;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000098;Statistics Norway;https://www.ceicdata.com/en/norway/tourism-statistics;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9553005240284815;0.044699475971518486
+000000098;Statistics Norway;https://www.cia.gov/library/publications/the-world-factbook/geos/no.html;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9566530298173299;0.04334697018267012
+000000098;Statistics Norway;https://www.lifeinnorway.net/norway-stats/;5.0;0.0;0.0;;0;2.0;1.9;0.0;0.9794787212149416;0.02052127878505839
+000000098;Statistics Norway;https://www.norden.org/en/statistics;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000098;Statistics Norway;https://www.ssb.no/en;0.0;0.0;1.0;;0;5.0;5.0;0.0;0.9573145470625423;0.042685452937457694
+000000098;Statistics Norway;https://www.statista.com/topics/3888/norway/;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000099;Statistics Norway;https://www.ceicdata.com/en/norway/tourism-statistics;6.0;0.0;0.0;https://www.ssb.no;1;1.0;0.94;0.0;0.9120494605687088;0.08795053943129114
+000000099;Statistics Norway;https://www.cia.gov/library/publications/the-world-factbook/geos/no.html;9.0;0.0;0.0;https://www.ssb.no;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000099;Statistics Norway;https://www.lifeinnorway.net/norway-stats/;5.0;0.0;0.0;https://www.ssb.no;1;1.0;0.95;1.0;0.2777989938694888;0.7222010061305112
+000000099;Statistics Norway;https://www.norden.org/en/statistics;8.0;0.0;0.0;https://www.ssb.no;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000099;Statistics Norway;https://www.ssb.no/en;0.0;1.0;1.0;https://www.ssb.no;1;6.0;6.0;0.0;0.9573145470625423;0.042685452937457694
+000000099;Statistics Norway;https://www.statista.com/topics/3888/norway/;3.0;0.0;0.0;https://www.ssb.no;1;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000100;Statistics Norway;https://www.ceicdata.com/en/norway/tourism-statistics;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9120494605687088;0.08795053943129114
+000000100;Statistics Norway;https://www.cia.gov/library/publications/the-world-factbook/geos/no.html;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000100;Statistics Norway;https://www.lifeinnorway.net/norway-stats/;5.0;0.0;0.0;;0;1.0;0.95;1.0;0.46209493828970594;0.5379050617102941
+000000100;Statistics Norway;https://www.norden.org/en/statistics;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000100;Statistics Norway;https://www.ssb.no/en;0.0;0.0;1.0;;0;4.0;4.0;0.0;0.9573145470625423;0.042685452937457694
+000000100;Statistics Norway;https://www.statista.com/topics/3888/norway/;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000101;Statistics Norway;https://www.ceicdata.com/en/norway/tourism-statistics;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9569850029284516;0.04301499707154843
+000000101;Statistics Norway;https://www.cia.gov/library/publications/the-world-factbook/geos/no.html;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000101;Statistics Norway;https://www.lifeinnorway.net/norway-stats/;5.0;0.0;0.0;;0;1.0;0.95;1.0;0.2777989938694888;0.7222010061305112
+000000101;Statistics Norway;https://www.norden.org/en/statistics;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000101;Statistics Norway;https://www.ssb.no/en;0.0;0.0;1.0;;0;4.0;4.0;0.0;0.9573145470625423;0.042685452937457694
+000000101;Statistics Norway;https://www.statista.com/topics/3888/norway/;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000102;Statistics Norway;https://www.ceicdata.com/en/norway/tourism-statistics;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9569850029284516;0.04301499707154843
+000000102;Statistics Norway;https://www.cia.gov/library/publications/the-world-factbook/geos/no.html;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9794787212149416;0.02052127878505839
+000000102;Statistics Norway;https://www.lifeinnorway.net/norway-stats/;5.0;0.0;0.0;;0;2.0;1.9;0.0;0.6573669333754384;0.34263306662456167
+000000102;Statistics Norway;https://www.norden.org/en/statistics;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000102;Statistics Norway;https://www.ssb.no/en;0.0;0.0;1.0;;0;4.0;4.0;0.0;0.9573145470625423;0.042685452937457694
+000000102;Statistics Norway;https://www.statista.com/topics/3888/norway/;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000103;Statistics Norway;https://www.ceicdata.com/en/norway/tourism-statistics;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9569850029284516;0.04301499707154843
+000000103;Statistics Norway;https://www.cia.gov/library/publications/the-world-factbook/geos/no.html;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000103;Statistics Norway;https://www.lifeinnorway.net/norway-stats/;5.0;0.0;0.0;;0;1.0;0.95;0.0;0.6573669333754384;0.34263306662456167
+000000103;Statistics Norway;https://www.norden.org/en/statistics;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000103;Statistics Norway;https://www.ssb.no/en;0.0;0.0;1.0;;0;3.0;3.0;0.0;0.9573145470625423;0.042685452937457694
+000000103;Statistics Norway;https://www.statista.com/topics/3888/norway/;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000104;Office for National Statistics;https://www.bbc.com/news/topics/cx1m7zg0w2qt/office-for-national-statistics;6.0;0.0;0.0;https://www.ons.gov.uk;1;0.0;0.0;0.0;0.9120494605687088;0.08795053943129114
+000000104;Office for National Statistics;https://www.gov.uk/government/organisations/office-for-national-statistics;1.0;0.0;0.0;https://www.ons.gov.uk;1;1.0;0.99;0.0;0.9794787212149416;0.02052127878505839
+000000104;Office for National Statistics;https://www.indeed.co.uk/cmp/Office-For-National-Statistics/reviews;9.0;0.0;0.0;https://www.ons.gov.uk;1;2.0;1.82;0.0;0.6573669333754384;0.34263306662456167
+000000104;Office for National Statistics;https://www.ons.gov.uk/;0.0;1.0;1.0;https://www.ons.gov.uk;1;4.0;4.0;0.0;0.9794787212149416;0.02052127878505839
+000000105;Office for National Statistics;https://www.bbc.com/news/topics/cx1m7zg0w2qt/office-for-national-statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000105;Office for National Statistics;https://www.gov.uk/government/organisations/office-for-national-statistics;1.0;0.0;0.0;;0;1.0;0.99;0.0;0.9794787212149416;0.02052127878505839
+000000105;Office for National Statistics;https://www.indeed.co.uk/cmp/Office-For-National-Statistics/reviews;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9569850029284516;0.04301499707154843
+000000105;Office for National Statistics;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;3.0;3.0;0.0;0.9794787212149416;0.02052127878505839
+000000106;Office for National Statistics;https://www.bbc.com/news/topics/cx1m7zg0w2qt/office-for-national-statistics;6.0;0.0;0.0;https://www.ons.gov.uk;1;0.0;0.0;0.0;0.8107784433033998;0.18922155669660026
+000000106;Office for National Statistics;https://www.gov.uk/government/organisations/office-for-national-statistics;1.0;0.0;0.0;https://www.ons.gov.uk;1;1.0;0.99;0.0;0.9794787212149416;0.02052127878505839
+000000106;Office for National Statistics;https://www.indeed.co.uk/cmp/Office-For-National-Statistics/reviews;9.0;0.0;0.0;https://www.ons.gov.uk;1;2.0;1.82;0.0;0.9794787212149416;0.02052127878505839
+000000106;Office for National Statistics;https://www.ons.gov.uk/;0.0;1.0;1.0;https://www.ons.gov.uk;1;4.0;4.0;0.0;0.9556423750328915;0.0443576249671085
+000000107;Office for National Statistics;https://www.bbc.com/news/topics/cx1m7zg0w2qt/office-for-national-statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9170709284935428;0.0829290715064572
+000000107;Office for National Statistics;https://www.gov.uk/government/organisations/office-for-national-statistics;1.0;0.0;0.0;;0;1.0;0.99;0.0;0.6573669333754384;0.34263306662456167
+000000107;Office for National Statistics;https://www.indeed.co.uk/cmp/Office-For-National-Statistics/reviews;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9794787212149416;0.02052127878505839
+000000107;Office for National Statistics;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;3.0;3.0;0.0;0.9556423750328915;0.0443576249671085
+000000108;UK Statistics Authority;https://enacademic.com/dic.nsf/enwiki/9190195;7.0;0.0;0.0;https://www.statisticsauthority.gov.uk/;1;2.0;1.8599999999999999;0.0;0.9170709284935428;0.0829290715064572
+000000108;UK Statistics Authority;https://thinklab.com/UKStatsAuth;9.0;0.0;0.0;https://www.statisticsauthority.gov.uk/;1;2.0;1.82;0.0;0.8107784433033998;0.18922155669660026
+000000108;UK Statistics Authority;https://wn.com/UK_Statistics_Authority;8.0;0.0;0.0;https://www.statisticsauthority.gov.uk/;1;2.0;1.84;0.0;0.9794787212149416;0.02052127878505839
+000000108;UK Statistics Authority;https://www.gov.uk/government/organisations/uk-statistics-authority;2.0;0.0;0.0;https://www.statisticsauthority.gov.uk/;1;2.0;1.96;0.0;0.9556423750328915;0.0443576249671085
+000000108;UK Statistics Authority;https://www.ons.gov.uk/;0.0;0.0;1.0;https://www.statisticsauthority.gov.uk/;1;3.0;3.0;0.0;0.9170709284935428;0.0829290715064572
+000000108;UK Statistics Authority;https://www.twaku.com/UKStatsAuth;6.0;0.0;0.0;https://www.statisticsauthority.gov.uk/;1;2.0;1.88;0.0;0.6573669333754384;0.34263306662456167
+000000109;UK Statistics Authority;https://enacademic.com/dic.nsf/enwiki/9190195;7.0;0.0;0.0;;0;2.0;1.8599999999999999;0.0;0.9794787212149416;0.02052127878505839
+000000109;UK Statistics Authority;https://thinklab.com/UKStatsAuth;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9556423750328915;0.0443576249671085
+000000109;UK Statistics Authority;https://wn.com/UK_Statistics_Authority;8.0;0.0;0.0;;0;2.0;1.84;0.0;0.9170709284935428;0.0829290715064572
+000000109;UK Statistics Authority;https://www.gov.uk/government/organisations/uk-statistics-authority;2.0;0.0;0.0;;0;2.0;1.96;0.0;0.8107784433033998;0.18922155669660026
+000000109;UK Statistics Authority;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;3.0;3.0;0.0;0.914593647030856;0.08540635296914399
+000000109;UK Statistics Authority;https://www.twaku.com/UKStatsAuth;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9170709284935428;0.0829290715064572
+000000110;UK Statistics Authority;https://enacademic.com/dic.nsf/enwiki/9190195;7.0;0.0;0.0;https://www.statisticsauthority.gov.uk/;1;2.0;1.8599999999999999;0.0;0.9158405648104189;0.08415943518958112
+000000110;UK Statistics Authority;https://thinklab.com/UKStatsAuth;9.0;0.0;0.0;https://www.statisticsauthority.gov.uk/;1;2.0;1.82;0.0;0.9081047153236085;0.09189528467639148
+000000110;UK Statistics Authority;https://wn.com/UK_Statistics_Authority;8.0;0.0;0.0;https://www.statisticsauthority.gov.uk/;1;2.0;1.84;0.0;0.8107784433033998;0.18922155669660026
+000000110;UK Statistics Authority;https://www.gov.uk/government/organisations/uk-statistics-authority;2.0;0.0;0.0;https://www.statisticsauthority.gov.uk/;1;2.0;1.96;0.0;0.9133300030690162;0.08666999693098379
+000000110;UK Statistics Authority;https://www.ons.gov.uk/;0.0;0.0;1.0;https://www.statisticsauthority.gov.uk/;1;3.0;3.0;0.0;0.914593647030856;0.08540635296914399
+000000110;UK Statistics Authority;https://www.twaku.com/UKStatsAuth;6.0;0.0;0.0;https://www.statisticsauthority.gov.uk/;1;1.0;0.94;0.0;0.9170709284935428;0.0829290715064572
+000000111;Statistics and Research Aland;http://CompanyOnTop.com/c/676523;2.0;0.0;0.0;https://www.asub.ax;1;1.0;0.98;0.0;0.9158405648104189;0.08415943518958112
+000000111;Statistics and Research Aland;http://peace.ax/;8.0;0.0;1.0;https://www.asub.ax;1;2.0;1.84;0.0;0.9081047153236085;0.09189528467639148
+000000111;Statistics and Research Aland;https://explorable.com/statistics-tutorial;9.0;0.0;0.0;https://www.asub.ax;1;0.0;0.0;0.0;0.8107784433033998;0.18922155669660026
+000000111;Statistics and Research Aland;https://infogalactic.com/info/Education_in_Åland;6.0;0.0;0.0;https://www.asub.ax;1;1.0;0.94;0.0;0.9573145470625423;0.042685452937457694
+000000111;Statistics and Research Aland;https://www.asub.ax/en;0.0;1.0;1.0;https://www.asub.ax;1;4.0;4.0;0.0;0.914593647030856;0.08540635296914399
+000000111;Statistics and Research Aland;https://www.nisra.gov.uk/;4.0;0.0;1.0;https://www.asub.ax;1;1.0;0.96;0.0;0.9170709284935428;0.0829290715064572
+000000111;Statistics and Research Aland;https://www.researchgate.net/institution/Statistics_and_Research_Aland;1.0;0.0;0.0;https://www.asub.ax;1;0.0;0.0;0.0;0.9158405648104189;0.08415943518958112
+000000112;Statistics and Research Aland;http://CompanyOnTop.com/c/676523;2.0;0.0;0.0;;0;1.0;0.98;0.0;0.9081047153236085;0.09189528467639148
+000000112;Statistics and Research Aland;http://peace.ax/;8.0;0.0;1.0;;0;2.0;1.84;0.0;0.8107784433033998;0.18922155669660026
+000000112;Statistics and Research Aland;https://explorable.com/statistics-tutorial;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000112;Statistics and Research Aland;https://infogalactic.com/info/Education_in_Åland;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9559817321077185;0.04401826789228151
+000000112;Statistics and Research Aland;https://www.asub.ax/en;0.0;0.0;1.0;;0;3.0;3.0;0.0;0.9158405648104189;0.08415943518958112
+000000112;Statistics and Research Aland;https://www.nisra.gov.uk/;4.0;0.0;1.0;;0;1.0;0.96;0.0;0.9794787212149416;0.02052127878505839
+000000112;Statistics and Research Aland;https://www.researchgate.net/institution/Statistics_and_Research_Aland;1.0;0.0;0.0;;0;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000113;Statistics and Research Aland;http://CompanyOnTop.com/c/676523;2.0;0.0;0.0;https://www.asub.ax;1;1.0;0.98;0.0;0.6573669333754384;0.34263306662456167
+000000113;Statistics and Research Aland;http://peace.ax/;8.0;0.0;1.0;https://www.asub.ax;1;2.0;1.84;0.0;0.9566530298173299;0.04334697018267012
+000000113;Statistics and Research Aland;https://explorable.com/statistics-tutorial;9.0;0.0;0.0;https://www.asub.ax;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000113;Statistics and Research Aland;https://infogalactic.com/info/Education_in_Åland;6.0;0.0;0.0;https://www.asub.ax;1;1.0;0.94;0.0;0.9559817321077185;0.04401826789228151
+000000113;Statistics and Research Aland;https://www.asub.ax/en;0.0;1.0;1.0;https://www.asub.ax;1;3.0;3.0;0.0;0.9158405648104189;0.08415943518958112
+000000113;Statistics and Research Aland;https://www.nisra.gov.uk/;4.0;0.0;1.0;https://www.asub.ax;1;1.0;0.96;0.0;0.9794787212149416;0.02052127878505839
+000000113;Statistics and Research Aland;https://www.researchgate.net/institution/Statistics_and_Research_Aland;1.0;0.0;0.0;https://www.asub.ax;1;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000115;Statistics Poland;https://asylumineurope.org/reports/country/poland/statistics;9.0;0.0;0.0;https://stat.gov.pl;1;0.0;0.0;0.0;0.8107784433033998;0.18922155669660026
+000000115;Statistics Poland;https://data.worldbank.org/country/poland;5.0;0.0;0.0;https://stat.gov.pl;1;0.0;0.0;0.0;0.9566530298173299;0.04334697018267012
+000000115;Statistics Poland;https://stat.gov.pl/en/;0.0;1.0;1.0;https://stat.gov.pl;1;6.0;6.0;0.0;0.9794787212149416;0.02052127878505839
+000000115;Statistics Poland;https://www.statista.com/topics/2494/poland/;4.0;0.0;0.0;https://stat.gov.pl;1;0.0;0.0;0.0;0.9559817321077185;0.04401826789228151
+000000115;Statistics Poland;https://www.worldometers.info/world-population/poland-population/;6.0;0.0;0.0;https://stat.gov.pl;1;0.0;0.0;0.0;0.9158405648104189;0.08415943518958112
+000000116;Statistics Poland;https://asylumineurope.org/reports/country/poland/statistics;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000116;Statistics Poland;https://data.worldbank.org/country/poland;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000116;Statistics Poland;https://stat.gov.pl/en/;0.0;0.0;1.0;;0;5.0;5.0;0.0;0.8107784433033998;0.18922155669660026
+000000116;Statistics Poland;https://www.statista.com/topics/2494/poland/;4.0;0.0;0.0;;0;0.0;0.0;0.0;0.9566530298173299;0.04334697018267012
+000000116;Statistics Poland;https://www.worldometers.info/world-population/poland-population/;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000117;Statistics Poland;https://asylumineurope.org/reports/country/poland/statistics;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000117;Statistics Poland;https://data.worldbank.org/country/poland;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000117;Statistics Poland;https://stat.gov.pl/en/;0.0;0.0;1.0;;0;4.0;4.0;1.0;0.2777989938694888;0.7222010061305112
+000000117;Statistics Poland;https://www.statista.com/topics/2494/poland/;4.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000117;Statistics Poland;https://www.worldometers.info/world-population/poland-population/;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000118;STATISTICS PORTUGAL;https://www.bportugal.pt/en/page/estatisticas;8.0;0.0;0.0;https://www.ine.pt;1;1.0;0.92;0.0;0.9794787212149416;0.02052127878505839
+000000118;STATISTICS PORTUGAL;https://www.fctables.com/portugal/;6.0;0.0;0.0;https://www.ine.pt;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000118;STATISTICS PORTUGAL;https://www.ine.pt/;0.0;1.0;1.0;https://www.ine.pt;1;4.0;4.0;1.0;0.46209493828970594;0.5379050617102941
+000000118;STATISTICS PORTUGAL;https://www.pordata.pt/en/Home;4.0;0.0;0.0;https://www.ine.pt;1;1.0;0.96;0.0;0.9794787212149416;0.02052127878505839
+000000118;STATISTICS PORTUGAL;https://www.statista.com/topics/2481/portugal/;1.0;0.0;0.0;https://www.ine.pt;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000118;STATISTICS PORTUGAL;https://www.worldometers.info/demographics/portugal-demographics/;9.0;0.0;0.0;https://www.ine.pt;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000119;STATISTICS PORTUGAL;https://www.bportugal.pt/en/page/estatisticas;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.9794787212149416;0.02052127878505839
+000000119;STATISTICS PORTUGAL;https://www.fctables.com/portugal/;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.6573669333754384;0.34263306662456167
+000000119;STATISTICS PORTUGAL;https://www.ine.pt/;0.0;0.0;1.0;;0;3.0;3.0;0.0;0.9794787212149416;0.02052127878505839
+000000119;STATISTICS PORTUGAL;https://www.pordata.pt/en/Home;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9794787212149416;0.02052127878505839
+000000119;STATISTICS PORTUGAL;https://www.statista.com/topics/2481/portugal/;1.0;0.0;0.0;;0;0.0;0.0;0.0;0.9579664124798111;0.04203358752018896
+000000119;STATISTICS PORTUGAL;https://www.worldometers.info/demographics/portugal-demographics/;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000120;STATISTICS PORTUGAL;https://www.bportugal.pt/en/page/estatisticas;8.0;0.0;0.0;https://www.ine.pt;1;1.0;0.92;0.0;0.6573669333754384;0.34263306662456167
+000000120;STATISTICS PORTUGAL;https://www.fctables.com/portugal/;6.0;0.0;0.0;https://www.ine.pt;1;0.0;0.0;0.0;0.9566530298173299;0.04334697018267012
+000000120;STATISTICS PORTUGAL;https://www.ine.pt/;0.0;1.0;1.0;https://www.ine.pt;1;4.0;4.0;0.0;0.9794787212149416;0.02052127878505839
+000000120;STATISTICS PORTUGAL;https://www.pordata.pt/en/Home;4.0;0.0;0.0;https://www.ine.pt;1;1.0;0.96;0.0;0.9794787212149416;0.02052127878505839
+000000120;STATISTICS PORTUGAL;https://www.statista.com/topics/2481/portugal/;1.0;0.0;0.0;https://www.ine.pt;1;0.0;0.0;0.0;0.9579664124798111;0.04203358752018896
+000000120;STATISTICS PORTUGAL;https://www.worldometers.info/demographics/portugal-demographics/;9.0;0.0;0.0;https://www.ine.pt;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000121;National Institute of Statistics;https://ine.es/en/;3.0;0.0;1.0;http://www.insse.ro;1;1.0;0.97;0.0;0.8107784433033998;0.18922155669660026
+000000121;National Institute of Statistics;https://insse.ro/cms/en;0.0;0.0;0.0;http://www.insse.ro;1;2.0;2.0;0.0;0.9566530298173299;0.04334697018267012
+000000121;National Institute of Statistics;https://nis.gov.kh/;4.0;0.0;1.0;http://www.insse.ro;1;2.0;1.92;0.0;0.9794787212149416;0.02052127878505839
+000000121;National Institute of Statistics;https://www.niss.org/;6.0;0.0;1.0;http://www.insse.ro;1;1.0;0.94;0.0;0.9794787212149416;0.02052127878505839
+000000121;National Institute of Statistics;https://www.ons.gov.uk/;8.0;0.0;1.0;http://www.insse.ro;1;1.0;0.92;0.0;0.9579664124798111;0.04203358752018896
+000000121;National Institute of Statistics;https://www.statistics.gov.rw/;1.0;0.0;1.0;http://www.insse.ro;1;2.0;1.98;0.0;0.9794787212149416;0.02052127878505839
+000000122;National Institute of Statistics;https://ine.es/en/;3.0;0.0;1.0;http://www.insse.ro;1;1.0;0.97;0.0;0.6573669333754384;0.34263306662456167
+000000122;National Institute of Statistics;https://insse.ro/cms/en;0.0;0.0;0.0;http://www.insse.ro;1;2.0;2.0;0.0;0.9566530298173299;0.04334697018267012
+000000122;National Institute of Statistics;https://nis.gov.kh/;4.0;0.0;1.0;http://www.insse.ro;1;2.0;1.92;0.0;0.9794787212149416;0.02052127878505839
+000000122;National Institute of Statistics;https://www.niss.org/;6.0;0.0;1.0;http://www.insse.ro;1;1.0;0.94;0.0;0.9794787212149416;0.02052127878505839
+000000122;National Institute of Statistics;https://www.ons.gov.uk/;8.0;0.0;1.0;http://www.insse.ro;1;1.0;0.92;0.0;0.9563186116099341;0.043681388390065905
+000000122;National Institute of Statistics;https://www.statistics.gov.rw/;1.0;0.0;1.0;http://www.insse.ro;1;2.0;1.98;0.0;0.905387225293026;0.09461277470697399
+000000123;National Institute of Statistics;https://ine.es/en/;3.0;0.0;1.0;;0;1.0;0.97;0.0;0.9107518469553919;0.08924815304460813
+000000123;National Institute of Statistics;https://insse.ro/cms/en;0.0;0.0;0.0;;0;2.0;2.0;0.0;0.9573145470625423;0.042685452937457694
+000000123;National Institute of Statistics;https://nis.gov.kh/;4.0;0.0;1.0;;0;2.0;1.92;0.0;0.9579664124798111;0.04203358752018896
+000000123;National Institute of Statistics;https://www.niss.org/;6.0;0.0;1.0;;0;1.0;0.94;0.0;0.9067548515559916;0.09324514844400845
+000000123;National Institute of Statistics;https://www.ons.gov.uk/;8.0;0.0;1.0;;0;1.0;0.92;0.0;0.9563186116099341;0.043681388390065905
+000000123;National Institute of Statistics;https://www.statistics.gov.rw/;1.0;0.0;1.0;;0;2.0;1.98;0.0;0.905387225293026;0.09461277470697399
+000000124;National Institute of Statistics;https://ine.es/en/;3.0;0.0;1.0;;0;1.0;0.97;0.0;0.9107518469553919;0.08924815304460813
+000000124;National Institute of Statistics;https://insse.ro/cms/en;0.0;0.0;0.0;;0;2.0;2.0;0.0;0.9573145470625423;0.042685452937457694
+000000124;National Institute of Statistics;https://nis.gov.kh/;4.0;0.0;1.0;;0;2.0;1.92;0.0;0.9579664124798111;0.04203358752018896
+000000124;National Institute of Statistics;https://www.niss.org/;6.0;0.0;1.0;;0;1.0;0.94;0.0;0.9067548515559916;0.09324514844400845
+000000124;National Institute of Statistics;https://www.ons.gov.uk/;8.0;0.0;1.0;;0;1.0;0.92;0.0;0.9563186116099341;0.043681388390065905
+000000124;National Institute of Statistics;https://www.statistics.gov.rw/;1.0;0.0;1.0;;0;2.0;1.98;0.0;0.905387225293026;0.09461277470697399
+000000125;National Institute of Statistics;https://ine.es/en/;3.0;0.0;1.0;http://www.insse.ro;1;1.0;0.97;0.0;0.9107518469553919;0.08924815304460813
+000000125;National Institute of Statistics;https://insse.ro/cms/en;0.0;0.0;0.0;http://www.insse.ro;1;2.0;2.0;0.0;0.9573145470625423;0.042685452937457694
+000000125;National Institute of Statistics;https://nis.gov.kh/;4.0;0.0;1.0;http://www.insse.ro;1;2.0;1.92;0.0;0.9579664124798111;0.04203358752018896
+000000125;National Institute of Statistics;https://www.niss.org/;6.0;0.0;1.0;http://www.insse.ro;1;1.0;0.94;0.0;0.9067548515559916;0.09324514844400845
+000000125;National Institute of Statistics;https://www.ons.gov.uk/;8.0;0.0;1.0;http://www.insse.ro;1;1.0;0.92;0.0;0.9563186116099341;0.043681388390065905
+000000125;National Institute of Statistics;https://www.statistics.gov.rw/;1.0;0.0;1.0;http://www.insse.ro;1;2.0;1.98;0.0;0.905387225293026;0.09461277470697399
+000000126;National Institute of Statistics;https://ine.es/en/;3.0;0.0;1.0;http://www.insse.ro;1;1.0;0.97;0.0;0.9107518469553919;0.08924815304460813
+000000126;National Institute of Statistics;https://insse.ro/cms/en;0.0;0.0;0.0;http://www.insse.ro;1;2.0;2.0;0.0;0.9573145470625423;0.042685452937457694
+000000126;National Institute of Statistics;https://nis.gov.kh/;4.0;0.0;1.0;http://www.insse.ro;1;2.0;1.92;0.0;0.9579664124798111;0.04203358752018896
+000000126;National Institute of Statistics;https://www.niss.org/;6.0;0.0;1.0;http://www.insse.ro;1;1.0;0.94;0.0;0.9067548515559916;0.09324514844400845
+000000126;National Institute of Statistics;https://www.ons.gov.uk/;8.0;0.0;1.0;http://www.insse.ro;1;1.0;0.92;0.0;0.9563186116099341;0.043681388390065905
+000000126;National Institute of Statistics;https://www.statistics.gov.rw/;1.0;0.0;1.0;http://www.insse.ro;1;2.0;1.98;0.0;0.905387225293026;0.09461277470697399
+000000127;National Institute of Statistics;https://ine.es/en/;3.0;0.0;1.0;http://www.insse.ro;1;1.0;0.97;0.0;0.9107518469553919;0.08924815304460813
+000000127;National Institute of Statistics;https://insse.ro/cms/en;0.0;0.0;0.0;http://www.insse.ro;1;1.0;1.0;0.0;0.9573145470625423;0.042685452937457694
+000000127;National Institute of Statistics;https://nis.gov.kh/;4.0;0.0;1.0;http://www.insse.ro;1;2.0;1.92;0.0;0.9579664124798111;0.04203358752018896
+000000127;National Institute of Statistics;https://www.niss.org/;6.0;0.0;1.0;http://www.insse.ro;1;1.0;0.94;0.0;0.9067548515559916;0.09324514844400845
+000000127;National Institute of Statistics;https://www.ons.gov.uk/;8.0;0.0;1.0;http://www.insse.ro;1;1.0;0.92;0.0;0.9563186116099341;0.043681388390065905
+000000127;National Institute of Statistics;https://www.statistics.gov.rw/;1.0;0.0;1.0;http://www.insse.ro;1;2.0;1.98;0.0;0.905387225293026;0.09461277470697399
+000000128;Federal State Statistics Service;http://tadviser.com/index.php/Company:Federal_State_Statistics_Service_(Rosstat);3.0;0.0;0.0;https://www.gks.ru;1;2.0;1.94;0.0;0.9107518469553919;0.08924815304460813
+000000128;Federal State Statistics Service;https://commons.wikimedia.org/wiki/Category:Federal_State_Statistics_Service_of_Russia;7.0;0.0;0.0;https://www.gks.ru;1;2.0;1.8599999999999999;0.0;0.9573145470625423;0.042685452937457694
+000000128;Federal State Statistics Service;https://nces.ed.gov/partners/fedstat.asp;9.0;0.0;0.0;https://www.gks.ru;1;0.0;0.0;0.0;0.9579664124798111;0.04203358752018896
+000000128;Federal State Statistics Service;https://www.usa.gov/statistics;6.0;0.0;0.0;https://www.gks.ru;1;0.0;0.0;0.0;0.9067548515559916;0.09324514844400845
+000000129;Federal State Statistics Service;http://tadviser.com/index.php/Company:Federal_State_Statistics_Service_(Rosstat);3.0;0.0;0.0;;0;2.0;1.94;0.0;0.9563186116099341;0.043681388390065905
+000000129;Federal State Statistics Service;https://commons.wikimedia.org/wiki/Category:Federal_State_Statistics_Service_of_Russia;7.0;0.0;0.0;;0;2.0;1.8599999999999999;0.0;0.9553005240284815;0.044699475971518486
+000000129;Federal State Statistics Service;https://nces.ed.gov/partners/fedstat.asp;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9107518469553919;0.08924815304460813
+000000129;Federal State Statistics Service;https://www.usa.gov/statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000130;Federal State Statistics Service;http://tadviser.com/index.php/Company:Federal_State_Statistics_Service_(Rosstat);3.0;0.0;0.0;;0;2.0;1.94;0.0;0.9579664124798111;0.04203358752018896
+000000130;Federal State Statistics Service;https://commons.wikimedia.org/wiki/Category:Federal_State_Statistics_Service_of_Russia;7.0;0.0;0.0;;0;2.0;1.8599999999999999;0.0;0.9067548515559916;0.09324514844400845
+000000130;Federal State Statistics Service;https://nces.ed.gov/partners/fedstat.asp;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9094369894898552;0.0905630105101448
+000000130;Federal State Statistics Service;https://www.usa.gov/statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.914593647030856;0.08540635296914399
+000000131;Federal State Statistics Service;http://tadviser.com/index.php/Company:Federal_State_Statistics_Service_(Rosstat);3.0;0.0;0.0;https://eng.gks.ru;1;2.0;1.94;0.0;0.9794787212149416;0.02052127878505839
+000000131;Federal State Statistics Service;https://commons.wikimedia.org/wiki/Category:Federal_State_Statistics_Service_of_Russia;7.0;0.0;0.0;https://eng.gks.ru;1;2.0;1.8599999999999999;0.0;0.9794787212149416;0.02052127878505839
+000000131;Federal State Statistics Service;https://nces.ed.gov/partners/fedstat.asp;9.0;0.0;0.0;https://eng.gks.ru;1;0.0;0.0;0.0;0.9094369894898552;0.0905630105101448
+000000131;Federal State Statistics Service;https://www.usa.gov/statistics;6.0;0.0;0.0;https://eng.gks.ru;1;0.0;0.0;0.0;0.914593647030856;0.08540635296914399
+000000132;Federal State Statistics Service;http://tadviser.com/index.php/Company:Federal_State_Statistics_Service_(Rosstat);3.0;0.0;0.0;;0;2.0;1.94;0.0;0.9794787212149416;0.02052127878505839
+000000132;Federal State Statistics Service;https://commons.wikimedia.org/wiki/Category:Federal_State_Statistics_Service_of_Russia;7.0;0.0;0.0;;0;2.0;1.8599999999999999;0.0;0.9794787212149416;0.02052127878505839
+000000132;Federal State Statistics Service;https://nces.ed.gov/partners/fedstat.asp;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9094369894898552;0.0905630105101448
+000000132;Federal State Statistics Service;https://www.usa.gov/statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.914593647030856;0.08540635296914399
+000000133;Federal State Statistics Service;http://tadviser.com/index.php/Company:Federal_State_Statistics_Service_(Rosstat);3.0;0.0;0.0;;0;2.0;1.94;0.0;0.9794787212149416;0.02052127878505839
+000000133;Federal State Statistics Service;https://commons.wikimedia.org/wiki/Category:Federal_State_Statistics_Service_of_Russia;7.0;0.0;0.0;;0;2.0;1.8599999999999999;0.0;0.9794787212149416;0.02052127878505839
+000000133;Federal State Statistics Service;https://nces.ed.gov/partners/fedstat.asp;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9094369894898552;0.0905630105101448
+000000133;Federal State Statistics Service;https://www.usa.gov/statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.914593647030856;0.08540635296914399
+000000134;Office of Economic Planning, Data Processing and Statistics;http://www.deps.gov.bn/;1.0;0.0;1.0;http://www.statistica.sm;1;1.0;0.99;0.0;0.9794787212149416;0.02052127878505839
+000000134;Office of Economic Planning, Data Processing and Statistics;https://globaledge.msu.edu/global-resources/resource/4840;4.0;0.0;0.0;http://www.statistica.sm;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000134;Office of Economic Planning, Data Processing and Statistics;https://www.itu.int/en/ITU-D/Statistics/Pages/links/nso.aspx;8.0;0.0;0.0;http://www.statistica.sm;1;1.0;0.92;0.0;0.9094369894898552;0.0905630105101448
+000000134;Office of Economic Planning, Data Processing and Statistics;https://www.ons.gov.uk/economy;9.0;0.0;0.0;http://www.statistica.sm;1;0.0;0.0;0.0;0.914593647030856;0.08540635296914399
+000000135;Office of Economic Planning, Data Processing and Statistics;http://www.deps.gov.bn/;1.0;0.0;1.0;;0;1.0;0.99;0.0;0.9794787212149416;0.02052127878505839
+000000135;Office of Economic Planning, Data Processing and Statistics;https://globaledge.msu.edu/global-resources/resource/4840;4.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000135;Office of Economic Planning, Data Processing and Statistics;https://www.itu.int/en/ITU-D/Statistics/Pages/links/nso.aspx;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.9094369894898552;0.0905630105101448
+000000135;Office of Economic Planning, Data Processing and Statistics;https://www.ons.gov.uk/economy;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.914593647030856;0.08540635296914399
+000000136;Office of Economic Planning, Data Processing and Statistics;http://www.deps.gov.bn/;1.0;0.0;1.0;http://www.statistica.sm;1;1.0;0.99;0.0;0.9794787212149416;0.02052127878505839
+000000136;Office of Economic Planning, Data Processing and Statistics;https://globaledge.msu.edu/global-resources/resource/4840;4.0;0.0;0.0;http://www.statistica.sm;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000136;Office of Economic Planning, Data Processing and Statistics;https://www.itu.int/en/ITU-D/Statistics/Pages/links/nso.aspx;8.0;0.0;0.0;http://www.statistica.sm;1;1.0;0.92;0.0;0.9556423750328915;0.0443576249671085
+000000136;Office of Economic Planning, Data Processing and Statistics;https://www.ons.gov.uk/economy;9.0;0.0;0.0;http://www.statistica.sm;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000137;State Statistical office;http://mospi.gov.in/central-statistics-office-cso-1;9.0;0.0;0.0;http://www.stat.gov.mk;1;0.0;0.0;0.0;0.9579664124798111;0.04203358752018896
+000000137;State Statistical office;http://www.stat.gov.mk/Default_en.aspx;0.0;1.0;0.0;http://www.stat.gov.mk;1;5.0;5.0;0.0;0.9794787212149416;0.02052127878505839
+000000137;State Statistical office;https://www.bfs.admin.ch/bfs/en/home.html;8.0;0.0;0.0;http://www.stat.gov.mk;1;0.0;0.0;0.0;0.9556423750328915;0.0443576249671085
+000000137;State Statistical office;https://www.cso.ie/;7.0;0.0;1.0;http://www.stat.gov.mk;1;1.0;0.9299999999999999;0.0;0.9794787212149416;0.02052127878505839
+000000137;State Statistical office;https://www.ons.gov.uk/;5.0;0.0;1.0;http://www.stat.gov.mk;1;1.0;0.95;0.0;0.9579664124798111;0.04203358752018896
+000000138;State Statistical office;http://mospi.gov.in/central-statistics-office-cso-1;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000138;State Statistical office;http://www.stat.gov.mk/Default_en.aspx;0.0;0.0;0.0;;0;4.0;4.0;0.0;0.9556423750328915;0.0443576249671085
+000000138;State Statistical office;https://www.bfs.admin.ch/bfs/en/home.html;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000138;State Statistical office;https://www.cso.ie/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9579664124798111;0.04203358752018896
+000000138;State Statistical office;https://www.ons.gov.uk/;5.0;0.0;1.0;;0;1.0;0.95;0.0;0.9794787212149416;0.02052127878505839
+000000139;State Statistical office;http://mospi.gov.in/central-statistics-office-cso-1;9.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000139;State Statistical office;http://www.stat.gov.mk/Default_en.aspx;0.0;0.0;0.0;;0;3.0;3.0;1.0;0.46209493828970594;0.5379050617102941
+000000139;State Statistical office;https://www.bfs.admin.ch/bfs/en/home.html;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000139;State Statistical office;https://www.cso.ie/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000139;State Statistical office;https://www.ons.gov.uk/;5.0;0.0;1.0;;0;1.0;0.95;0.0;0.9569850029284516;0.04301499707154843
+000000141;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;1.0;0.0;https://slovak.statistics.sk;1;6.0;5.7;0.0;0.9794787212149416;0.02052127878505839
+000000141;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;https://slovak.statistics.sk;1;1.0;0.9299999999999999;0.0;0.6573669333754384;0.34263306662456167
+000000141;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;https://slovak.statistics.sk;1;1.0;0.96;0.0;0.9794787212149416;0.02052127878505839
+000000141;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;https://slovak.statistics.sk;1;0.0;0.0;0.0;0.9576416782594945;0.042358321740505425
+000000141;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://slovak.statistics.sk;1;1.0;1.0;0.0;0.9569850029284516;0.04301499707154843
+000000142;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;;0;5.0;4.75;0.0;0.9794787212149416;0.02052127878505839
+000000142;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.8107784433033998;0.18922155669660026
+000000142;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9794787212149416;0.02052127878505839
+000000142;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9576416782594945;0.042358321740505425
+000000142;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;0.0;0.9569850029284516;0.04301499707154843
+000000143;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;;0;4.0;3.8;1.0;0.32863670790898536;0.6713632920910146
+000000143;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000143;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000143;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000143;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000144;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;1.0;0.0;https://slovak.statistics.sk;1;6.0;5.7;0.0;0.5122380001174656;0.4877619998825344
+000000144;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;https://slovak.statistics.sk;1;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000144;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;https://slovak.statistics.sk;1;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000144;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;https://slovak.statistics.sk;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000144;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://slovak.statistics.sk;1;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000145;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;;0;5.0;4.75;0.0;0.6925953709318036;0.3074046290681964
+000000145;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000145;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000145;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000145;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000146;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;;0;4.0;3.8;1.0;0.32863670790898536;0.6713632920910146
+000000146;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000146;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000146;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000146;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000147;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;1.0;0.0;https://slovak.statistics.sk;1;3.0;2.85;0.0;0.5122380001174656;0.4877619998825344
+000000147;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;https://slovak.statistics.sk;1;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000147;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;https://slovak.statistics.sk;1;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000147;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;https://slovak.statistics.sk;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000147;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://slovak.statistics.sk;1;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000148;Statistical Office of the Slovak Republic;https://greenpages.spectator.sme.sk/en/r/statistical-office-of-the-slovak-republic.html;4.0;0.0;0.0;https://slovak.statistics.sk;1;3.0;2.88;0.0;0.6925953709318036;0.3074046290681964
+000000148;Statistical Office of the Slovak Republic;https://mapcarta.com/W43268658;5.0;0.0;0.0;https://slovak.statistics.sk;1;1.0;0.95;0.0;0.9576416782594945;0.042358321740505425
+000000148;Statistical Office of the Slovak Republic;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;0.0;1.0;0.0;https://slovak.statistics.sk;1;6.0;6.0;0.0;0.9566530298173299;0.04334697018267012
+000000148;Statistical Office of the Slovak Republic;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1wwkpiAJKG-AAjgZA_VFgJc7ujh4m5j4GBhY-7qYGno4eoUGWgcbGBo7GUAV4zCjIjTDIdFRUBADse0bP/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/;2.0;1.0;0.0;https://slovak.statistics.sk;1;6.0;5.88;0.0;0.9794787212149416;0.02052127878505839
+000000148;Statistical Office of the Slovak Republic;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1wwkpiAJKG-AAjgZA_VFgJc7ujh4m5j4GBhY-7qYGno4eoUGWgcbGBo7GUAV4zCjIjTDIdFRUBADse0bP/dz/d5/L2dBISEvZ0FBIS9nQSEh/;3.0;1.0;0.0;https://slovak.statistics.sk;1;5.0;4.85;0.0;0.9553005240284815;0.044699475971518486
+000000148;Statistical Office of the Slovak Republic;https://www.loc.gov/item/lcwaN0004550/;7.0;0.0;0.0;https://slovak.statistics.sk;1;0.0;0.0;0.0;0.8285805157387429;0.17141948426125714
+000000149;Statistical Office of the Slovak Republic;https://greenpages.spectator.sme.sk/en/r/statistical-office-of-the-slovak-republic.html;4.0;0.0;0.0;https://slovak.statistics.sk;1;3.0;2.88;0.0;0.9576416782594945;0.042358321740505425
+000000149;Statistical Office of the Slovak Republic;https://mapcarta.com/W43268658;5.0;0.0;0.0;https://slovak.statistics.sk;1;1.0;0.95;0.0;0.9566530298173299;0.04334697018267012
+000000149;Statistical Office of the Slovak Republic;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;0.0;1.0;0.0;https://slovak.statistics.sk;1;6.0;6.0;0.0;0.9794787212149416;0.02052127878505839
+000000149;Statistical Office of the Slovak Republic;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1wwkpiAJKG-AAjgZA_VFgJc7ujh4m5j4GBhY-7qYGno4eoUGWgcbGBo7GUAV4zCjIjTDIdFRUBADse0bP/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/;2.0;1.0;0.0;https://slovak.statistics.sk;1;6.0;5.88;0.0;0.9553005240284815;0.044699475971518486
+000000149;Statistical Office of the Slovak Republic;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1wwkpiAJKG-AAjgZA_VFgJc7ujh4m5j4GBhY-7qYGno4eoUGWgcbGBo7GUAV4zCjIjTDIdFRUBADse0bP/dz/d5/L2dBISEvZ0FBIS9nQSEh/;3.0;1.0;0.0;https://slovak.statistics.sk;1;5.0;4.85;0.0;0.825129626222616;0.17487037377738407
+000000149;Statistical Office of the Slovak Republic;https://www.loc.gov/item/lcwaN0004550/;7.0;0.0;0.0;https://slovak.statistics.sk;1;0.0;0.0;0.0;0.9569850029284516;0.04301499707154843
+000000150;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;https://www.stat.si;1;1.0;0.95;1.0;0.2777989938694888;0.7222010061305112
+000000150;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;https://www.stat.si;1;1.0;0.9299999999999999;1.0;0.2975511558767958;0.7024488441232042
+000000150;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;https://www.stat.si;1;1.0;0.96;1.0;0.4921537395224421;0.5078462604775579
+000000150;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;https://www.stat.si;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000150;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://www.stat.si;1;1.0;1.0;0.0;0.825129626222616;0.17487037377738407
+000000151;Statistical Office of the Republic of Slovenia;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;8.0;0.0;0.0;https://www.stat.si;1;1.0;0.92;0.0;0.9569850029284516;0.04301499707154843
+000000151;Statistical Office of the Republic of Slovenia;https://webarchive.library.unt.edu/web/20081105142244/http://www.stat.si/eng/index.asp;6.0;0.0;0.0;https://www.stat.si;1;1.0;0.94;1.0;0.2777989938694888;0.7222010061305112
+000000151;Statistical Office of the Republic of Slovenia;https://www.gov.si/en/state-authorities/government-offices/statistical-office/;3.0;0.0;0.0;https://www.stat.si;1;4.0;3.88;1.0;0.2975511558767958;0.7024488441232042
+000000151;Statistical Office of the Republic of Slovenia;https://www.stat.si/StatWeb/en;0.0;1.0;0.0;https://www.stat.si;1;6.0;6.0;1.0;0.4921537395224421;0.5078462604775579
+000000151;Statistical Office of the Republic of Slovenia;https://www.wikiwand.com/en/Statistical_Office_of_Slovenia;7.0;0.0;0.0;https://www.stat.si;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000152;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;;0;1.0;0.95;0.0;0.9569850029284516;0.04301499707154843
+000000152;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000152;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000152;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000152;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000153;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;https://www.stat.si;1;1.0;0.95;0.0;0.9579664124798111;0.04203358752018896
+000000153;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;https://www.stat.si;1;1.0;0.9299999999999999;0.0;0.9573145470625423;0.042685452937457694
+000000153;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;https://www.stat.si;1;1.0;0.96;0.0;0.6787430889752408;0.3212569110247591
+000000153;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;https://www.stat.si;1;0.0;0.0;1.0;0.2777989938694888;0.7222010061305112
+000000153;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://www.stat.si;1;1.0;1.0;0.0;0.9794787212149416;0.02052127878505839
+000000154;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;https://www.stat.si;1;1.0;0.95;0.0;0.9569850029284516;0.04301499707154843
+000000154;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;https://www.stat.si;1;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000154;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;https://www.stat.si;1;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000154;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;https://www.stat.si;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000154;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://www.stat.si;1;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000155;Statistical Office of the Republic of Serbia;https://istmat.info/node/63405;4.0;0.0;0.0;https://www.stat.gov.rs;1;1.0;0.96;0.0;0.9569850029284516;0.04301499707154843
+000000155;Statistical Office of the Republic of Serbia;https://mapcarta.com/W398432273;6.0;0.0;0.0;https://www.stat.gov.rs;1;2.0;1.88;0.0;0.9576416782594945;0.042358321740505425
+000000155;Statistical Office of the Republic of Serbia;https://present5.com/statistical-office-of-the-republic-of-serbia-national/;5.0;0.0;0.0;https://www.stat.gov.rs;1;2.0;1.9;0.0;0.9566530298173299;0.04334697018267012
+000000155;Statistical Office of the Republic of Serbia;https://slideplayer.com/slide/16170152/;9.0;0.0;0.0;https://www.stat.gov.rs;1;2.0;1.82;0.0;0.9794787212149416;0.02052127878505839
+000000155;Statistical Office of the Republic of Serbia;https://www.stat.gov.rs/en-US/;0.0;1.0;0.0;https://www.stat.gov.rs;1;5.0;5.0;0.0;0.9553005240284815;0.044699475971518486
+000000156;Statistical Office of the Republic of Serbia;https://istmat.info/node/63405;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9569850029284516;0.04301499707154843
+000000156;Statistical Office of the Republic of Serbia;https://mapcarta.com/W398432273;6.0;0.0;0.0;;0;2.0;1.88;0.0;0.9576416782594945;0.042358321740505425
+000000156;Statistical Office of the Republic of Serbia;https://present5.com/statistical-office-of-the-republic-of-serbia-national/;5.0;0.0;0.0;;0;2.0;1.9;0.0;0.9566530298173299;0.04334697018267012
+000000156;Statistical Office of the Republic of Serbia;https://slideplayer.com/slide/16170152/;9.0;0.0;0.0;;0;2.0;1.82;0.0;0.9794787212149416;0.02052127878505839
+000000156;Statistical Office of the Republic of Serbia;https://www.stat.gov.rs/en-US/;0.0;0.0;0.0;;0;4.0;4.0;0.0;0.9553005240284815;0.044699475971518486
+000000157;Statistical Office of the Republic of Serbia;https://istmat.info/node/63405;4.0;0.0;0.0;https://www.stat.gov.rs;1;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000157;Statistical Office of the Republic of Serbia;https://mapcarta.com/W398432273;6.0;0.0;0.0;https://www.stat.gov.rs;1;2.0;1.88;0.0;0.9133300030690162;0.08666999693098379
+000000157;Statistical Office of the Republic of Serbia;https://present5.com/statistical-office-of-the-republic-of-serbia-national/;5.0;0.0;0.0;https://www.stat.gov.rs;1;2.0;1.9;0.0;0.9120494605687088;0.08795053943129114
+000000157;Statistical Office of the Republic of Serbia;https://slideplayer.com/slide/16170152/;9.0;0.0;0.0;https://www.stat.gov.rs;1;2.0;1.82;0.0;0.9170709284935428;0.0829290715064572
+000000157;Statistical Office of the Republic of Serbia;https://www.stat.gov.rs/en-US/;0.0;1.0;0.0;https://www.stat.gov.rs;1;3.0;3.0;1.0;0.46209493828970594;0.5379050617102941
+000000158;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;https://www.stat.gov.rs;1;1.0;0.95;0.0;0.9566530298173299;0.04334697018267012
+000000158;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;https://www.stat.gov.rs;1;1.0;0.9299999999999999;0.0;0.9133300030690162;0.08666999693098379
+000000158;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;https://www.stat.gov.rs;1;1.0;0.96;0.0;0.9120494605687088;0.08795053943129114
+000000158;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;https://www.stat.gov.rs;1;0.0;0.0;0.0;0.9170709284935428;0.0829290715064572
+000000158;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://www.stat.gov.rs;1;1.0;1.0;0.0;0.6573669333754384;0.34263306662456167
+000000159;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;;0;1.0;0.95;0.0;0.9566530298173299;0.04334697018267012
+000000159;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9133300030690162;0.08666999693098379
+000000159;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9120494605687088;0.08795053943129114
+000000159;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9170709284935428;0.0829290715064572
+000000159;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;0.0;0.8107784433033998;0.18922155669660026
+000000160;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;https://www.stat.gov.rs;1;1.0;0.95;0.0;0.9569850029284516;0.04301499707154843
+000000160;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;https://www.stat.gov.rs;1;1.0;0.9299999999999999;0.0;0.9576416782594945;0.042358321740505425
+000000160;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;https://www.stat.gov.rs;1;1.0;0.96;0.0;0.9566530298173299;0.04334697018267012
+000000160;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;https://www.stat.gov.rs;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000160;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;https://www.stat.gov.rs;1;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000161;Turkish Statistical Institute;http://tuik.academia.edu/;9.0;0.0;1.0;http://www.turkstat.gov.tr;1;2.0;1.82;0.0;0.9569850029284516;0.04301499707154843
+000000161;Turkish Statistical Institute;http://www.turkstat.gov.tr/Start.do;1.0;1.0;0.0;http://www.turkstat.gov.tr;1;6.0;5.94;0.0;0.9576416782594945;0.042358321740505425
+000000161;Turkish Statistical Institute;https://www.library.illinois.edu/ias/iri/turkish/turk_stat_inst/;7.0;0.0;0.0;http://www.turkstat.gov.tr;1;0.0;0.0;0.0;0.9566530298173299;0.04334697018267012
+000000161;Turkish Statistical Institute;https://yandex.com/maps/org/turkish_statistical_institute/211993888678/;6.0;0.0;0.0;http://www.turkstat.gov.tr;1;2.0;1.88;0.0;0.9794787212149416;0.02052127878505839
+000000162;Turkish Statistical Institute;http://tuik.academia.edu/;9.0;0.0;1.0;;0;2.0;1.82;0.0;0.9553005240284815;0.044699475971518486
+000000162;Turkish Statistical Institute;http://www.turkstat.gov.tr/Start.do;1.0;0.0;0.0;;0;5.0;4.95;0.0;0.9569850029284516;0.04301499707154843
+000000162;Turkish Statistical Institute;https://www.library.illinois.edu/ias/iri/turkish/turk_stat_inst/;7.0;0.0;0.0;;0;0.0;0.0;0.0;0.9576416782594945;0.042358321740505425
+000000162;Turkish Statistical Institute;https://yandex.com/maps/org/turkish_statistical_institute/211993888678/;6.0;0.0;0.0;;0;2.0;1.88;0.0;0.9566530298173299;0.04334697018267012
+000000163;Turkish Statistical Institute;http://tuik.academia.edu/;9.0;0.0;1.0;http://www.turkstat.gov.tr;1;2.0;1.82;0.0;0.9794787212149416;0.02052127878505839
+000000163;Turkish Statistical Institute;http://www.turkstat.gov.tr/Start.do;1.0;1.0;0.0;http://www.turkstat.gov.tr;1;4.0;3.96;0.0;0.9553005240284815;0.044699475971518486
+000000163;Turkish Statistical Institute;https://www.library.illinois.edu/ias/iri/turkish/turk_stat_inst/;7.0;0.0;0.0;http://www.turkstat.gov.tr;1;0.0;0.0;0.0;0.9170709284935428;0.0829290715064572
+000000163;Turkish Statistical Institute;https://yandex.com/maps/org/turkish_statistical_institute/211993888678/;6.0;0.0;0.0;http://www.turkstat.gov.tr;1;1.0;0.94;1.0;0.28757395368052474;0.7124260463194753
+000000165;State Statistics Service of Ukraine;https://ukrstat.org/en;0.0;0.0;1.0;http://www.ukrstat.gov.ua;1;2.0;2.0;0.0;0.9794787212149416;0.02052127878505839
+000000165;State Statistics Service of Ukraine;https://www.wikiwand.com/en/State_Statistics_Service_of_Ukraine;5.0;0.0;0.0;http://www.ukrstat.gov.ua;1;1.0;0.95;0.0;0.9133300030690162;0.08666999693098379
+000000166;State Statistics Service of Ukraine;https://ukrstat.org/en;0.0;0.0;1.0;;0;2.0;2.0;0.0;0.9170709284935428;0.0829290715064572
+000000166;State Statistics Service of Ukraine;https://www.wikiwand.com/en/State_Statistics_Service_of_Ukraine;5.0;0.0;0.0;;0;1.0;0.95;1.0;0.4720947733088706;0.5279052266911294
+000000167;State Statistics Service;http://tadviser.com/index.php/Company:Federal_State_Statistics_Service_(Rosstat);3.0;0.0;0.0;http://www.ukrstat.gov.ua;1;1.0;0.97;0.0;0.9794787212149416;0.02052127878505839
+000000167;State Statistics Service;https://world-statistics.org/index-pop.php;9.0;0.0;0.0;http://www.ukrstat.gov.ua;1;1.0;0.91;0.0;0.9133300030690162;0.08666999693098379
+000000167;State Statistics Service;https://www.irs.gov/statistics;8.0;0.0;0.0;http://www.ukrstat.gov.ua;1;0.0;0.0;0.0;0.9170709284935428;0.0829290715064572
+000000167;State Statistics Service;https://www.nass.usda.gov/Quick_Stats/index.php;6.0;0.0;0.0;http://www.ukrstat.gov.ua;1;0.0;0.0;0.0;0.6645689072427203;0.3354310927572797
+000000167;State Statistics Service;https://www.statista.com/topics/760/united-states/;5.0;0.0;0.0;http://www.ukrstat.gov.ua;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000167;State Statistics Service;https://www.usa.gov/statistics;2.0;0.0;0.0;http://www.ukrstat.gov.ua;1;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000168;State Statistics Service;http://tadviser.com/index.php/Company:Federal_State_Statistics_Service_(Rosstat);3.0;0.0;0.0;;0;1.0;0.97;0.0;0.905387225293026;0.09461277470697399
+000000168;State Statistics Service;https://world-statistics.org/index-pop.php;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9569850029284516;0.04301499707154843
+000000168;State Statistics Service;https://www.irs.gov/statistics;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.905387225293026;0.09461277470697399
+000000168;State Statistics Service;https://www.nass.usda.gov/Quick_Stats/index.php;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9569850029284516;0.04301499707154843
+000000168;State Statistics Service;https://www.statista.com/topics/760/united-states/;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9563186116099341;0.043681388390065905
+000000168;State Statistics Service;https://www.usa.gov/statistics;2.0;0.0;0.0;;0;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000169;State Statistics Service;http://tadviser.com/index.php/Company:Federal_State_Statistics_Service_(Rosstat);3.0;0.0;0.0;;0;1.0;0.97;0.0;0.9794787212149416;0.02052127878505839
+000000169;State Statistics Service;https://world-statistics.org/index-pop.php;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9794787212149416;0.02052127878505839
+000000169;State Statistics Service;https://www.irs.gov/statistics;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000169;State Statistics Service;https://www.nass.usda.gov/Quick_Stats/index.php;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000169;State Statistics Service;https://www.statista.com/topics/760/united-states/;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9563186116099341;0.043681388390065905
+000000169;State Statistics Service;https://www.usa.gov/statistics;2.0;0.0;0.0;;0;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000170;Hungarian Central Statistical Office;http://abouthungary.hu/central-statistical-office/;2.0;0.0;0.0;http://www.ksh.hu;1;1.0;0.98;0.0;0.9794787212149416;0.02052127878505839
+000000170;Hungarian Central Statistical Office;https://WikiMili.com/en/Hungarian_Central_Statistical_Office;5.0;0.0;0.0;http://www.ksh.hu;1;2.0;1.9;0.0;0.9794787212149416;0.02052127878505839
+000000170;Hungarian Central Statistical Office;https://wn.com/Hungarian_Central_Statistical_Office;8.0;0.0;0.0;http://www.ksh.hu;1;2.0;1.84;0.0;0.9794787212149416;0.02052127878505839
+000000170;Hungarian Central Statistical Office;https://www.apollo.io/companies/Hungarian-Central-Statistical-Office/54a244597468693cdd2c691b;4.0;0.0;0.0;http://www.ksh.hu;1;2.0;1.92;0.0;0.9794787212149416;0.02052127878505839
+000000170;Hungarian Central Statistical Office;https://www.ksh.hu/?lang=en;0.0;1.0;0.0;http://www.ksh.hu;1;5.0;5.0;0.0;0.9563186116099341;0.043681388390065905
+000000170;Hungarian Central Statistical Office;https://www.wikiwand.com/en/Hungarian_Central_Statistical_Office;7.0;0.0;0.0;http://www.ksh.hu;1;1.0;0.9299999999999999;0.0;0.9582887656045738;0.04171123439542624
+000000171;Hungarian Central Statistical Office;http://abouthungary.hu/central-statistical-office/;2.0;0.0;0.0;;0;1.0;0.98;0.0;0.9794787212149416;0.02052127878505839
+000000171;Hungarian Central Statistical Office;https://WikiMili.com/en/Hungarian_Central_Statistical_Office;5.0;0.0;0.0;;0;2.0;1.9;0.0;0.9794787212149416;0.02052127878505839
+000000171;Hungarian Central Statistical Office;https://wn.com/Hungarian_Central_Statistical_Office;8.0;0.0;0.0;;0;2.0;1.84;0.0;0.9794787212149416;0.02052127878505839
+000000171;Hungarian Central Statistical Office;https://www.apollo.io/companies/Hungarian-Central-Statistical-Office/54a244597468693cdd2c691b;4.0;0.0;0.0;;0;2.0;1.92;0.0;0.9794787212149416;0.02052127878505839
+000000171;Hungarian Central Statistical Office;https://www.ksh.hu/?lang=en;0.0;0.0;0.0;;0;4.0;4.0;0.0;0.9559817321077185;0.04401826789228151
+000000171;Hungarian Central Statistical Office;https://www.wikiwand.com/en/Hungarian_Central_Statistical_Office;7.0;0.0;0.0;;0;1.0;0.9299999999999999;0.0;0.9120494605687088;0.08795053943129114
+000000172;Hungarian Central Statistical Office;http://abouthungary.hu/central-statistical-office/;2.0;0.0;0.0;http://www.ksh.hu;1;0.0;0.0;0.0;0.9158405648104189;0.08415943518958112
+000000172;Hungarian Central Statistical Office;https://WikiMili.com/en/Hungarian_Central_Statistical_Office;5.0;0.0;0.0;http://www.ksh.hu;1;1.0;0.95;0.0;0.9107518469553919;0.08924815304460813
+000000172;Hungarian Central Statistical Office;https://wn.com/Hungarian_Central_Statistical_Office;8.0;0.0;0.0;http://www.ksh.hu;1;1.0;0.92;1.0;0.46209493828970594;0.5379050617102941
+000000172;Hungarian Central Statistical Office;https://www.apollo.io/companies/Hungarian-Central-Statistical-Office/54a244597468693cdd2c691b;4.0;0.0;0.0;http://www.ksh.hu;1;1.0;0.96;0.0;0.9576416782594945;0.042358321740505425
+000000172;Hungarian Central Statistical Office;https://www.ksh.hu/?lang=en;0.0;1.0;0.0;http://www.ksh.hu;1;3.0;3.0;0.0;0.9559817321077185;0.04401826789228151
+000000172;Hungarian Central Statistical Office;https://www.wikiwand.com/en/Hungarian_Central_Statistical_Office;7.0;0.0;0.0;http://www.ksh.hu;1;1.0;0.9299999999999999;0.0;0.9120494605687088;0.08795053943129114
+000000173;Statistics Faroe Islands;https://data.worldbank.org/country/faroe-islands;8.0;0.0;0.0;https://hagstova.fo;1;0.0;0.0;0.0;0.9158405648104189;0.08415943518958112
+000000173;Statistics Faroe Islands;https://hagstova.fo/en;1.0;1.0;1.0;https://hagstova.fo;1;6.0;5.94;0.0;0.9107518469553919;0.08924815304460813
+000000173;Statistics Faroe Islands;https://tradingeconomics.com/faroe-islands/population;7.0;0.0;0.0;https://hagstova.fo;1;0.0;0.0;0.0;0.6573669333754384;0.34263306662456167
+000000173;Statistics Faroe Islands;https://www.cia.gov/library/publications/the-world-factbook/geos/fo.html;5.0;0.0;0.0;https://hagstova.fo;1;0.0;0.0;0.0;0.9576416782594945;0.042358321740505425
+000000173;Statistics Faroe Islands;https://www.fctables.com/national/faroe-islands/;6.0;0.0;0.0;https://hagstova.fo;1;1.0;0.94;0.0;0.9794787212149416;0.02052127878505839
+000000173;Statistics Faroe Islands;https://www.indexmundi.com/faroe_islands/;9.0;0.0;0.0;https://hagstova.fo;1;0.0;0.0;0.0;0.9569850029284516;0.04301499707154843
+000000174;Statistics Faroe Islands;https://data.worldbank.org/country/faroe-islands;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9579664124798111;0.04203358752018896
+000000174;Statistics Faroe Islands;https://hagstova.fo/en;1.0;0.0;1.0;;0;5.0;4.95;0.0;0.9566530298173299;0.04334697018267012
+000000174;Statistics Faroe Islands;https://tradingeconomics.com/faroe-islands/population;7.0;0.0;0.0;;0;0.0;0.0;0.0;0.8107784433033998;0.18922155669660026
+000000174;Statistics Faroe Islands;https://www.cia.gov/library/publications/the-world-factbook/geos/fo.html;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9576416782594945;0.042358321740505425
+000000174;Statistics Faroe Islands;https://www.fctables.com/national/faroe-islands/;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9794787212149416;0.02052127878505839
+000000174;Statistics Faroe Islands;https://www.indexmundi.com/faroe_islands/;9.0;0.0;0.0;;0;0.0;0.0;1.0;0.28757395368052474;0.7124260463194753
+000000175;Statistics Faroe Islands;https://data.worldbank.org/country/faroe-islands;8.0;0.0;0.0;https://hagstova.fo;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000175;Statistics Faroe Islands;https://hagstova.fo/en;1.0;1.0;1.0;https://hagstova.fo;1;5.0;4.95;0.0;0.9794787212149416;0.02052127878505839
+000000175;Statistics Faroe Islands;https://tradingeconomics.com/faroe-islands/population;7.0;0.0;0.0;https://hagstova.fo;1;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000175;Statistics Faroe Islands;https://www.cia.gov/library/publications/the-world-factbook/geos/fo.html;5.0;0.0;0.0;https://hagstova.fo;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000175;Statistics Faroe Islands;https://www.fctables.com/national/faroe-islands/;6.0;0.0;0.0;https://hagstova.fo;1;1.0;0.94;0.0;0.9794787212149416;0.02052127878505839
+000000175;Statistics Faroe Islands;https://www.indexmundi.com/faroe_islands/;9.0;0.0;0.0;https://hagstova.fo;1;0.0;0.0;1.0;0.4720947733088706;0.5279052266911294
+000000176;Statistics Finland;https://WikiMili.com/en/Statistics_Finland;7.0;0.0;0.0;http://www.stat.fi;1;2.0;1.8599999999999999;0.0;0.9794787212149416;0.02052127878505839
+000000176;Statistics Finland;https://stat.fi/index_en;0.0;0.0;0.0;http://www.stat.fi;1;5.0;5.0;0.0;0.9794787212149416;0.02052127878505839
+000000176;Statistics Finland;https://stat.fi/til/index_en.html;1.0;0.0;0.0;http://www.stat.fi;1;4.0;3.96;0.0;0.9573145470625423;0.042685452937457694
+000000176;Statistics Finland;https://take-profit.org/statistics/countries/finland/;8.0;0.0;0.0;http://www.stat.fi;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000176;Statistics Finland;https://www.statista.com/topics/3892/finland/;5.0;0.0;0.0;http://www.stat.fi;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000177;Statistics Finland;https://WikiMili.com/en/Statistics_Finland;7.0;0.0;0.0;;0;2.0;1.8599999999999999;1.0;0.4720947733088706;0.5279052266911294
+000000177;Statistics Finland;https://stat.fi/index_en;0.0;0.0;0.0;;0;5.0;5.0;0.0;0.9794787212149416;0.02052127878505839
+000000177;Statistics Finland;https://stat.fi/til/index_en.html;1.0;0.0;0.0;;0;4.0;3.96;0.0;0.9794787212149416;0.02052127878505839
+000000177;Statistics Finland;https://take-profit.org/statistics/countries/finland/;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000177;Statistics Finland;https://www.statista.com/topics/3892/finland/;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000178;Statistics Finland;https://WikiMili.com/en/Statistics_Finland;7.0;0.0;0.0;http://www.stat.fi;1;2.0;1.8599999999999999;0.0;0.914593647030856;0.08540635296914399
+000000178;Statistics Finland;https://stat.fi/index_en;0.0;0.0;0.0;http://www.stat.fi;1;4.0;4.0;1.0;0.46209493828970594;0.5379050617102941
+000000178;Statistics Finland;https://stat.fi/til/index_en.html;1.0;0.0;0.0;http://www.stat.fi;1;4.0;3.96;0.0;0.6645689072427203;0.3354310927572797
+000000178;Statistics Finland;https://take-profit.org/statistics/countries/finland/;8.0;0.0;0.0;http://www.stat.fi;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000178;Statistics Finland;https://www.statista.com/topics/3892/finland/;5.0;0.0;0.0;http://www.stat.fi;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000179;Statistics Finland;https://WikiMili.com/en/Statistics_Finland;7.0;0.0;0.0;;0;1.0;0.9299999999999999;0.0;0.914593647030856;0.08540635296914399
+000000179;Statistics Finland;https://stat.fi/index_en;0.0;0.0;0.0;;0;3.0;3.0;1.0;0.46209493828970594;0.5379050617102941
+000000179;Statistics Finland;https://stat.fi/til/index_en.html;1.0;0.0;0.0;;0;2.0;1.98;0.0;0.6645689072427203;0.3354310927572797
+000000179;Statistics Finland;https://take-profit.org/statistics/countries/finland/;8.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000179;Statistics Finland;https://www.statista.com/topics/3892/finland/;5.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000180;Statistics Finland;https://WikiMili.com/en/Statistics_Finland;7.0;0.0;0.0;http://www.stat.fi;1;2.0;1.8599999999999999;0.0;0.914593647030856;0.08540635296914399
+000000180;Statistics Finland;https://stat.fi/index_en;0.0;0.0;0.0;http://www.stat.fi;1;2.0;2.0;0.0;0.6573669333754384;0.34263306662456167
+000000180;Statistics Finland;https://stat.fi/til/index_en.html;1.0;0.0;0.0;http://www.stat.fi;1;2.0;1.98;0.0;0.6645689072427203;0.3354310927572797
+000000180;Statistics Finland;https://take-profit.org/statistics/countries/finland/;8.0;0.0;0.0;http://www.stat.fi;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000180;Statistics Finland;https://www.statista.com/topics/3892/finland/;5.0;0.0;0.0;http://www.stat.fi;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000182;National Institute of Statistics and Economic Studies;https://dictionary.reverso.net/english-french/national+institute+of+statistics+and+economic+studies;9.0;0.0;0.0;https://www.insee.fr;1;1.0;0.91;0.0;0.9576416782594945;0.042358321740505425
+000000182;National Institute of Statistics and Economic Studies;https://insse.ro/cms/en;6.0;0.0;0.0;https://www.insee.fr;1;0.0;0.0;0.0;0.8107784433033998;0.18922155669660026
+000000182;National Institute of Statistics and Economic Studies;https://knoema.com/atlas/sources/INSEE;3.0;0.0;0.0;https://www.insee.fr;1;2.0;1.94;0.0;0.9067548515559916;0.09324514844400845
+000000182;National Institute of Statistics and Economic Studies;https://www.gouvernement.fr/en/statistics;2.0;0.0;0.0;https://www.insee.fr;1;2.0;1.96;0.0;0.9794787212149416;0.02052127878505839
+000000182;National Institute of Statistics and Economic Studies;https://www.insee.fr/en/accueil;0.0;1.0;0.0;https://www.insee.fr;1;2.0;2.0;0.0;0.9794787212149416;0.02052127878505839
+000000182;National Institute of Statistics and Economic Studies;https://www.university-directory.eu/France/National-Institute-of-Statistics-and-Economic-Studies.html;4.0;0.0;0.0;https://www.insee.fr;1;2.0;1.92;0.0;0.914593647030856;0.08540635296914399
+000000183;National Institute of Statistics and Economic Studies;https://dictionary.reverso.net/english-french/national+institute+of+statistics+and+economic+studies;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.905387225293026;0.09461277470697399
+000000183;National Institute of Statistics and Economic Studies;https://insse.ro/cms/en;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9067548515559916;0.09324514844400845
+000000183;National Institute of Statistics and Economic Studies;https://knoema.com/atlas/sources/INSEE;3.0;0.0;0.0;;0;2.0;1.94;0.0;0.9794787212149416;0.02052127878505839
+000000183;National Institute of Statistics and Economic Studies;https://www.gouvernement.fr/en/statistics;2.0;0.0;0.0;;0;2.0;1.96;0.0;0.9794787212149416;0.02052127878505839
+000000183;National Institute of Statistics and Economic Studies;https://www.insee.fr/en/accueil;0.0;0.0;0.0;;0;1.0;1.0;0.0;0.9582887656045738;0.04171123439542624
+000000183;National Institute of Statistics and Economic Studies;https://www.university-directory.eu/France/National-Institute-of-Statistics-and-Economic-Studies.html;4.0;0.0;0.0;;0;2.0;1.92;0.0;0.9794787212149416;0.02052127878505839
+000000184;Croatian Bureau of Statistics;https://hr.n1info.com/tag75968/Croatian-Bureau-of-Statistics/1;8.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.92;0.0;0.9094369894898552;0.0905630105101448
+000000184;Croatian Bureau of Statistics;https://tradingeconomics.com/croatia/wages;9.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.91;0.0;0.9081047153236085;0.09189528467639148
+000000184;Croatian Bureau of Statistics;https://wn.com/Central_Bureau_Of_Statistics_(Croatia);6.0;0.0;0.0;https://www.dzs.hr;1;2.0;1.88;0.0;0.905387225293026;0.09461277470697399
+000000184;Croatian Bureau of Statistics;https://www.wikiwand.com/en/Croatian_Bureau_of_Statistics;3.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.97;0.0;0.9107518469553919;0.08924815304460813
+000000185;Croatian Bureau of Statistics;https://hr.n1info.com/tag75968/Croatian-Bureau-of-Statistics/1;8.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.92;0.0;0.9582887656045738;0.04171123439542624
+000000185;Croatian Bureau of Statistics;https://tradingeconomics.com/croatia/wages;9.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.91;0.0;0.9794787212149416;0.02052127878505839
+000000185;Croatian Bureau of Statistics;https://wn.com/Central_Bureau_Of_Statistics_(Croatia);6.0;0.0;0.0;https://www.dzs.hr;1;2.0;1.88;0.0;0.9094369894898552;0.0905630105101448
+000000185;Croatian Bureau of Statistics;https://www.wikiwand.com/en/Croatian_Bureau_of_Statistics;3.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.97;0.0;0.9081047153236085;0.09189528467639148
+000000186;Croatian Bureau of Statistics;https://hr.n1info.com/tag75968/Croatian-Bureau-of-Statistics/1;8.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.92;0.0;0.9553005240284815;0.044699475971518486
+000000186;Croatian Bureau of Statistics;https://tradingeconomics.com/croatia/wages;9.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.91;0.0;0.9107518469553919;0.08924815304460813
+000000186;Croatian Bureau of Statistics;https://wn.com/Central_Bureau_Of_Statistics_(Croatia);6.0;0.0;0.0;https://www.dzs.hr;1;2.0;1.88;0.0;0.9579664124798111;0.04203358752018896
+000000186;Croatian Bureau of Statistics;https://www.wikiwand.com/en/Croatian_Bureau_of_Statistics;3.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.97;0.0;0.9582887656045738;0.04171123439542624
+000000187;Croatian Bureau of Statistics;https://hr.n1info.com/tag75968/Croatian-Bureau-of-Statistics/1;8.0;0.0;0.0;;0;1.0;0.92;0.0;0.9133300030690162;0.08666999693098379
+000000187;Croatian Bureau of Statistics;https://tradingeconomics.com/croatia/wages;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9563186116099341;0.043681388390065905
+000000187;Croatian Bureau of Statistics;https://wn.com/Central_Bureau_Of_Statistics_(Croatia);6.0;0.0;0.0;;0;2.0;1.88;0.0;0.9579664124798111;0.04203358752018896
+000000187;Croatian Bureau of Statistics;https://www.wikiwand.com/en/Croatian_Bureau_of_Statistics;3.0;0.0;0.0;;0;1.0;0.97;0.0;0.9582887656045738;0.04171123439542624
+000000188;Croatian Bureau of Statistics;https://hr.n1info.com/tag75968/Croatian-Bureau-of-Statistics/1;8.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.92;0.0;0.9133300030690162;0.08666999693098379
+000000188;Croatian Bureau of Statistics;https://tradingeconomics.com/croatia/wages;9.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.91;0.0;0.9563186116099341;0.043681388390065905
+000000188;Croatian Bureau of Statistics;https://wn.com/Central_Bureau_Of_Statistics_(Croatia);6.0;0.0;0.0;https://www.dzs.hr;1;2.0;1.88;0.0;0.9579664124798111;0.04203358752018896
+000000188;Croatian Bureau of Statistics;https://www.wikiwand.com/en/Croatian_Bureau_of_Statistics;3.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.97;0.0;0.9582887656045738;0.04171123439542624
+000000189;Croatian Bureau of Statistics;https://hr.n1info.com/tag75968/Croatian-Bureau-of-Statistics/1;8.0;0.0;0.0;https://www.dzs.hr;1;0.0;0.0;0.0;0.9133300030690162;0.08666999693098379
+000000189;Croatian Bureau of Statistics;https://tradingeconomics.com/croatia/wages;9.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.91;0.0;0.9563186116099341;0.043681388390065905
+000000189;Croatian Bureau of Statistics;https://wn.com/Central_Bureau_Of_Statistics_(Croatia);6.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.94;0.0;0.9579664124798111;0.04203358752018896
+000000189;Croatian Bureau of Statistics;https://www.wikiwand.com/en/Croatian_Bureau_of_Statistics;3.0;0.0;0.0;https://www.dzs.hr;1;1.0;0.97;0.0;0.9582887656045738;0.04171123439542624
+000000191;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;http://www.monstat.org;1;1.0;0.95;0.0;0.9133300030690162;0.08666999693098379
+000000191;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;http://www.monstat.org;1;1.0;0.9299999999999999;0.0;0.9563186116099341;0.043681388390065905
+000000191;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;http://www.monstat.org;1;1.0;0.96;0.0;0.9579664124798111;0.04203358752018896
+000000191;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;http://www.monstat.org;1;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000191;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;http://www.monstat.org;1;1.0;1.0;0.0;0.9133300030690162;0.08666999693098379
+000000192;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;http://www.monstat.org;1;1.0;0.95;0.0;0.9563186116099341;0.043681388390065905
+000000192;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;http://www.monstat.org;1;1.0;0.9299999999999999;0.0;0.9794787212149416;0.02052127878505839
+000000192;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;http://www.monstat.org;1;1.0;0.96;0.0;0.9582887656045738;0.04171123439542624
+000000192;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;http://www.monstat.org;1;0.0;0.0;0.0;0.9573145470625423;0.042685452937457694
+000000192;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;http://www.monstat.org;1;1.0;1.0;0.0;0.9563186116099341;0.043681388390065905
+000000193;Statistical office of Montenegro - MONSTAT;https://montenegro.travel/en/objects/statistical-office-of-montenegro-monstat;5.0;0.0;0.0;http://www.monstat.org;1;2.0;1.9;0.0;0.9569850029284516;0.04301499707154843
+000000193;Statistical office of Montenegro - MONSTAT;https://www.loc.gov/item/lcwaN0014056/;6.0;0.0;0.0;http://www.monstat.org;1;0.0;0.0;0.0;0.9576416782594945;0.042358321740505425
+000000193;Statistical office of Montenegro - MONSTAT;https://www.monstat.org/eng/;0.0;1.0;0.0;http://www.monstat.org;1;3.0;3.0;0.0;0.9566530298173299;0.04334697018267012
+000000193;Statistical office of Montenegro - MONSTAT;https://www.monstat.org/eng/pxweb.php;3.0;1.0;0.0;http://www.monstat.org;1;1.0;0.97;0.0;0.9794787212149416;0.02052127878505839
+000000194;Statistical office of Montenegro - MONSTAT;https://montenegro.travel/en/objects/statistical-office-of-montenegro-monstat;5.0;0.0;0.0;http://www.monstat.org;1;1.0;0.95;0.0;0.9553005240284815;0.044699475971518486
+000000194;Statistical office of Montenegro - MONSTAT;https://www.loc.gov/item/lcwaN0014056/;6.0;0.0;0.0;http://www.monstat.org;1;0.0;0.0;0.0;0.9569850029284516;0.04301499707154843
+000000194;Statistical office of Montenegro - MONSTAT;https://www.monstat.org/eng/;0.0;1.0;0.0;http://www.monstat.org;1;3.0;3.0;0.0;0.9576416782594945;0.042358321740505425
+000000194;Statistical office of Montenegro - MONSTAT;https://www.monstat.org/eng/pxweb.php;3.0;1.0;0.0;http://www.monstat.org;1;1.0;0.97;0.0;0.9566530298173299;0.04334697018267012
+000000195;Statistical Office;https://slovak.statistics.sk/wps/portal/ext/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziA809LZycDB0NLPyCXA08QxwD3IO8TAwNTEz1g1Pz9AuyHRUBtph-Sw!!/;5.0;0.0;0.0;;0;1.0;0.95;0.0;0.9794787212149416;0.02052127878505839
+000000195;Statistical Office;https://www.cso.ie/;7.0;0.0;1.0;;0;1.0;0.9299999999999999;0.0;0.9553005240284815;0.044699475971518486
+000000195;Statistical Office;https://www.destatis.de/EN/Home/_node.html;4.0;0.0;0.0;;0;1.0;0.96;0.0;0.9120494605687088;0.08795053943129114
+000000195;Statistical Office;https://www.gov.uk/government/organisations/office-for-national-statistics;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000195;Statistical Office;https://www.ons.gov.uk/;0.0;0.0;1.0;;0;1.0;1.0;0.0;0.8107784433033998;0.18922155669660026
+000000196;Statistical office of Montenegro - MONSTAT;https://montenegro.travel/en/objects/statistical-office-of-montenegro-monstat;5.0;0.0;0.0;;0;1.0;0.95;0.0;0.9563186116099341;0.043681388390065905
+000000196;Statistical office of Montenegro - MONSTAT;https://www.loc.gov/item/lcwaN0014056/;6.0;0.0;0.0;;0;0.0;0.0;0.0;0.9569850029284516;0.04301499707154843
+000000196;Statistical office of Montenegro - MONSTAT;https://www.monstat.org/eng/;0.0;0.0;0.0;;0;2.0;2.0;0.0;0.9794787212149416;0.02052127878505839
+000000196;Statistical office of Montenegro - MONSTAT;https://www.monstat.org/eng/pxweb.php;3.0;0.0;0.0;;0;0.0;0.0;0.0;0.8107784433033998;0.18922155669660026
+000000197;Czech Statistical Office;https://edirc.repec.org/data/stagvcz.html;5.0;0.0;0.0;https://www.czso.cz;1;2.0;1.9;0.0;0.9563186116099341;0.043681388390065905
+000000197;Czech Statistical Office;https://m.wikidata.org/wiki/Q3504917;6.0;0.0;0.0;https://www.czso.cz;1;1.0;0.94;0.0;0.9569850029284516;0.04301499707154843
+000000197;Czech Statistical Office;https://marketplace.officialstatistics.org/partner/czech_statistical_office;4.0;0.0;0.0;https://www.czso.cz;1;0.0;0.0;0.0;0.9576416782594945;0.042358321740505425
+000000197;Czech Statistical Office;https://volby.cz/index_en.htm;3.0;0.0;0.0;https://www.czso.cz;1;2.0;1.94;0.0;0.9566530298173299;0.04334697018267012
+000000197;Czech Statistical Office;https://www.czso.cz/csu/czso/home;0.0;1.0;0.0;https://www.czso.cz;1;6.0;6.0;0.0;0.9794787212149416;0.02052127878505839
+000000198;Czech Statistical Office;https://edirc.repec.org/data/stagvcz.html;5.0;0.0;0.0;;0;2.0;1.9;0.0;0.9553005240284815;0.044699475971518486
+000000198;Czech Statistical Office;https://m.wikidata.org/wiki/Q3504917;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9569850029284516;0.04301499707154843
+000000198;Czech Statistical Office;https://marketplace.officialstatistics.org/partner/czech_statistical_office;4.0;0.0;0.0;;0;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000198;Czech Statistical Office;https://volby.cz/index_en.htm;3.0;0.0;0.0;;0;2.0;1.94;0.0;0.905387225293026;0.09461277470697399
+000000198;Czech Statistical Office;https://www.czso.cz/csu/czso/home;0.0;0.0;0.0;;0;2.0;2.0;0.0;0.9794787212149416;0.02052127878505839
+000000199;Czech Statistical Office;https://edirc.repec.org/data/stagvcz.html;5.0;0.0;0.0;https://www.czso.cz;1;2.0;1.9;0.0;0.9120494605687088;0.08795053943129114
+000000199;Czech Statistical Office;https://m.wikidata.org/wiki/Q3504917;6.0;0.0;0.0;https://www.czso.cz;1;1.0;0.94;0.0;0.9573145470625423;0.042685452937457694
+000000199;Czech Statistical Office;https://marketplace.officialstatistics.org/partner/czech_statistical_office;4.0;0.0;0.0;https://www.czso.cz;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000199;Czech Statistical Office;https://volby.cz/index_en.htm;3.0;0.0;0.0;https://www.czso.cz;1;2.0;1.94;0.0;0.9094369894898552;0.0905630105101448
+000000199;Czech Statistical Office;https://www.czso.cz/csu/czso/home;0.0;1.0;0.0;https://www.czso.cz;1;4.0;4.0;1.0;0.2777989938694888;0.7222010061305112
+000000200;Czech Statistical Office;https://edirc.repec.org/data/stagvcz.html;5.0;0.0;0.0;https://www.czso.cz;1;1.0;0.95;0.0;0.9120494605687088;0.08795053943129114
+000000200;Czech Statistical Office;https://m.wikidata.org/wiki/Q3504917;6.0;0.0;0.0;https://www.czso.cz;1;1.0;0.94;0.0;0.9573145470625423;0.042685452937457694
+000000200;Czech Statistical Office;https://marketplace.officialstatistics.org/partner/czech_statistical_office;4.0;0.0;0.0;https://www.czso.cz;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000000200;Czech Statistical Office;https://volby.cz/index_en.htm;3.0;0.0;0.0;https://www.czso.cz;1;1.0;0.97;0.0;0.9094369894898552;0.0905630105101448
+000000200;Czech Statistical Office;https://www.czso.cz/csu/czso/home;0.0;1.0;0.0;https://www.czso.cz;1;3.0;3.0;0.0;0.905387225293026;0.09461277470697399
+000000201;Federal Statistical Office;https://knoema.com/atlas/sources/DESTATIS;6.0;0.0;0.0;https://www.bfs.admin.ch;1;1.0;0.94;0.0;0.9120494605687088;0.08795053943129114
+000000201;Federal Statistical Office;https://wn.com/Federal_Statistical_Office_Of_Germany;7.0;0.0;0.0;https://www.bfs.admin.ch;1;2.0;1.8599999999999999;0.0;0.9573145470625423;0.042685452937457694
+000000201;Federal Statistical Office;https://www.bfs.admin.ch/bfs/en/home.html;2.0;1.0;0.0;https://www.bfs.admin.ch;1;5.0;4.9;0.0;0.9794787212149416;0.02052127878505839
+000000201;Federal Statistical Office;https://www.destatis.de/EN/Home/_node.html;0.0;0.0;0.0;https://www.bfs.admin.ch;1;1.0;1.0;0.0;0.9094369894898552;0.0905630105101448
+000000201;Federal Statistical Office;https://ycharts.com/indicators/sources/federal_statistical_office_of_germany;9.0;0.0;0.0;https://www.bfs.admin.ch;1;1.0;0.91;0.0;0.6573669333754384;0.34263306662456167
+000000202;Federal Statistical Office;https://knoema.com/atlas/sources/DESTATIS;6.0;0.0;0.0;;0;1.0;0.94;0.0;0.9569850029284516;0.04301499707154843
+000000202;Federal Statistical Office;https://wn.com/Federal_Statistical_Office_Of_Germany;7.0;0.0;0.0;;0;2.0;1.8599999999999999;0.0;0.9573145470625423;0.042685452937457694
+000000202;Federal Statistical Office;https://www.bfs.admin.ch/bfs/en/home.html;2.0;0.0;0.0;;0;4.0;3.92;0.0;0.9794787212149416;0.02052127878505839
+000000202;Federal Statistical Office;https://www.destatis.de/EN/Home/_node.html;0.0;0.0;0.0;;0;1.0;1.0;0.0;0.9563186116099341;0.043681388390065905
+000000202;Federal Statistical Office;https://ycharts.com/indicators/sources/federal_statistical_office_of_germany;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.8107784433033998;0.18922155669660026
+000000203;Federal Statistical Office;https://knoema.com/atlas/sources/DESTATIS;6.0;0.0;0.0;https://www.bfs.admin.ch;1;1.0;0.94;0.0;0.9573145470625423;0.042685452937457694
+000000203;Federal Statistical Office;https://wn.com/Federal_Statistical_Office_Of_Germany;7.0;0.0;0.0;https://www.bfs.admin.ch;1;1.0;0.9299999999999999;0.0;0.914593647030856;0.08540635296914399
+000000203;Federal Statistical Office;https://www.bfs.admin.ch/bfs/en/home.html;2.0;1.0;0.0;https://www.bfs.admin.ch;1;3.0;2.94;1.0;0.4821170517821506;0.5178829482178494
+000000203;Federal Statistical Office;https://www.destatis.de/EN/Home/_node.html;0.0;0.0;0.0;https://www.bfs.admin.ch;1;1.0;1.0;0.0;0.9553005240284815;0.044699475971518486
+000000203;Federal Statistical Office;https://ycharts.com/indicators/sources/federal_statistical_office_of_germany;9.0;0.0;0.0;https://www.bfs.admin.ch;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000205;Statistics Sweden;https://www.socialstyrelsen.se/en/statistics-and-data/statistics/;9.0;0.0;0.0;https://www.scb.se;1;1.0;0.91;0.0;0.9573145470625423;0.042685452937457694
+000000205;Statistics Sweden;https://www.statista.com/topics/2406/sweden/;2.0;0.0;0.0;https://www.scb.se;1;1.0;0.98;0.0;0.914593647030856;0.08540635296914399
+000000206;Statistics Sweden;https://www.socialstyrelsen.se/en/statistics-and-data/statistics/;9.0;0.0;0.0;https://www.scb.se;1;1.0;0.91;0.0;0.6716951030058906;0.3283048969941094
+000000206;Statistics Sweden;https://www.statista.com/topics/2406/sweden/;2.0;0.0;0.0;https://www.scb.se;1;0.0;0.0;0.0;0.9553005240284815;0.044699475971518486
+000000207;Statistics Sweden;https://www.socialstyrelsen.se/en/statistics-and-data/statistics/;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000207;Statistics Sweden;https://www.statista.com/topics/2406/sweden/;2.0;0.0;0.0;;0;1.0;0.98;0.0;0.9573145470625423;0.042685452937457694
+000000208;Statistics Sweden;https://www.socialstyrelsen.se/en/statistics-and-data/statistics/;9.0;0.0;0.0;;0;1.0;0.91;0.0;0.9576416782594945;0.042358321740505425
+000000208;Statistics Sweden;https://www.statista.com/topics/2406/sweden/;2.0;0.0;0.0;;0;0.0;0.0;0.0;0.8180640422013871;0.18193595779861294
+000000209;Statistics Sweden;https://www.socialstyrelsen.se/en/statistics-and-data/statistics/;9.0;0.0;0.0;https://www.scb.se;1;1.0;0.91;0.0;0.9553005240284815;0.044699475971518486
+000000209;Statistics Sweden;https://www.statista.com/topics/2406/sweden/;2.0;0.0;0.0;https://www.scb.se;1;1.0;0.98;0.0;0.9582887656045738;0.04171123439542624
+000000210;Statistics Sweden;https://www.socialstyrelsen.se/en/statistics-and-data/statistics/;9.0;0.0;0.0;https://www.scb.se;1;1.0;0.91;0.0;0.9582887656045738;0.04171123439542624
+000000210;Statistics Sweden;https://www.statista.com/topics/2406/sweden/;2.0;0.0;0.0;https://www.scb.se;1;0.0;0.0;0.0;0.9559817321077185;0.04401826789228151
+000000211;Statistics Sweden;https://www.socialstyrelsen.se/en/statistics-and-data/statistics/;9.0;0.0;0.0;https://www.scb.se;1;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
+000000211;Statistics Sweden;https://www.statista.com/topics/2406/sweden/;2.0;0.0;0.0;https://www.scb.se;1;0.0;0.0;0.0;0.9794787212149416;0.02052127878505839
+000695146;National Statistical Institute;https://statinja.gov.jm/;8.0;0.0;1.0;https://www.nsi.bg;1;2.0;1.84;0.0;0.9582887656045738;0.04171123439542624
+000695146;National Statistical Institute;https://www.ine.es/en/index.htm;5.0;0.0;0.0;https://www.nsi.bg;1;0.0;0.0;0.0;0.9559817321077185;0.04401826789228151
+000695146;National Statistical Institute;https://www.niss.org/;1.0;0.0;1.0;https://www.nsi.bg;1;1.0;0.99;0.0;0.9582887656045738;0.04171123439542624
+000695146;National Statistical Institute;https://www.nsi.bg/en;0.0;1.0;1.0;https://www.nsi.bg;1;6.0;6.0;0.0;0.9794787212149416;0.02052127878505839
+000695146;National Statistical Institute;https://www.nsi.bg/en/content/11223/statistical-data;4.0;1.0;0.0;https://www.nsi.bg;1;5.0;4.8;0.0;0.9582887656045738;0.04171123439542624
+000695146;National Statistical Institute;https://www.nsi.bg/en/content/18255/публикация/statistical-yearbook-2019;3.0;1.0;0.0;https://www.nsi.bg;1;5.0;4.85;0.0;0.9559817321077185;0.04401826789228151
+000695146;National Statistical Institute;https://www.usa.gov/statistics;7.0;0.0;0.0;https://www.nsi.bg;1;0.0;0.0;0.0;0.9582887656045738;0.04171123439542624
