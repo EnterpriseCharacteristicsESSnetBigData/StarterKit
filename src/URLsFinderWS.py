@@ -215,7 +215,7 @@ class URLsFinderWS:
                 frame = frame.iloc[x::self.slices, :]
                 print('DataFrame columns: {0}'.format(list(frame.columns)))
                 dfns = self.black_list_urls(self.load_files(file='black_list'),
-                                            slice=x)			
+                                            slice=x)
                 dfnt = self.get_urls_to_scrape(dfns,
                                                timeout=timeout,
                                                sleep=sleep,
@@ -296,10 +296,10 @@ class URLsFinderWS:
             delimiter = self.csv_delimiter, 
             encoding = self.csv_encoding, 
             dtype = str)
-        dfns = dfns[
-            ~dfns['Suggested URL'].str.contains(
-                '|'.join(black_listurls['Black list URLs'].unique().tolist())
-            )
+        dfns = dfns.loc[
+            ~dfns['Suggested URL'].str.contains('{0}'.format(
+                ('|'.join(black_listurls['Black list URLs'].unique().tolist()).replace('.','\.'))
+            ))
         ]
         dfns['Suggested URL'] = dfns['Suggested URL'].apply(
             lambda x:unquote(x)
@@ -373,7 +373,7 @@ class URLsFinderWS:
                 except requests.RequestException:
                     dfe = self.df_append(df, row, dfe, 'Request exception')
                 except:
-                    dfe = self.df_append(dfns, row, dfe, 'General exception')				
+                    dfe = self.df_append(df, row, dfe, 'General exception')				
                 else:
                     if page.status_code == 200:
                         getmax = 10
@@ -388,7 +388,8 @@ class URLsFinderWS:
                             topurls = bs.findAll('a',
                                                  {'class': ['result__a']})
                             for topurl in topurls:
-                                geturl = re.search('uddg=(.+)', 
+# remove the strings DuckDuckGo adds around the URLs
+                                geturl = re.search('uddg=(.+)%2F', 
                                                    topurl.get('href'))
                                 vURL = 0
                                 try:
@@ -434,6 +435,9 @@ class URLsFinderWS:
                                             ignore_index=True
                                         )
                                 i = i + 1
+                    else:
+                        dfe = self.df_append(df, row, dfe, 
+                                  "Status code {0}".format(page.status_code))
                 finally:
                     time.sleep(sleep)
         if len(dfe) != 0:
@@ -521,6 +525,9 @@ class URLsFinderWS:
                                                dfne, url)
                             dfne = dft[0]
                             dfe = dft[1]
+                    else:
+                        dfe = self.df_append(dfns, row, dfe, 
+                                  "Status code {0}".format(page.status_code))
                 finally:
                     time.sleep(sleep)
         if len(dfe) != 0:
